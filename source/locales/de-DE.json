@@ -1,0 +1,32 @@
+{
+  "language_name": "Deutsch",
+  "language_label": "Sprache",
+  "navigation_label": "Hauptnavigation",
+  "skip_link": "Zum Inhalt",
+  "nav": ["Übersicht", "Support", "Datenschutz"],
+  "footer": "Offizielle Support- und Datenschutzinformationen zu Studydown.",
+  "contact": ["Kontakt", "Beschreibe, was passiert ist, und nenne Gerät sowie iOS-Version. Sende bitte keine privaten Fokusaufzeichnungen mit.", "Support kontaktieren"],
+  "home": ["Fokuszeit, übersichtlich festgehalten", "Studydown macht aus der Zeit mit dem iPhone-Display nach unten ein privates Aktivitätenprotokoll für Arbeit, Lernen und Alltag. Aktivität wählen, starten und das Display nach unten legen.", "Für alles, worauf du dich konzentrieren möchtest"],
+  "facts": [
+    ["Zeitmessung mit Display nach unten", "Die Zeit wird erfasst, solange das iPhone mit dem Display nach unten liegt. Zum Pausieren anheben und anschließend gemäß den Timer-Einstellungen fortfahren."],
+    ["Unbegrenzt kostenlose Sitzungen", "Zeichne beliebig viele Fokuszeiten auf, verwalte bis zu 3 Aktivitäten, sieh Heute und Diese Woche an und speichere eine einfache CSV-Datei."],
+    ["Lifetime Pro", "Ein einmaliger dauerhafter Kauf schaltet unbegrenzte Aktivitäten, Monats-, Jahres- und eigene Auswertungen, Wochenziele, Fristen, Apple Watch, Widgets, erweiterte Hero-Stile sowie vollständige JSON-Sicherung und -Wiederherstellung frei. Kein Abo."],
+    ["Von Grund auf privat", "Kein Konto, kein Entwickler-Server, keine Werbung, Analyse oder Nachverfolgung. Die App-Aufzeichnungen bleiben auf deinem Gerät."]
+  ],
+  "support": ["Support", "Klare Hilfe zur Zeitmessung mit Display nach unten, zu Zugängen, Kaufwiederherstellung und Dateien.", "Häufige Fragen"],
+  "faqs": [
+    ["Wie starte ich eine Fokuszeit?", "Wähle oder erstelle eine Aktivität, starte den Timer und lege das iPhone flach und ruhig mit dem Display nach unten hin. Studydown beginnt nach Erkennung dieser Lage mit der Aufzeichnung."],
+    ["Warum ist der Timer nicht gestartet?", "Achte darauf, dass das iPhone nahezu flach und ruhig liegt und Studydown aktiv ist. Ein steiler Winkel oder dauernde Bewegung kann die Erkennung verhindern."],
+    ["Wie stelle ich Lifetime Pro wieder her?", "Öffne den Lifetime-Pro-Bildschirm und wähle Käufe wiederherstellen, während du mit dem Apple Account des Kaufs angemeldet bist. Apple bestätigt den Zugriff."],
+    ["Was unterscheidet CSV und JSON?", "Eine einfache CSV-Datei für tabellarische Daten ist kostenlos. Lifetime Pro ergänzt eine vollständige JSON-Sicherung und -Wiederherstellung. Dateien werden nur auf deinen Wunsch erstellt und am gewählten Ort gespeichert."]
+  ],
+  "privacy": ["Datenschutzerklärung", "Die Studydown-App erhebt keine personenbezogenen Daten. Fokusaufzeichnungen werden auf deinem Gerät verarbeitet und gespeichert.", "Zuletzt aktualisiert"],
+  "privacy_sections": [
+    ["Daten auf deinem Gerät", "Aktivitätsnamen, Fokuszeiten, Übersichten, Wochenziele, Fristen und Einstellungen bleiben im lokalen App-Speicher. Studydown hat weder Konten noch einen Entwickler-Server."],
+    ["Bewegungsinformationen", "Studydown liest Ausrichtung und Bewegung nur, um ein nach unten gerichtetes iPhone zu erkennen. Rohe Sensordaten werden weder gespeichert noch gesendet oder dir zugeordnet."],
+    ["Käufe über Apple", "Beim Kauf oder Wiederherstellen von Lifetime Pro kommuniziert StoreKit mit Apple. Apple verarbeitet die Transaktion; Studydown erhält keine Zahlungsdaten."],
+    ["Von dir erstellte Dateien", "CSV- und JSON-Dateien entstehen nur auf deinen Wunsch. Du bestimmst Speicher- oder Freigabeort; anschließend gelten die Datenschutzregeln dieses Ziels."],
+    ["Nachrichten an den Support", "Wenn du uns schreibst, erhalten wir die von dir angegebene Adresse und Nachricht. Wir verwenden beides nur zur Beantwortung und weder für Werbung noch zum Verkauf."],
+    ["Diese Website", "Diese statische Website setzt keine Cookies und lädt keine Analyse, Werbung, Tracker oder Drittanbieter-Skripte. GitHub Pages hostet die Dateien und kann übliche Verbindungsdaten nach eigenen Datenschutzregeln verarbeiten."]
+  ]
+}

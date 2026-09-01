@@ -1,0 +1,32 @@
+{
+  "language_name": "Español (México)",
+  "language_label": "Idioma",
+  "navigation_label": "Navegación principal",
+  "skip_link": "Ir al contenido",
+  "nav": ["Información", "Soporte", "Privacidad"],
+  "footer": "Información oficial de soporte y privacidad de Studydown.",
+  "contact": ["Contacto", "Cuéntanos qué pasó e incluye el dispositivo y la versión de iOS. No envíes registros privados de concentración.", "Enviar correo a soporte"],
+  "home": ["Tu tiempo de concentración, bien registrado", "Studydown convierte el tiempo con el iPhone boca abajo en un registro privado de actividades para el trabajo, el aprendizaje y la vida diaria. Elige una actividad, inicia y coloca la pantalla hacia abajo.", "Un registro para todo lo que requiere concentración"],
+  "facts": [
+    ["Tiempo con la pantalla hacia abajo", "El tiempo se registra mientras el iPhone está boca abajo. Levántalo para pausar y sigue de acuerdo con la configuración del temporizador."],
+    ["Sesiones gratis sin límite", "Registra todas las sesiones que quieras, conserva hasta 3 actividades, consulta Hoy y Esta semana y guarda un CSV básico."],
+    ["Lifetime Pro", "Una sola compra permanente agrega actividades ilimitadas, análisis mensual, anual y personalizado, metas semanales, fechas límite, Apple Watch, widgets, estilos visuales avanzados y respaldo y restauración JSON completos. Sin suscripción."],
+    ["Privacidad desde el inicio", "No hay cuenta, servidor del desarrollador, publicidad, analítica ni rastreo. Los registros de la app se quedan en tu dispositivo."]
+  ],
+  "support": ["Soporte", "Ayuda clara para el temporizador boca abajo, las modalidades, la restauración de compras y tus archivos.", "Preguntas comunes"],
+  "faqs": [
+    ["¿Cómo empiezo una sesión?", "Elige o crea una actividad, inicia el temporizador y coloca el iPhone plano y quieto con la pantalla hacia abajo. Studydown comienza a registrar al detectar esa posición."],
+    ["¿Por qué no comenzó el temporizador?", "Asegúrate de que el iPhone esté casi plano, sin movimiento y que Studydown esté activo. Una inclinación fuerte o el movimiento continuo pueden impedir la detección."],
+    ["¿Cómo restauro Lifetime Pro?", "Abre la pantalla de Lifetime Pro y toca Restaurar compras con la cuenta de Apple que usaste para comprar. Apple confirmará el acceso."],
+    ["¿Cuál es la diferencia entre CSV y JSON?", "El CSV básico está incluido gratis para registros en tabla. Lifetime Pro agrega respaldo y restauración JSON completos. El archivo solo se crea cuando lo pides y se guarda en el lugar que elijas."]
+  ],
+  "privacy": ["Aviso de privacidad", "La app Studydown no recopila datos personales. Los registros de concentración se procesan y guardan en tu dispositivo.", "Última actualización"],
+  "privacy_sections": [
+    ["Datos guardados localmente", "Los nombres de actividades, las sesiones, los resúmenes, las metas semanales, las fechas límite y la configuración permanecen en el almacenamiento local. Studydown no usa cuentas ni un servidor del desarrollador."],
+    ["Información de movimiento", "Studydown lee la orientación y el movimiento solo para detectar que el iPhone está boca abajo. Las lecturas sin procesar no se guardan, transmiten ni relacionan contigo."],
+    ["Compras con Apple", "Al comprar o restaurar Lifetime Pro, StoreKit se comunica con Apple. Apple procesa la transacción; Studydown no recibe tus datos de pago."],
+    ["Archivos que creas", "Los archivos CSV y JSON solo se generan cuando los solicitas. Tú decides dónde guardarlos o compartirlos y después aplican las condiciones de privacidad del destino."],
+    ["Correos a soporte", "Si nos escribes, recibimos la dirección y el mensaje que decidas enviar. Solo los usamos para responder; no los vendemos ni los usamos para publicidad."],
+    ["Este sitio web", "Este sitio estático no coloca cookies ni carga analítica, anuncios, rastreadores o scripts de terceros. GitHub Pages aloja los archivos y puede procesar datos técnicos de conexión conforme a sus propias condiciones."]
+  ]
+}

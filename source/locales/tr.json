@@ -1,0 +1,32 @@
+{
+  "language_name": "Türkçe",
+  "language_label": "Dil",
+  "navigation_label": "Ana gezinme",
+  "skip_link": "İçeriğe geç",
+  "nav": ["Genel bakış", "Destek", "Gizlilik"],
+  "footer": "Studydown için resmî destek ve gizlilik bilgileri.",
+  "contact": ["İletişim", "Ne olduğunu anlatın; cihazınızı ve iOS sürümünü belirtin. Özel odak kayıtlarını eklemeyin.", "Desteğe e-posta gönder"],
+  "home": ["Odak süreniz, açıkça kaydedilir", "Studydown, iPhone ekranı aşağı bakarken geçen süreyi iş, öğrenme ve günlük yaşam için özel bir etkinlik günlüğüne dönüştürür. Bir Etkinlik seçin, başlatın ve ekranı aşağı koyun.", "Odaklanmak istediğiniz her şey için"],
+  "facts": [
+    ["Ekran aşağıdayken zamanlama", "iPhone ekranı aşağı bakarken süre kaydedilir. Duraklatmak için kaldırın, ardından sayaç ayarlarınıza göre devam edin."],
+    ["Sınırsız ücretsiz oturum", "Sınırsız odak oturumu kaydedin, en fazla 3 Etkinlik tutun, Bugün ve Bu Hafta özetlerini görün ve temel CSV kaydedin."],
+    ["Lifetime Pro", "Tek bir kalıcı satın alma; sınırsız Etkinlik, aylık, yıllık ve özel analiz, haftalık hedefler, son tarihler, Apple Watch, araç takımları, gelişmiş hero stilleri ve tam JSON yedekleme ile geri yüklemeyi açar. Abonelik yoktur."],
+    ["Tasarım gereği özel", "Hesap, geliştirici sunucusu, reklam, analiz veya izleme yoktur. Uygulama kayıtları cihazınızda kalır."]
+  ],
+  "support": ["Destek", "Ekran aşağı zamanlama, erişim, satın almayı geri yükleme ve dosyalarınız hakkında net yanıtlar.", "Sık sorulan sorular"],
+  "faqs": [
+    ["Bir odak oturumunu nasıl başlatırım?", "Bir Etkinlik seçin veya oluşturun, sayacı başlatın ve iPhone'u ekranı aşağı bakacak şekilde düz ve hareketsiz bırakın. Studydown bu konumu algıladığında kayda başlar."],
+    ["Sayaç neden başlamadı?", "iPhone'un neredeyse düz, hareketsiz ve Studydown'ın etkin olduğundan emin olun. Fazla eğim veya sürekli hareket algılamayı engelleyebilir."],
+    ["Lifetime Pro'yu nasıl geri yüklerim?", "Lifetime Pro ekranını açın ve satın almada kullanılan Apple Account ile Satın Almaları Geri Yükle'yi seçin. Erişimi Apple doğrular."],
+    ["CSV ile JSON arasındaki fark nedir?", "Tablo biçimindeki kayıtlar için temel CSV ücretsizdir. Lifetime Pro, tam JSON yedekleme ve geri yükleme ekler. Dosya yalnızca siz istediğinizde oluşturulur ve seçtiğiniz yere kaydedilir."]
+  ],
+  "privacy": ["Gizlilik Politikası", "Studydown uygulaması kişisel veri toplamaz. Odak kayıtları cihazınızda işlenir ve saklanır.", "Son güncelleme"],
+  "privacy_sections": [
+    ["Cihazınızdaki veriler", "Etkinlik adları, oturumlar, özetler, haftalık hedefler, son tarihler ve ayarlar uygulamanın yerel depolamasında kalır. Studydown'ın hesabı veya geliştirici sunucusu yoktur."],
+    ["Hareket bilgisi", "Studydown, iPhone'un ekranı aşağı bakacak şekilde durduğunu algılamak için yalnızca gerektiğinde yönü ve hareketi okur. Ham sensör verileri tutulmaz, gönderilmez veya sizinle ilişkilendirilmez."],
+    ["Apple üzerinden satın alma", "Lifetime Pro satın alınırken veya geri yüklenirken StoreKit, Apple ile iletişim kurar. İşlemi Apple yürütür; Studydown ödeme ayrıntılarınızı almaz."],
+    ["Oluşturduğunuz dosyalar", "CSV ve JSON dosyaları yalnızca isteğiniz üzerine oluşturulur. Kaydetme veya paylaşma hedefini siz seçersiniz; ardından hedefin gizlilik koşulları geçerli olur."],
+    ["Desteğe gönderilen mesajlar", "Bize e-posta gönderirseniz paylaşmayı seçtiğiniz adresi ve mesajı alırız. Bunları yalnızca yanıt vermek için kullanır, satmaz veya reklam için kullanmayız."],
+    ["Bu web sitesi", "Bu statik site çerez yerleştirmez; analiz, reklam, izleyici veya üçüncü taraf betiği yüklemez. Dosyaları GitHub Pages barındırır ve standart bağlantı bilgilerini kendi koşullarına göre işleyebilir."]
+  ]
+}

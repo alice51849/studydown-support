@@ -1,0 +1,32 @@
+{
+  "language_name": "Slovenščina",
+  "language_label": "Jezik",
+  "navigation_label": "Glavna navigacija",
+  "skip_link": "Preskoči na vsebino",
+  "nav": ["Pregled", "Podpora", "Zasebnost"],
+  "footer": "Uradne informacije o podpori in zasebnosti za Studydown.",
+  "contact": ["Stik", "Opišite, kaj se je zgodilo, ter navedite napravo in različico sistema iOS. Ne prilagajte zasebnih zapisov osredotočenosti.", "Pišite podpori"],
+  "home": ["Čas osredotočenosti, pregledno zabeležen", "Studydown spremeni čas z iPhonom, položenim z zaslonom navzdol, v zasebni dnevnik dejavnosti za delo, učenje in vsakdan. Izberite dejavnost, zaženite merjenje in položite zaslon navzdol.", "Za vse, kar zahteva vašo pozornost"],
+  "facts": [
+    ["Merjenje z zaslonom navzdol", "Čas se beleži, ko iPhone leži z zaslonom navzdol. Dvignite ga za premor in nadaljujte v skladu z nastavitvami časovnika."],
+    ["Neomejene brezplačne seje", "Zabeležite poljubno število sej, hranite do 3 dejavnosti, preglejte Danes in Ta teden ter shranite osnovni CSV."],
+    ["Lifetime Pro", "En trajni nakup odklene neomejene dejavnosti, mesečne, letne in prilagojene analize, tedenske cilje, roke, Apple Watch, pripomočke, napredne sloge glavnega prikaza ter popolno varnostno kopiranje in obnovitev JSON. Brez naročnine."],
+    ["Zasebno že po zasnovi", "Ni računa, strežnika razvijalca, oglasov, analitike ali sledenja. Zapisi aplikacije ostanejo v vaši napravi."]
+  ],
+  "support": ["Podpora", "Jasna pomoč za merjenje z zaslonom navzdol, dostop, obnovitev nakupa in vaše datoteke.", "Pogosta vprašanja"],
+  "faqs": [
+    ["Kako začnem sejo?", "Izberite ali ustvarite dejavnost, zaženite časovnik in položite iPhone ravno ter pri miru z zaslonom navzdol. Studydown začne beležiti, ko zazna ta položaj."],
+    ["Zakaj se časovnik ni zagnal?", "Preverite, ali je iPhone skoraj povsem raven, pri miru in ali je Studydown aktiven. Velik naklon ali stalno gibanje lahko prepreči zaznavanje."],
+    ["Kako obnovim Lifetime Pro?", "Odprite zaslon Lifetime Pro in izberite Obnovi nakupe z računom Apple Account, uporabljenim ob nakupu. Apple bo potrdil dostop."],
+    ["Kakšna je razlika med CSV in JSON?", "Osnovni CSV za tabelarične zapise je brezplačen. Lifetime Pro doda popolno varnostno kopiranje in obnovitev JSON. Datoteka nastane le na vašo zahtevo in se shrani na izbrano mesto."]
+  ],
+  "privacy": ["Pravilnik o zasebnosti", "Aplikacija Studydown ne zbira osebnih podatkov. Zapisi osredotočenosti se obdelujejo in hranijo v vaši napravi.", "Nazadnje posodobljeno"],
+  "privacy_sections": [
+    ["Podatki v napravi", "Imena dejavnosti, seje, povzetki, tedenski cilji, roki in nastavitve ostanejo v lokalni shrambi aplikacije. Studydown nima računa ali strežnika razvijalca."],
+    ["Podatki o gibanju", "Studydown bere usmerjenost in gibanje samo za zaznavanje iPhona z zaslonom navzdol. Neobdelani podatki senzorjev se ne shranjujejo, pošiljajo ali povezujejo z vami."],
+    ["Nakupi prek družbe Apple", "Ob nakupu ali obnovitvi Lifetime Pro StoreKit komunicira z družbo Apple. Apple obdela transakcijo; Studydown ne prejme vaših plačilnih podatkov."],
+    ["Datoteke, ki jih ustvarite", "Datoteke CSV in JSON nastanejo le na vašo zahtevo. Sami izberete mesto shranjevanja ali deljenja, nato pa veljajo pravila zasebnosti izbranega cilja."],
+    ["Sporočila podpori", "Če nam pošljete e-pošto, prejmemo naslov in sporočilo, ki ju izberete. Uporabimo ju le za odgovor in ju ne prodajamo ali uporabljamo za oglase."],
+    ["To spletno mesto", "To statično spletno mesto ne uporablja piškotkov in ne nalaga analitike, oglasov, sledilnikov ali skriptov tretjih oseb. GitHub Pages gosti datoteke in lahko po svojih pravilih obdela običajne tehnične podatke povezave."]
+  ]
+}

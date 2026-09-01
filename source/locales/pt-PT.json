@@ -1,0 +1,32 @@
+{
+  "language_name": "Português (Portugal)",
+  "language_label": "Idioma",
+  "navigation_label": "Navegação principal",
+  "skip_link": "Saltar para o conteúdo",
+  "nav": ["Visão geral", "Apoio", "Privacidade"],
+  "footer": "Informação oficial de apoio e privacidade do Studydown.",
+  "contact": ["Contacto", "Explique o que aconteceu e indique o dispositivo e a versão do iOS. Não inclua registos de concentração privados.", "Enviar e-mail ao apoio"],
+  "home": ["O seu tempo de concentração, bem registado", "O Studydown transforma o tempo com o iPhone virado para baixo num registo privado de atividades para trabalho, aprendizagem e vida quotidiana. Escolha uma atividade, inicie e coloque o ecrã para baixo.", "Concentração para qualquer parte do dia"],
+  "facts": [
+    ["Cronometragem com o ecrã para baixo", "O tempo é registado enquanto o iPhone está virado para baixo. Levante-o para pausar e continue de acordo com as definições do temporizador."],
+    ["Sessões gratuitas ilimitadas", "Registe todas as sessões que quiser, mantenha até 3 atividades, consulte Hoje e Esta semana e guarde um CSV básico."],
+    ["Lifetime Pro", "Uma única compra permanente desbloqueia atividades ilimitadas, análises mensais, anuais e personalizadas, objetivos semanais, prazos, Apple Watch, widgets, estilos visuais avançados e cópia e reposição JSON completas. Sem subscrição."],
+    ["Privado desde a origem", "Não existe conta, servidor do programador, publicidade, análise de utilização ou seguimento. Os registos da app ficam no seu dispositivo."]
+  ],
+  "support": ["Apoio", "Ajuda clara sobre a cronometragem com o ecrã para baixo, modalidades, reposição da compra e os seus ficheiros.", "Perguntas frequentes"],
+  "faqs": [
+    ["Como começo uma sessão?", "Escolha ou crie uma atividade, inicie o temporizador e deixe o iPhone plano e imóvel com o ecrã para baixo. O Studydown começa a registar quando deteta essa posição."],
+    ["Porque não começou o temporizador?", "Confirme que o iPhone está praticamente plano, imóvel e que o Studydown está ativo. Uma inclinação acentuada ou movimento contínuo pode impedir a deteção."],
+    ["Como reponho o Lifetime Pro?", "Abra o ecrã Lifetime Pro e escolha Restaurar compras com a Conta Apple utilizada na compra. A Apple confirmará o acesso."],
+    ["Qual é a diferença entre CSV e JSON?", "O CSV básico é gratuito para registos em tabela. O Lifetime Pro acrescenta cópia e reposição JSON completas. O ficheiro só é criado quando o pedir e fica no destino escolhido."]
+  ],
+  "privacy": ["Política de Privacidade", "A app Studydown não recolhe dados pessoais. Os registos de concentração são processados e guardados no seu dispositivo.", "Última atualização"],
+  "privacy_sections": [
+    ["Dados no seu dispositivo", "Os nomes das atividades, sessões, resumos, objetivos semanais, prazos e definições ficam no armazenamento local. O Studydown não tem conta nem servidor do programador."],
+    ["Informação de movimento", "O Studydown lê a orientação e o movimento apenas para detetar o iPhone virado para baixo. As leituras brutas dos sensores não são guardadas, enviadas ou associadas a si."],
+    ["Compras através da Apple", "Ao comprar ou restaurar o Lifetime Pro, o StoreKit comunica com a Apple. A Apple processa a transação; o Studydown não recebe os seus dados de pagamento."],
+    ["Ficheiros criados por si", "Os ficheiros CSV e JSON só são produzidos quando os pedir. Escolhe onde os guardar ou partilhar e, depois, aplicam-se as regras de privacidade desse destino."],
+    ["Mensagens para o apoio", "Se enviar um e-mail, recebemos o endereço e a mensagem que decidir partilhar. São usados apenas para responder e nunca são vendidos ou usados para publicidade."],
+    ["Este site", "Este site estático não usa cookies nem carrega análise, anúncios, rastreadores ou scripts de terceiros. O GitHub Pages aloja os ficheiros e pode tratar dados técnicos de ligação segundo os seus próprios termos."]
+  ]
+}

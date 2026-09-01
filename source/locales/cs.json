@@ -1,0 +1,32 @@
+{
+  "language_name": "Čeština",
+  "language_label": "Jazyk",
+  "navigation_label": "Hlavní navigace",
+  "skip_link": "Přejít k obsahu",
+  "nav": ["Přehled", "Podpora", "Soukromí"],
+  "footer": "Oficiální informace o podpoře a soukromí aplikace Studydown.",
+  "contact": ["Kontakt", "Popište, co se stalo, a uveďte zařízení a verzi iOS. Nepřikládejte soukromé záznamy soustředění.", "Napsat podpoře"],
+  "home": ["Čas soustředění přehledně zaznamenaný", "Studydown mění čas s iPhonem položeným displejem dolů na soukromý deník aktivit pro práci, učení i běžný život. Vyberte aktivitu, spusťte měření a položte displej dolů.", "Pro každou činnost, která vyžaduje soustředění"],
+  "facts": [
+    ["Měření s displejem dolů", "Čas se zaznamenává, dokud iPhone leží displejem dolů. Zvednutím měření pozastavíte a pokračujete podle nastavení časovače."],
+    ["Neomezené bezplatné relace", "Zaznamenávejte libovolný počet relací, mějte až 3 aktivity, prohlížejte Dnes a Tento týden a ukládejte základní CSV."],
+    ["Lifetime Pro", "Jediný trvalý nákup odemkne neomezené aktivity, měsíční, roční a vlastní analýzy, týdenní cíle, termíny, Apple Watch, widgety, pokročilé hero styly a úplnou zálohu i obnovení JSON. Bez předplatného."],
+    ["Soukromí od základu", "Žádný účet, server vývojáře, reklamy, analytika ani sledování. Záznamy aplikace zůstávají ve vašem zařízení."]
+  ],
+  "support": ["Podpora", "Srozumitelná pomoc s měřením displejem dolů, úrovněmi přístupu, obnovením nákupu a soubory.", "Časté dotazy"],
+  "faqs": [
+    ["Jak zahájím relaci?", "Vyberte nebo vytvořte aktivitu, spusťte časovač a položte iPhone rovně a nehybně displejem dolů. Studydown začne po rozpoznání této polohy zaznamenávat čas."],
+    ["Proč se časovač nespustil?", "Ověřte, že iPhone leží téměř rovně, nehýbe se a Studydown je aktivní. Výrazný náklon nebo trvalý pohyb může rozpoznání zabránit."],
+    ["Jak obnovím Lifetime Pro?", "Otevřete obrazovku Lifetime Pro a zvolte Obnovit nákupy s Apple Accountem použitým při nákupu. Apple přístup ověří."],
+    ["Jaký je rozdíl mezi CSV a JSON?", "Základní CSV pro tabulkové záznamy je zdarma. Lifetime Pro přidává úplnou zálohu a obnovení JSON. Soubor vznikne jen na vaši žádost a uloží se na zvolené místo."]
+  ],
+  "privacy": ["Zásady ochrany soukromí", "Aplikace Studydown neshromažďuje osobní údaje. Záznamy soustředění se zpracovávají a ukládají ve vašem zařízení.", "Poslední aktualizace"],
+  "privacy_sections": [
+    ["Data ve vašem zařízení", "Názvy aktivit, relace, souhrny, týdenní cíle, termíny a nastavení zůstávají v místním úložišti aplikace. Studydown nemá účet ani server vývojáře."],
+    ["Informace o pohybu", "Studydown čte orientaci a pohyb jen kvůli rozpoznání iPhonu položeného displejem dolů. Nezpracované hodnoty senzorů se neukládají, neodesílají ani nespojují s vámi."],
+    ["Nákupy přes Apple", "Při nákupu nebo obnovení Lifetime Pro komunikuje StoreKit se společností Apple. Apple zpracuje transakci; Studydown nedostává platební údaje."],
+    ["Vámi vytvořené soubory", "Soubory CSV a JSON vznikají jen na vaši žádost. Sami zvolíte, kam je uložíte nebo nasdílíte, a poté platí pravidla soukromí daného cíle."],
+    ["Zprávy podpoře", "Pokud nám napíšete, obdržíme adresu a zprávu, které se rozhodnete poslat. Použijeme je jen k odpovědi a neprodáváme je ani nevyužíváme k reklamě."],
+    ["Tento web", "Tento statický web nepoužívá soubory cookie a nenačítá analytiku, reklamy, sledovací prvky ani skripty třetích stran. GitHub Pages web hostuje a může podle vlastních pravidel zpracovat běžná technická data připojení."]
+  ]
+}

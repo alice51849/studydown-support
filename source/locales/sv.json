@@ -1,0 +1,32 @@
+{
+  "language_name": "Svenska",
+  "language_label": "Språk",
+  "navigation_label": "Huvudnavigering",
+  "skip_link": "Gå till innehållet",
+  "nav": ["Översikt", "Support", "Integritet"],
+  "footer": "Officiell support- och integritetsinformation för Studydown.",
+  "contact": ["Kontakt", "Beskriv vad som hände och ange enhet och iOS-version. Ta inte med privata fokusanteckningar.", "Mejla supporten"],
+  "home": ["Fokustid, tydligt registrerad", "Studydown gör tiden med iPhone liggande med skärmen nedåt till en privat aktivitetslogg för arbete, lärande och vardag. Välj en aktivitet, starta och lägg skärmen nedåt.", "För allt som behöver din odelade uppmärksamhet"],
+  "facts": [
+    ["Tid med skärmen nedåt", "Tiden registreras medan iPhone ligger med skärmen nedåt. Lyft den för att pausa och fortsätt enligt dina timerinställningar."],
+    ["Obegränsade kostnadsfria pass", "Registrera hur många fokuspass du vill, behåll upp till 3 aktiviteter, se I dag och Den här veckan och spara en enkel CSV-fil."],
+    ["Lifetime Pro", "Ett permanent köp låser upp obegränsade aktiviteter, månads-, års- och anpassade analyser, veckomål, tidsgränser, Apple Watch, widgetar, avancerade hero-stilar samt fullständig JSON-säkerhetskopiering och återställning. Ingen prenumeration."],
+    ["Privat från grunden", "Inget konto, ingen utvecklarserver, reklam, analys eller spårning. Appens registreringar stannar på din enhet."]
+  ],
+  "support": ["Support", "Tydlig hjälp med tidtagning med skärmen nedåt, åtkomst, återställning av köp och dina filer.", "Vanliga frågor"],
+  "faqs": [
+    ["Hur startar jag ett pass?", "Välj eller skapa en aktivitet, starta timern och lägg iPhone plant och stilla med skärmen nedåt. Studydown börjar registrera när läget har upptäckts."],
+    ["Varför startade inte timern?", "Kontrollera att iPhone ligger nästan plant och stilla och att Studydown är aktivt. En brant vinkel eller fortsatt rörelse kan hindra upptäckten."],
+    ["Hur återställer jag Lifetime Pro?", "Öppna Lifetime Pro-skärmen och välj Återställ köp när du är inloggad med det Apple Account som användes vid köpet. Apple bekräftar åtkomsten."],
+    ["Vad är skillnaden mellan CSV och JSON?", "En enkel CSV-fil för tabelldata ingår kostnadsfritt. Lifetime Pro lägger till fullständig JSON-säkerhetskopiering och återställning. Filer skapas bara på din begäran och sparas där du väljer."]
+  ],
+  "privacy": ["Integritetspolicy", "Studydown-appen samlar inte in personuppgifter. Fokusregistreringar behandlas och lagras på din enhet.", "Senast uppdaterad"],
+  "privacy_sections": [
+    ["Data på din enhet", "Aktivitetsnamn, pass, sammanställningar, veckomål, tidsgränser och inställningar stannar i appens lokala lagring. Studydown har inget konto eller någon utvecklarserver."],
+    ["Rörelseinformation", "Studydown läser riktning och rörelse enbart för att upptäcka att iPhone ligger med skärmen nedåt. Råa sensorvärden sparas eller skickas inte och kopplas inte till dig."],
+    ["Köp via Apple", "När du köper eller återställer Lifetime Pro kommunicerar StoreKit med Apple. Apple hanterar transaktionen; Studydown tar inte emot dina betalningsuppgifter."],
+    ["Filer du skapar", "CSV- och JSON-filer skapas bara när du begär det. Du väljer var de sparas eller delas, och därefter gäller destinationens egna integritetsvillkor."],
+    ["Meddelanden till supporten", "Om du mejlar oss får vi den adress och det meddelande du väljer att skicka. De används bara för att svara och säljs eller används inte för reklam."],
+    ["Den här webbplatsen", "Den här statiska webbplatsen använder inga kakor och läser inte in analys, annonser, spårare eller tredjepartsskript. GitHub Pages är värd och kan behandla vanlig anslutningsinformation enligt sina villkor."]
+  ]
+}

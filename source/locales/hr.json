@@ -1,0 +1,32 @@
+{
+  "language_name": "Hrvatski",
+  "language_label": "Jezik",
+  "navigation_label": "Glavna navigacija",
+  "skip_link": "Prijeđi na sadržaj",
+  "nav": ["Pregled", "Podrška", "Privatnost"],
+  "footer": "Službene informacije o podršci i privatnosti za Studydown.",
+  "contact": ["Kontakt", "Opišite što se dogodilo te navedite uređaj i verziju sustava iOS. Nemojte slati privatne zapise fokusa.", "Pošaljite poruku podršci"],
+  "home": ["Vrijeme fokusa, jasno zabilježeno", "Studydown pretvara vrijeme s iPhoneom položenim zaslonom prema dolje u privatni dnevnik aktivnosti za posao, učenje i svakodnevni život. Odaberite aktivnost, pokrenite i položite zaslon prema dolje.", "Za svaku aktivnost koja traži fokus"],
+  "facts": [
+    ["Mjerenje sa zaslonom prema dolje", "Vrijeme se bilježi dok iPhone leži zaslonom prema dolje. Podignite ga za pauzu i nastavite prema postavkama mjerača vremena."],
+    ["Neograničene besplatne sesije", "Bilježite neograničen broj sesija, čuvajte do 3 aktivnosti, pregledajte Danas i Ovaj tjedan te spremite osnovni CSV."],
+    ["Lifetime Pro", "Jedna trajna kupnja otključava neograničene aktivnosti, mjesečne, godišnje i prilagođene analize, tjedne ciljeve, rokove, Apple Watch, widgete, napredne stilove glavnog prikaza te potpunu JSON sigurnosnu kopiju i vraćanje. Bez pretplate."],
+    ["Privatno od samog početka", "Nema računa, poslužitelja razvojnog programera, oglasa, analitike ni praćenja. Zapisi aplikacije ostaju na vašem uređaju."]
+  ],
+  "support": ["Podrška", "Jasna pomoć za mjerenje sa zaslonom prema dolje, pristup, vraćanje kupnje i vaše datoteke.", "Česta pitanja"],
+  "faqs": [
+    ["Kako pokrenuti sesiju?", "Odaberite ili izradite aktivnost, pokrenite mjerač vremena i položite iPhone ravno i mirno zaslonom prema dolje. Studydown počinje bilježiti nakon prepoznavanja položaja."],
+    ["Zašto se mjerač vremena nije pokrenuo?", "Provjerite je li iPhone gotovo ravan, miran i je li Studydown aktivan. Velik nagib ili stalno kretanje mogu spriječiti prepoznavanje."],
+    ["Kako vratiti Lifetime Pro?", "Otvorite zaslon Lifetime Pro i odaberite Vrati kupnje dok ste prijavljeni na Apple Account korišten pri kupnji. Apple će potvrditi pristup."],
+    ["Koja je razlika između CSV-a i JSON-a?", "Osnovni CSV za tablične zapise dostupan je besplatno. Lifetime Pro dodaje potpunu JSON sigurnosnu kopiju i vraćanje. Datoteka nastaje samo na vaš zahtjev i sprema se na mjesto koje odaberete."]
+  ],
+  "privacy": ["Pravila privatnosti", "Aplikacija Studydown ne prikuplja osobne podatke. Zapisi fokusa obrađuju se i spremaju na vašem uređaju.", "Posljednje ažuriranje"],
+  "privacy_sections": [
+    ["Podaci na uređaju", "Nazivi aktivnosti, sesije, sažeci, tjedni ciljevi, rokovi i postavke ostaju u lokalnoj pohrani aplikacije. Studydown nema račun ni poslužitelj razvojnog programera."],
+    ["Podaci o kretanju", "Studydown čita usmjerenje i kretanje samo radi prepoznavanja iPhonea sa zaslonom prema dolje. Neobrađeni podaci senzora ne spremaju se, ne šalju niti povezuju s vama."],
+    ["Kupnje putem Applea", "Pri kupnji ili vraćanju Lifetime Pro, StoreKit komunicira s Appleom. Apple obrađuje transakciju; Studydown ne prima vaše podatke o plaćanju."],
+    ["Datoteke koje izradite", "CSV i JSON datoteke stvaraju se samo na vaš zahtjev. Vi birate gdje ćete ih spremiti ili podijeliti, nakon čega vrijede pravila privatnosti odredišta."],
+    ["Poruke podršci", "Ako nam pošaljete e-poruku, primamo adresu i poruku koje odlučite poslati. Koristimo ih samo za odgovor te ih ne prodajemo niti upotrebljavamo za oglase."],
+    ["Ovo web-mjesto", "Ovo statično web-mjesto ne postavlja kolačiće i ne učitava analitiku, oglase, alate za praćenje ni skripte trećih strana. GitHub Pages smješta datoteke i može prema vlastitim pravilima obraditi uobičajene tehničke podatke veze."]
+  ]
+}

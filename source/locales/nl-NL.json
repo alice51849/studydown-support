@@ -1,0 +1,32 @@
+{
+  "language_name": "Nederlands",
+  "language_label": "Taal",
+  "navigation_label": "Hoofdnavigatie",
+  "skip_link": "Naar de inhoud",
+  "nav": ["Overzicht", "Ondersteuning", "Privacy"],
+  "footer": "Officiële ondersteunings- en privacy-informatie voor Studydown.",
+  "contact": ["Contact", "Beschrijf wat er gebeurde en vermeld je apparaat en iOS-versie. Voeg geen persoonlijke focusregistraties toe.", "Mail de ondersteuning"],
+  "home": ["Focustijd, helder vastgelegd", "Studydown maakt van de tijd met je iPhone omgekeerd op tafel een privélogboek voor activiteiten rond werk, leren en het dagelijks leven. Kies een activiteit, start en leg het scherm omlaag.", "Voor elk moment waarop je wilt focussen"],
+  "facts": [
+    ["Tijdmeting met scherm omlaag", "De tijd wordt geregistreerd zolang de iPhone met het scherm omlaag ligt. Til hem op om te pauzeren en ga verder volgens je timerinstellingen."],
+    ["Onbeperkt gratis sessies", "Registreer onbeperkt focussessies, bewaar maximaal 3 activiteiten, bekijk Vandaag en Deze week en sla een eenvoudig CSV-bestand op."],
+    ["Lifetime Pro", "Eén blijvende aankoop ontgrendelt onbeperkte activiteiten, maand-, jaar- en aangepaste analyses, weekdoelen, deadlines, Apple Watch, widgets, geavanceerde hero-stijlen en volledige JSON-reservekopie en herstel. Geen abonnement."],
+    ["Privacy als uitgangspunt", "Geen account, ontwikkelaarsserver, advertenties, analyse of tracking. Je appregistraties blijven op je apparaat."]
+  ],
+  "support": ["Ondersteuning", "Duidelijke hulp bij tijdmeting met het scherm omlaag, toegang, aankopen herstellen en je bestanden.", "Veelgestelde vragen"],
+  "faqs": [
+    ["Hoe start ik een sessie?", "Kies of maak een activiteit, start de timer en leg de iPhone vlak en stil met het scherm omlaag. Studydown begint met registreren zodra die positie is herkend."],
+    ["Waarom begon de timer niet?", "Controleer of de iPhone vrijwel vlak en stil ligt en Studydown actief is. Een sterke helling of voortdurende beweging kan herkenning verhinderen."],
+    ["Hoe herstel ik Lifetime Pro?", "Open het Lifetime Pro-scherm en kies Herstel aankopen terwijl je bent ingelogd met de Apple Account waarmee je kocht. Apple bevestigt je toegang."],
+    ["Wat is het verschil tussen CSV en JSON?", "Een eenvoudig CSV-bestand voor tabelgegevens is gratis. Lifetime Pro voegt volledige JSON-reservekopie en herstel toe. Een bestand wordt alleen op jouw verzoek gemaakt en opgeslagen waar jij kiest."]
+  ],
+  "privacy": ["Privacybeleid", "De Studydown-app verzamelt geen persoonsgegevens. Focusregistraties worden op je apparaat verwerkt en bewaard.", "Laatst bijgewerkt"],
+  "privacy_sections": [
+    ["Gegevens op je apparaat", "Namen van activiteiten, sessies, overzichten, weekdoelen, deadlines en instellingen blijven in de lokale appopslag. Studydown heeft geen account of ontwikkelaarsserver."],
+    ["Bewegingsinformatie", "Studydown leest stand en beweging alleen om te herkennen dat de iPhone met het scherm omlaag ligt. Ruwe sensormetingen worden niet bewaard, verzonden of aan jou gekoppeld."],
+    ["Aankopen via Apple", "Bij aankoop of herstel van Lifetime Pro communiceert StoreKit met Apple. Apple verwerkt de transactie; Studydown ontvangt je betaalgegevens niet."],
+    ["Bestanden die je maakt", "CSV- en JSON-bestanden worden alleen op jouw verzoek gemaakt. Jij kiest waar je ze bewaart of deelt; daarna gelden de privacyvoorwaarden van die bestemming."],
+    ["Berichten aan ondersteuning", "Als je ons mailt, ontvangen we het adres en bericht dat je zelf verstuurt. We gebruiken die alleen om te antwoorden en nooit voor advertenties of verkoop."],
+    ["Deze website", "Deze statische site plaatst geen cookies en laadt geen analyse, advertenties, trackers of scripts van derden. GitHub Pages host de bestanden en kan gewone verbindingsgegevens volgens eigen voorwaarden verwerken."]
+  ]
+}

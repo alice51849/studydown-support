@@ -1,0 +1,32 @@
+{
+  "language_name": "Română",
+  "language_label": "Limbă",
+  "navigation_label": "Navigare principală",
+  "skip_link": "Sari la conținut",
+  "nav": ["Prezentare", "Asistență", "Confidențialitate"],
+  "footer": "Informații oficiale de asistență și confidențialitate pentru Studydown.",
+  "contact": ["Contact", "Descrie ce s-a întâmplat și menționează dispozitivul și versiunea iOS. Nu include în mesaj înregistrări personale de concentrare.", "Trimite e-mail"],
+  "home": ["Timpul de concentrare, înregistrat clar", "Studydown transformă timpul cu iPhone-ul așezat cu ecranul în jos într-un jurnal privat de activități pentru muncă, învățare și viața de zi cu zi. Alege o activitate, pornește și așază ecranul în jos.", "Pentru orice activitate care cere concentrare"],
+  "facts": [
+    ["Cronometrare cu ecranul în jos", "Timpul este înregistrat cât timp iPhone-ul stă cu ecranul în jos. Ridică-l pentru pauză, apoi continuă conform setărilor cronometrului."],
+    ["Sesiuni gratuite nelimitate", "Înregistrează oricâte sesiuni dorești, păstrează până la 3 activități, consultă Azi și Săptămâna aceasta și salvează un CSV de bază."],
+    ["Lifetime Pro", "O singură achiziție permanentă deblochează activități nelimitate, analize lunare, anuale și personalizate, obiective săptămânale, termene-limită, Apple Watch, widgeturi, stiluri vizuale avansate și copie de siguranță și restaurare JSON complete. Fără abonament."],
+    ["Confidențial din proiectare", "Nu există cont, server al dezvoltatorului, publicitate, analiză sau urmărire. Înregistrările aplicației rămân pe dispozitiv."]
+  ],
+  "support": ["Asistență", "Răspunsuri clare despre cronometrarea cu ecranul în jos, acces, restaurarea achiziției și fișierele tale.", "Întrebări frecvente"],
+  "faqs": [
+    ["Cum încep o sesiune?", "Alege sau creează o activitate, pornește cronometrul și lasă iPhone-ul întins și nemișcat, cu ecranul în jos. Studydown începe înregistrarea după detectarea poziției."],
+    ["De ce nu a pornit cronometrul?", "Asigură-te că iPhone-ul este aproape orizontal, nemișcat și că Studydown este activ. O înclinare mare sau mișcarea continuă pot împiedica detectarea."],
+    ["Cum restaurez Lifetime Pro?", "Deschide ecranul Lifetime Pro și alege Restaurează achizițiile folosind Contul Apple cu care ai cumpărat. Apple va confirma accesul."],
+    ["Care este diferența dintre CSV și JSON?", "CSV-ul de bază este gratuit pentru înregistrări tabelare. Lifetime Pro adaugă copie de siguranță și restaurare JSON complete. Fișierul este creat numai la cererea ta și salvat unde alegi."]
+  ],
+  "privacy": ["Politica de confidențialitate", "Aplicația Studydown nu colectează date cu caracter personal. Înregistrările de concentrare sunt prelucrate și stocate pe dispozitiv.", "Ultima actualizare"],
+  "privacy_sections": [
+    ["Date pe dispozitiv", "Numele activităților, sesiunile, rezumatele, obiectivele săptămânale, termenele-limită și setările rămân în stocarea locală. Studydown nu are conturi și nici server al dezvoltatorului."],
+    ["Informații despre mișcare", "Studydown citește orientarea și mișcarea doar pentru a detecta iPhone-ul cu ecranul în jos. Valorile brute ale senzorilor nu sunt păstrate, trimise sau asociate cu tine."],
+    ["Achiziții Apple", "Când cumperi sau restaurezi Lifetime Pro, StoreKit comunică cu Apple. Apple procesează tranzacția; Studydown nu primește datele tale de plată."],
+    ["Fișiere create de tine", "Fișierele CSV și JSON sunt produse numai când le soliciți. Tu alegi unde le salvezi sau distribui, iar apoi se aplică regulile de confidențialitate ale destinației."],
+    ["Mesaje către asistență", "Dacă ne trimiți un e-mail, primim adresa și mesajul pe care alegi să le furnizezi. Le folosim doar pentru răspuns și nu le vindem ori folosim pentru publicitate."],
+    ["Acest site", "Acest site static nu setează module cookie și nu încarcă analiză, reclame, instrumente de urmărire sau scripturi terțe. GitHub Pages găzduiește fișierele și poate prelucra date tehnice standard de conectare conform propriilor condiții."]
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "language_name": "Polski",
+  "language_label": "Język",
+  "navigation_label": "Główna nawigacja",
+  "skip_link": "Przejdź do treści",
+  "nav": ["Przegląd", "Pomoc", "Prywatność"],
+  "footer": "Oficjalne informacje o pomocy i prywatności w Studydown.",
+  "contact": ["Kontakt", "Opisz, co się stało, oraz podaj model urządzenia i wersję iOS. Nie dołączaj prywatnych zapisów skupienia.", "Napisz do pomocy"],
+  "home": ["Czas skupienia zapisany przejrzyście", "Studydown zmienia czas z iPhonem odłożonym ekranem w dół w prywatny dziennik aktywności do pracy, nauki i codziennych zajęć. Wybierz aktywność, uruchom pomiar i odłóż ekranem w dół.", "Do wszystkiego, co wymaga pełnej uwagi"],
+  "facts": [
+    ["Pomiar ekranem w dół", "Czas jest zapisywany, gdy iPhone leży ekranem w dół. Podnieś go, aby wstrzymać, a potem kontynuuj zgodnie z ustawieniami minutnika."],
+    ["Bezpłatne sesje bez limitu", "Zapisuj dowolną liczbę sesji, przechowuj do 3 aktywności, przeglądaj Dzisiaj i Ten tydzień oraz zapisuj podstawowy plik CSV."],
+    ["Lifetime Pro", "Jeden trwały zakup odblokowuje nielimitowane aktywności, analizy miesięczne, roczne i własne, cele tygodniowe, terminy, Apple Watch, widżety, zaawansowane style hero oraz pełną kopię i przywracanie JSON. Bez subskrypcji."],
+    ["Prywatność od podstaw", "Bez konta, serwera dewelopera, reklam, analityki i śledzenia. Zapisy aplikacji pozostają na urządzeniu."]
+  ],
+  "support": ["Pomoc", "Jasne wskazówki dotyczące pomiaru ekranem w dół, dostępu, przywracania zakupu i plików.", "Częste pytania"],
+  "faqs": [
+    ["Jak rozpocząć sesję?", "Wybierz lub utwórz aktywność, uruchom minutnik i połóż iPhone’a płasko, nieruchomo, ekranem w dół. Studydown zacznie zapisywać po rozpoznaniu tej pozycji."],
+    ["Dlaczego minutnik się nie uruchomił?", "Sprawdź, czy iPhone leży prawie poziomo i nieruchomo, a Studydown jest aktywny. Duże nachylenie lub ciągły ruch mogą uniemożliwić rozpoznanie."],
+    ["Jak przywrócić Lifetime Pro?", "Otwórz ekran Lifetime Pro i wybierz Przywróć zakupy, używając Apple Account wykorzystanego do zakupu. Apple potwierdzi dostęp."],
+    ["Czym różnią się CSV i JSON?", "Podstawowy plik CSV do danych tabelarycznych jest bezpłatny. Lifetime Pro dodaje pełną kopię i przywracanie JSON. Plik powstaje tylko na Twoje żądanie i trafia do wybranego miejsca."]
+  ],
+  "privacy": ["Polityka prywatności", "Aplikacja Studydown nie zbiera danych osobowych. Zapisy skupienia są przetwarzane i przechowywane na Twoim urządzeniu.", "Ostatnia aktualizacja"],
+  "privacy_sections": [
+    ["Dane na urządzeniu", "Nazwy aktywności, sesje, podsumowania, cele tygodniowe, terminy i ustawienia pozostają w lokalnej pamięci aplikacji. Studydown nie ma kont ani serwera dewelopera."],
+    ["Informacje o ruchu", "Studydown odczytuje orientację i ruch tylko po to, by rozpoznać iPhone’a odłożonego ekranem w dół. Surowe dane czujników nie są zapisywane, wysyłane ani łączone z Tobą."],
+    ["Zakupy przez Apple", "Podczas zakupu lub przywracania Lifetime Pro StoreKit łączy się z Apple. Apple obsługuje transakcję; Studydown nie otrzymuje danych płatniczych."],
+    ["Pliki tworzone przez Ciebie", "Pliki CSV i JSON są tworzone wyłącznie na Twoje żądanie. Wybierasz miejsce zapisu lub udostępnienia, a potem obowiązują zasady prywatności tego miejsca."],
+    ["Wiadomości do pomocy", "Jeśli napiszesz do nas e-mail, otrzymamy adres i treść, które zdecydujesz się wysłać. Używamy ich tylko do odpowiedzi, nie sprzedajemy ani nie wykorzystujemy do reklam."],
+    ["Ta witryna", "Ta statyczna witryna nie używa plików cookie i nie ładuje analityki, reklam, elementów śledzących ani skryptów firm trzecich. GitHub Pages hostuje pliki i może przetwarzać standardowe dane techniczne połączenia według własnych zasad."]
+  ]
+}

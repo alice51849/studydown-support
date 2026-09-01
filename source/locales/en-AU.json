@@ -1,0 +1,32 @@
+{
+  "language_name": "English (Australia)",
+  "language_label": "Language",
+  "navigation_label": "Main navigation",
+  "skip_link": "Skip to content",
+  "nav": ["Overview", "Support", "Privacy"],
+  "footer": "Official Studydown support and privacy information.",
+  "contact": ["Contact", "Let us know what happened, along with your device and iOS version. Please leave private focus records out of the email.", "Email support"],
+  "home": ["A clear record of focused time", "Studydown turns time with your iPhone face down into a private Activity ledger for work, learning and everyday life. Choose an Activity, start, then place the screen down.", "Focus that fits your day"],
+  "facts": [
+    ["Face-down timing", "Studydown records time while the iPhone lies face down. Pick it up to pause, then continue according to your timer settings."],
+    ["Unlimited free sessions", "Record as many focus sessions as you like, keep up to 3 Activities, review Today and This Week, and save a basic CSV file."],
+    ["Lifetime Pro", "One lifetime purchase unlocks unlimited Activities, monthly, yearly and custom analysis, weekly goals, Deadlines, Apple Watch, Widgets, advanced hero styles, and complete JSON backup and restore. There is no subscription."],
+    ["Private on your device", "No account, developer server, advertising, analytics or tracking is involved. Your app records remain on your device."]
+  ],
+  "support": ["Support", "Practical help with face-down timing, access levels, restoring a purchase and looking after your files.", "Frequently asked questions"],
+  "faqs": [
+    ["How do I begin?", "Choose or create an Activity, start the timer, then place the iPhone flat and still with the screen facing down. Recording begins once Studydown detects that position."],
+    ["Why did timing not begin?", "Check that the iPhone is close to flat, is not moving and Studydown is active. A steep angle or continued movement can stop face-down detection."],
+    ["How do I restore Lifetime Pro?", "Open the Lifetime Pro screen and select Restore Purchases while using the Apple Account that made the purchase. Apple confirms your access."],
+    ["What is the difference between CSV and JSON?", "A basic CSV file is included free for spreadsheet-style records. Lifetime Pro adds complete JSON backup and restore. Files are made only when you ask and saved wherever you choose."]
+  ],
+  "privacy": ["Privacy Policy", "The Studydown app does not collect personal data. Your focus records are handled and stored on your device.", "Last updated"],
+  "privacy_sections": [
+    ["Information kept locally", "Activity names, focus sessions, summaries, weekly goals, Deadlines and settings remain in local app storage. Studydown has no account or developer server."],
+    ["Motion information", "Studydown reads orientation and movement only when needed to recognise that the iPhone is face down. Raw sensor readings are not retained, sent or linked to you."],
+    ["Purchases through Apple", "Buying or restoring Lifetime Pro makes StoreKit communicate with Apple. Apple handles the transaction, and Studydown never receives your payment details."],
+    ["Files you make", "CSV and JSON files are created only at your request. You decide where to save or share them; the chosen destination then applies its own privacy terms."],
+    ["Emailing support", "If you email us, we receive the address and message you choose to provide. They are used only to respond and are not sold or used for advertising."],
+    ["This website", "This static site uses no cookies and loads no analytics, ads, trackers or third-party scripts. GitHub Pages hosts the files and may process ordinary connection information under its own privacy terms."]
+  ]
+}

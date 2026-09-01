@@ -1,0 +1,32 @@
+{
+  "language_name": "Français (France)",
+  "language_label": "Langue",
+  "navigation_label": "Navigation principale",
+  "skip_link": "Aller au contenu",
+  "nav": ["Présentation", "Assistance", "Confidentialité"],
+  "footer": "Informations officielles d’assistance et de confidentialité de Studydown.",
+  "contact": ["Nous contacter", "Décrivez le problème en indiquant votre appareil et votre version d’iOS. N’envoyez pas vos relevés de concentration personnels.", "Écrire à l’assistance"],
+  "home": ["Votre temps de concentration, clairement consigné", "Studydown transforme le temps passé avec l’iPhone face contre table en journal privé d’activités pour le travail, l’apprentissage et le quotidien. Choisissez une activité, démarrez, puis posez l’écran vers le bas.", "Pour toutes vos activités qui demandent de la concentration"],
+  "facts": [
+    ["Chronométrage face contre table", "Le temps est comptabilisé tant que l’iPhone est posé écran vers le bas. Soulevez-le pour mettre en pause, puis reprenez selon les réglages du minuteur."],
+    ["Sessions gratuites illimitées", "Enregistrez autant de sessions que vous le souhaitez, conservez jusqu’à 3 activités, consultez Aujourd’hui et Cette semaine, et sauvegardez un CSV simple."],
+    ["Lifetime Pro", "Un achat définitif débloque des activités illimitées, les analyses mensuelles, annuelles et personnalisées, les objectifs hebdomadaires, les échéances, Apple Watch, les widgets, les styles visuels avancés et la sauvegarde-restauration JSON complète. Aucun abonnement."],
+    ["Privé par conception", "Aucun compte, serveur du développeur, publicité, outil d’analyse ou suivi. Les relevés de l’app restent sur votre appareil."]
+  ],
+  "support": ["Assistance", "Des réponses simples sur le chronométrage face contre table, les accès, la restauration d’achat et vos fichiers.", "Questions fréquentes"],
+  "faqs": [
+    ["Comment démarrer une session ?", "Choisissez ou créez une activité, lancez le minuteur et posez l’iPhone à plat, immobile, écran vers le bas. Studydown commence à comptabiliser dès que cette position est détectée."],
+    ["Pourquoi le minuteur n’a-t-il pas démarré ?", "Vérifiez que l’iPhone est presque à plat, immobile et que Studydown est actif. Une forte inclinaison ou des mouvements continus peuvent empêcher la détection."],
+    ["Comment restaurer Lifetime Pro ?", "Ouvrez l’écran Lifetime Pro et choisissez Restaurer les achats avec le compte Apple utilisé lors de l’achat. Apple vérifie ensuite votre accès."],
+    ["Quelle différence entre CSV et JSON ?", "Le CSV simple est disponible gratuitement pour les relevés en tableau. Lifetime Pro ajoute une sauvegarde JSON complète et sa restauration. Un fichier n’est créé qu’à votre demande et enregistré à l’emplacement choisi."]
+  ],
+  "privacy": ["Politique de confidentialité", "L’app Studydown ne recueille aucune donnée personnelle. Les relevés de concentration sont traités et conservés sur votre appareil.", "Dernière mise à jour"],
+  "privacy_sections": [
+    ["Données sur votre appareil", "Les noms d’activités, sessions, synthèses, objectifs hebdomadaires, échéances et réglages restent dans le stockage local de l’app. Studydown ne propose aucun compte et n’utilise aucun serveur du développeur."],
+    ["Données de mouvement", "Studydown lit l’orientation et le mouvement uniquement pour détecter que l’iPhone est face contre table. Les mesures brutes des capteurs ne sont ni conservées, ni envoyées, ni associées à votre identité."],
+    ["Achats auprès d’Apple", "Lors de l’achat ou de la restauration de Lifetime Pro, StoreKit communique avec Apple. Apple traite la transaction ; Studydown ne reçoit pas vos informations de paiement."],
+    ["Fichiers que vous créez", "Les fichiers CSV et JSON ne sont produits qu’à votre demande. Vous choisissez où les enregistrer ou les partager ; les règles de confidentialité de cette destination s’appliquent ensuite."],
+    ["Messages à l’assistance", "Si vous nous écrivez, nous recevons l’adresse et le message que vous décidez d’envoyer. Ils servent uniquement à vous répondre et ne sont ni vendus ni utilisés à des fins publicitaires."],
+    ["Ce site web", "Ce site statique ne dépose aucun cookie et ne charge aucun outil d’analyse, publicité, traceur ou script tiers. GitHub Pages héberge les fichiers et peut traiter les données techniques de connexion selon ses propres règles."]
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "language_name": "Bahasa Melayu",
+  "language_label": "Bahasa",
+  "navigation_label": "Navigasi utama",
+  "skip_link": "Langkau ke kandungan",
+  "nav": ["Gambaran", "Sokongan", "Privasi"],
+  "footer": "Maklumat sokongan dan privasi rasmi untuk Studydown.",
+  "contact": ["Hubungi kami", "Terangkan perkara yang berlaku serta nyatakan peranti dan versi iOS. Jangan sertakan rekod fokus peribadi.", "E-mel sokongan"],
+  "home": ["Masa fokus, direkod dengan jelas", "Studydown menukar masa ketika iPhone diletakkan dengan skrin menghadap ke bawah menjadi lejar aktiviti peribadi untuk kerja, pembelajaran dan kehidupan harian. Pilih Aktiviti, mula, kemudian letakkan skrin ke bawah.", "Untuk setiap perkara yang memerlukan fokus"],
+  "facts": [
+    ["Pemasaan dengan skrin ke bawah", "Masa direkod selagi iPhone berada dengan skrin menghadap ke bawah. Angkat untuk menjeda, kemudian teruskan mengikut tetapan pemasa."],
+    ["Sesi percuma tanpa had", "Rekod sesi fokus tanpa had, simpan sehingga 3 Aktiviti, lihat Hari Ini dan Minggu Ini serta simpan CSV asas."],
+    ["Lifetime Pro", "Satu pembelian kekal membuka Aktiviti tanpa had, analisis bulanan, tahunan dan tersuai, matlamat mingguan, tarikh akhir, Apple Watch, Widget, gaya hero lanjutan serta sandaran dan pemulihan JSON lengkap. Tiada langganan."],
+    ["Privat sejak direka", "Tiada akaun, pelayan pembangun, iklan, analitik atau penjejakan. Rekod aplikasi kekal pada peranti anda."]
+  ],
+  "support": ["Sokongan", "Bantuan jelas tentang pemasa skrin ke bawah, akses, pemulihan pembelian dan fail anda.", "Soalan lazim"],
+  "faqs": [
+    ["Bagaimanakah saya memulakan sesi?", "Pilih atau cipta Aktiviti, mulakan pemasa dan letakkan iPhone secara rata serta pegun dengan skrin menghadap ke bawah. Studydown mula merekod selepas kedudukan itu dikesan."],
+    ["Mengapakah pemasa tidak bermula?", "Pastikan iPhone hampir rata, tidak bergerak dan Studydown aktif. Sudut yang curam atau pergerakan berterusan boleh menghalang pengesanan."],
+    ["Bagaimanakah saya memulihkan Lifetime Pro?", "Buka skrin Lifetime Pro dan pilih Pulihkan Pembelian sambil menggunakan Apple Account yang digunakan untuk membeli. Apple akan mengesahkan akses."],
+    ["Apakah perbezaan CSV dan JSON?", "CSV asas tersedia secara percuma untuk rekod berjadual. Lifetime Pro menambah sandaran dan pemulihan JSON lengkap. Fail hanya dicipta apabila anda memintanya dan disimpan ke lokasi pilihan anda."]
+  ],
+  "privacy": ["Dasar Privasi", "Aplikasi Studydown tidak mengumpul data peribadi. Rekod fokus diproses dan disimpan pada peranti anda.", "Kemas kini terakhir"],
+  "privacy_sections": [
+    ["Data pada peranti", "Nama Aktiviti, sesi fokus, ringkasan, matlamat mingguan, tarikh akhir dan tetapan kekal dalam storan tempatan aplikasi. Studydown tidak mempunyai akaun atau pelayan pembangun."],
+    ["Maklumat pergerakan", "Studydown membaca orientasi dan pergerakan hanya untuk mengesan iPhone dengan skrin menghadap ke bawah. Bacaan sensor mentah tidak disimpan, dihantar atau dikaitkan dengan anda."],
+    ["Pembelian melalui Apple", "Apabila membeli atau memulihkan Lifetime Pro, StoreKit berkomunikasi dengan Apple. Apple memproses transaksi; Studydown tidak menerima butiran pembayaran anda."],
+    ["Fail yang anda cipta", "Fail CSV dan JSON hanya dihasilkan apabila anda meminta. Anda memilih tempat untuk menyimpan atau berkongsi, kemudian syarat privasi destinasi tersebut terpakai."],
+    ["Mesej kepada sokongan", "Jika anda menghantar e-mel, kami menerima alamat dan mesej yang anda pilih untuk hantar. Maklumat itu hanya digunakan untuk menjawab dan tidak dijual atau digunakan bagi iklan."],
+    ["Laman web ini", "Laman statik ini tidak menetapkan kuki atau memuatkan analitik, iklan, penjejak atau skrip pihak ketiga. GitHub Pages mengehos fail dan mungkin memproses maklumat sambungan biasa menurut syaratnya sendiri."]
+  ]
+}

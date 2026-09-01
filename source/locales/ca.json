@@ -1,0 +1,32 @@
+{
+  "language_name": "Català",
+  "language_label": "Idioma",
+  "navigation_label": "Navegació principal",
+  "skip_link": "Ves al contingut",
+  "nav": ["Presentació", "Ajuda", "Privadesa"],
+  "footer": "Informació oficial d’ajuda i privadesa de Studydown.",
+  "contact": ["Contacte", "Explica’ns què ha passat i indica el dispositiu i la versió d’iOS. No hi incloguis registres de concentració privats.", "Escriu a l’ajuda"],
+  "home": ["El temps de concentració, ben registrat", "Studydown converteix el temps amb l’iPhone de cara avall en un registre privat d’activitats per a la feina, l’aprenentatge i el dia a dia. Tria una activitat, inicia i posa la pantalla cap avall.", "Concentració per a qualsevol moment"],
+  "facts": [
+    ["Temps amb la pantalla cap avall", "El temps es registra mentre l’iPhone és de cara avall. Aixeca’l per posar-lo en pausa i continua segons la configuració del temporitzador."],
+    ["Sessions gratuïtes il·limitades", "Registra tantes sessions com vulguis, conserva fins a 3 activitats, consulta Avui i Aquesta setmana i desa un CSV bàsic."],
+    ["Lifetime Pro", "Un únic desbloqueig permanent afegeix activitats il·limitades, anàlisi mensual, anual i personalitzada, objectius setmanals, terminis, Apple Watch, widgets, estils visuals avançats i còpia i restauració JSON completes. Sense subscripció."],
+    ["Privat des del disseny", "No hi ha cap compte, servidor del desenvolupador, publicitat, analítica ni seguiment. Els registres de l’app es queden al dispositiu."]
+  ],
+  "support": ["Ajuda", "Respostes clares sobre el temporitzador de cara avall, les modalitats, la restauració de la compra i els teus fitxers.", "Preguntes habituals"],
+  "faqs": [
+    ["Com començo una sessió?", "Tria o crea una activitat, inicia el temporitzador i deixa l’iPhone pla i quiet amb la pantalla cap avall. Studydown comença a registrar quan detecta aquesta posició."],
+    ["Per què no s’ha iniciat el temporitzador?", "Comprova que l’iPhone sigui gairebé pla, estigui quiet i Studydown continuï actiu. Una inclinació marcada o el moviment constant poden impedir la detecció."],
+    ["Com restauro Lifetime Pro?", "Obre la pantalla de Lifetime Pro i toca Restaurar compres amb el mateix compte d’Apple que vas utilitzar per comprar. Apple verificarà l’accés."],
+    ["Quina diferència hi ha entre CSV i JSON?", "El CSV bàsic és gratuït per als registres en forma de taula. Lifetime Pro afegeix una còpia JSON completa i la restauració. El fitxer només es crea quan ho demanes i es desa on triïs."]
+  ],
+  "privacy": ["Política de privadesa", "L’app Studydown no recull dades personals. Els registres de concentració es processen i es desen al dispositiu.", "Darrera actualització"],
+  "privacy_sections": [
+    ["Dades al dispositiu", "Els noms de les activitats, les sessions, els resums, els objectius setmanals, els terminis i la configuració es queden a l’emmagatzematge local. Studydown no té comptes ni servidor del desenvolupador."],
+    ["Informació de moviment", "Studydown llegeix l’orientació i el moviment només per detectar quan l’iPhone és de cara avall. Les lectures brutes dels sensors no es desen, no s’envien ni s’associen amb tu."],
+    ["Compres d’Apple", "En comprar o restaurar Lifetime Pro, StoreKit es comunica amb Apple. Apple processa l’operació i Studydown no rep les dades de pagament."],
+    ["Fitxers que crees", "Els fitxers CSV i JSON només es generen quan ho demanes. Tu tries on desar-los o compartir-los i, a partir d’aleshores, s’apliquen les condicions de privadesa de la destinació."],
+    ["Missatges a l’ajuda", "Si ens envies un correu, rebem l’adreça i el missatge que decideixes facilitar. Només els fem servir per respondre i no els venem ni els utilitzem per a publicitat."],
+    ["Aquest web", "Aquest lloc estàtic no posa galetes ni carrega analítica, anuncis, rastrejadors o scripts de tercers. GitHub Pages allotja els fitxers i pot tractar dades tècniques de connexió segons les seves condicions."]
+  ]
+}

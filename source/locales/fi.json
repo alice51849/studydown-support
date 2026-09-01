@@ -1,0 +1,32 @@
+{
+  "language_name": "Suomi",
+  "language_label": "Kieli",
+  "navigation_label": "Päänavigointi",
+  "skip_link": "Siirry sisältöön",
+  "nav": ["Yleiskatsaus", "Tuki", "Tietosuoja"],
+  "footer": "Studydownin viralliset tuki- ja tietosuojatiedot.",
+  "contact": ["Yhteystiedot", "Kerro, mitä tapahtui, sekä laitteen malli ja iOS-versio. Älä liitä viestiin yksityisiä keskittymistietoja.", "Lähetä sähköpostia tukeen"],
+  "home": ["Keskittymisaika selkeänä lokina", "Studydown muuttaa näyttö alaspäin vietetyn ajan yksityiseksi aktiviteettilokiksi työhön, oppimiseen ja arkeen. Valitse aktiviteetti, käynnistä ja aseta iPhone näyttö alaspäin.", "Kaikenlaiseen keskittymiseen"],
+  "facts": [
+    ["Ajastus näyttö alaspäin", "Aikaa kirjataan, kun iPhone on näyttö alaspäin. Nosta puhelin taukoa varten ja jatka ajastimen asetusten mukaisesti."],
+    ["Rajattomasti maksuttomia jaksoja", "Kirjaa rajattomasti keskittymisjaksoja, pidä enintään 3 aktiviteettia, tarkastele tätä päivää ja viikkoa sekä tallenna perustason CSV-tiedosto."],
+    ["Lifetime Pro", "Yksi pysyvä ostos avaa rajattomat aktiviteetit, kuukausi-, vuosi- ja mukautetut analyysit, viikkotavoitteet, määräajat, Apple Watchin, widgetit, edistyneet hero-tyylit sekä täydellisen JSON-varmuuskopioinnin ja palautuksen. Ei tilausta."],
+    ["Yksityinen lähtökohtaisesti", "Ei tiliä, kehittäjän palvelinta, mainoksia, analytiikkaa tai seurantaa. Sovelluksen tiedot pysyvät laitteellasi."]
+  ],
+  "support": ["Tuki", "Selkeät ohjeet näyttö alaspäin -ajastukseen, käyttöoikeuksiin, oston palautukseen ja tiedostoihin.", "Usein kysyttyä"],
+  "faqs": [
+    ["Miten aloitan jakson?", "Valitse tai luo aktiviteetti, käynnistä ajastin ja aseta iPhone tasaisesti ja liikkumatta näyttö alaspäin. Studydown aloittaa kirjauksen tunnistettuaan asennon."],
+    ["Miksi ajastin ei käynnistynyt?", "Varmista, että iPhone on lähes vaakatasossa, liikkumatta ja Studydown aktiivisena. Jyrkkä kulma tai jatkuva liike voi estää tunnistuksen."],
+    ["Miten palautan Lifetime Pron?", "Avaa Lifetime Pro -näkymä ja valitse Palauta ostot käyttäen ostoon käytettyä Apple Accountia. Apple vahvistaa käyttöoikeuden."],
+    ["Miten CSV ja JSON eroavat?", "Perustason CSV-tiedoston voi tallentaa maksutta taulukkomuotoisia tietoja varten. Lifetime Pro sisältää täydellisen JSON-varmuuskopioinnin ja palautuksen. Tiedosto luodaan vain pyynnöstäsi valitsemaasi kohteeseen."]
+  ],
+  "privacy": ["Tietosuojakäytäntö", "Studydown-sovellus ei kerää henkilötietoja. Keskittymistiedot käsitellään ja tallennetaan laitteellasi.", "Päivitetty viimeksi"],
+  "privacy_sections": [
+    ["Laitteella säilyvät tiedot", "Aktiviteettien nimet, jaksot, yhteenvedot, viikkotavoitteet, määräajat ja asetukset pysyvät sovelluksen paikallisessa tallennustilassa. Studydownissa ei ole tiliä eikä kehittäjän palvelinta."],
+    ["Liiketiedot", "Studydown lukee asentoa ja liikettä vain tunnistaakseen näyttö alaspäin olevan iPhonen. Raakoja anturitietoja ei säilytetä, lähetetä eikä yhdistetä sinuun."],
+    ["Applen kautta tehtävät ostot", "Kun ostat tai palautat Lifetime Pron, StoreKit on yhteydessä Appleen. Apple käsittelee maksun, eikä Studydown saa maksutietojasi."],
+    ["Luomasi tiedostot", "CSV- ja JSON-tiedostot luodaan vain pyynnöstäsi. Valitset itse tallennus- tai jakokohteen, minkä jälkeen kohteen tietosuojakäytännöt ovat voimassa."],
+    ["Viestit tukeen", "Jos lähetät sähköpostia, saamme lähettämäsi osoitteen ja viestin. Käytämme niitä vain vastaamiseen, emme myy tai käytä niitä mainontaan."],
+    ["Tämä verkkosivusto", "Tämä staattinen sivusto ei aseta evästeitä eikä lataa analytiikkaa, mainoksia, seurantaohjelmia tai kolmannen osapuolen skriptejä. GitHub Pages ylläpitää tiedostoja ja voi käsitellä tavallisia yhteystietoja omien ehtojensa mukaan."]
+  ]
+}

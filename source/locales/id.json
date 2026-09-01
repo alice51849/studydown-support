@@ -1,0 +1,32 @@
+{
+  "language_name": "Bahasa Indonesia",
+  "language_label": "Bahasa",
+  "navigation_label": "Navigasi utama",
+  "skip_link": "Lewati ke isi",
+  "nav": ["Ringkasan", "Dukungan", "Privasi"],
+  "footer": "Informasi dukungan dan privasi resmi untuk Studydown.",
+  "contact": ["Hubungi kami", "Ceritakan masalahnya serta sebutkan perangkat dan versi iOS. Jangan sertakan catatan fokus pribadi.", "Email dukungan"],
+  "home": ["Waktu fokus, tercatat dengan jelas", "Studydown mengubah waktu saat iPhone ditaruh dengan layar menghadap ke bawah menjadi catatan aktivitas pribadi untuk pekerjaan, belajar, dan keseharian. Pilih Aktivitas, mulai, lalu taruh layar ke bawah.", "Untuk segala hal yang membutuhkan fokus"],
+  "facts": [
+    ["Pengukuran dengan layar di bawah", "Waktu dicatat selama iPhone berada dengan layar menghadap ke bawah. Angkat untuk menjeda, lalu lanjutkan sesuai pengaturan timer."],
+    ["Sesi gratis tanpa batas", "Catat sesi fokus tanpa batas, simpan hingga 3 Aktivitas, lihat Hari Ini dan Minggu Ini, serta simpan CSV dasar."],
+    ["Lifetime Pro", "Satu pembelian permanen membuka Aktivitas tanpa batas, analisis bulanan, tahunan, dan rentang khusus, target mingguan, tenggat, Apple Watch, Widget, gaya hero lanjutan, serta pencadangan dan pemulihan JSON lengkap. Tanpa langganan."],
+    ["Privat sejak awal", "Tanpa akun, server pengembang, iklan, analitik, atau pelacakan. Catatan aplikasi tetap berada di perangkat Anda."]
+  ],
+  "support": ["Dukungan", "Jawaban jelas tentang timer layar menghadap ke bawah, akses, pemulihan pembelian, dan file Anda.", "Pertanyaan umum"],
+  "faqs": [
+    ["Bagaimana memulai sesi fokus?", "Pilih atau buat Aktivitas, mulai timer, lalu taruh iPhone secara datar dan diam dengan layar menghadap ke bawah. Studydown mulai mencatat setelah posisi itu terdeteksi."],
+    ["Mengapa timer tidak dimulai?", "Pastikan iPhone hampir datar, tidak bergerak, dan Studydown aktif. Sudut yang terlalu miring atau gerakan terus-menerus dapat menghambat deteksi."],
+    ["Bagaimana memulihkan Lifetime Pro?", "Buka layar Lifetime Pro dan pilih Pulihkan Pembelian saat masuk dengan Apple Account yang digunakan untuk membeli. Apple akan memverifikasi akses."],
+    ["Apa perbedaan CSV dan JSON?", "CSV dasar tersedia gratis untuk catatan berbentuk tabel. Lifetime Pro menambahkan pencadangan dan pemulihan JSON lengkap. File hanya dibuat saat Anda memintanya dan disimpan ke lokasi pilihan Anda."]
+  ],
+  "privacy": ["Kebijakan Privasi", "Aplikasi Studydown tidak mengumpulkan data pribadi. Catatan fokus diproses dan disimpan di perangkat Anda.", "Terakhir diperbarui"],
+  "privacy_sections": [
+    ["Data di perangkat", "Nama Aktivitas, sesi fokus, ringkasan, target mingguan, tenggat, dan pengaturan tetap berada di penyimpanan lokal aplikasi. Studydown tidak memiliki akun atau server pengembang."],
+    ["Informasi gerakan", "Studydown membaca orientasi dan gerakan hanya untuk mendeteksi iPhone yang layarnya menghadap ke bawah. Data sensor mentah tidak disimpan, dikirim, atau dikaitkan dengan Anda."],
+    ["Pembelian melalui Apple", "Saat membeli atau memulihkan Lifetime Pro, StoreKit berkomunikasi dengan Apple. Apple memproses transaksi; Studydown tidak menerima detail pembayaran Anda."],
+    ["File yang Anda buat", "File CSV dan JSON hanya dibuat saat Anda meminta. Anda memilih tempat menyimpan atau membagikannya, lalu ketentuan privasi tujuan tersebut berlaku."],
+    ["Pesan ke dukungan", "Jika Anda mengirim email, kami menerima alamat dan pesan yang Anda pilih untuk dikirim. Informasi itu hanya digunakan untuk menjawab dan tidak dijual atau dipakai untuk iklan."],
+    ["Situs ini", "Situs statis ini tidak memasang cookie atau memuat analitik, iklan, pelacak, maupun skrip pihak ketiga. GitHub Pages menghosting file dan dapat memproses informasi koneksi standar menurut ketentuannya sendiri."]
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "language_name": "Tiếng Việt",
+  "language_label": "Ngôn ngữ",
+  "navigation_label": "Điều hướng chính",
+  "skip_link": "Chuyển đến nội dung",
+  "nav": ["Tổng quan", "Hỗ trợ", "Quyền riêng tư"],
+  "footer": "Thông tin hỗ trợ và quyền riêng tư chính thức của Studydown.",
+  "contact": ["Liên hệ", "Hãy mô tả sự việc, kèm loại thiết bị và phiên bản iOS. Đừng gửi các bản ghi tập trung riêng tư.", "Gửi email hỗ trợ"],
+  "home": ["Thời gian tập trung, được ghi lại rõ ràng", "Studydown biến thời gian đặt úp màn hình iPhone thành sổ hoạt động riêng tư cho công việc, học hỏi và đời sống. Chọn một Hoạt động, bắt đầu rồi đặt màn hình úp xuống.", "Cho mọi việc cần bạn tập trung"],
+  "facts": [
+    ["Đo thời gian khi úp màn hình", "Thời gian được ghi khi iPhone nằm úp màn hình. Nhấc máy lên để tạm dừng rồi tiếp tục theo cài đặt hẹn giờ của bạn."],
+    ["Phiên miễn phí không giới hạn", "Ghi không giới hạn phiên tập trung, lưu tối đa 3 Hoạt động, xem Hôm nay và Tuần này, đồng thời lưu CSV cơ bản."],
+    ["Lifetime Pro", "Một lần mua vĩnh viễn mở khóa Hoạt động không giới hạn, phân tích theo tháng, năm và khoảng tùy chọn, mục tiêu tuần, hạn chót, Apple Watch, Tiện ích, kiểu hero nâng cao, cùng sao lưu và khôi phục JSON đầy đủ. Không thuê bao."],
+    ["Riêng tư ngay từ thiết kế", "Không tài khoản, máy chủ của nhà phát triển, quảng cáo, phân tích hay theo dõi. Bản ghi của ứng dụng nằm trên thiết bị của bạn."]
+  ],
+  "support": ["Hỗ trợ", "Câu trả lời rõ ràng về hẹn giờ khi úp màn hình, quyền truy cập, khôi phục giao dịch và các tệp của bạn.", "Câu hỏi thường gặp"],
+  "faqs": [
+    ["Làm sao bắt đầu một phiên?", "Chọn hoặc tạo Hoạt động, bắt đầu hẹn giờ rồi đặt iPhone nằm phẳng, yên và úp màn hình. Studydown bắt đầu ghi sau khi nhận ra tư thế đó."],
+    ["Vì sao hẹn giờ không bắt đầu?", "Hãy bảo đảm iPhone gần như nằm phẳng, không di chuyển và Studydown đang hoạt động. Góc nghiêng lớn hoặc chuyển động liên tục có thể ngăn việc nhận diện."],
+    ["Làm sao khôi phục Lifetime Pro?", "Mở màn hình Lifetime Pro, chọn Khôi phục mục mua và dùng Apple Account đã mua trước đó. Apple sẽ xác minh quyền truy cập."],
+    ["CSV và JSON khác nhau thế nào?", "CSV cơ bản được cung cấp miễn phí cho dữ liệu dạng bảng. Lifetime Pro bổ sung sao lưu và khôi phục JSON đầy đủ. Tệp chỉ được tạo khi bạn yêu cầu và lưu ở nơi bạn chọn."]
+  ],
+  "privacy": ["Chính sách quyền riêng tư", "Ứng dụng Studydown không thu thập dữ liệu cá nhân. Bản ghi tập trung được xử lý và lưu trên thiết bị của bạn.", "Cập nhật lần cuối"],
+  "privacy_sections": [
+    ["Dữ liệu trên thiết bị", "Tên Hoạt động, phiên tập trung, bản tóm tắt, mục tiêu tuần, hạn chót và cài đặt nằm trong bộ nhớ cục bộ của ứng dụng. Studydown không có tài khoản hay máy chủ của nhà phát triển."],
+    ["Thông tin chuyển động", "Studydown chỉ đọc hướng và chuyển động để nhận biết iPhone đang úp màn hình. Dữ liệu cảm biến thô không được giữ lại, gửi đi hoặc liên kết với bạn."],
+    ["Giao dịch qua Apple", "Khi mua hoặc khôi phục Lifetime Pro, StoreKit liên lạc với Apple. Apple xử lý giao dịch; Studydown không nhận thông tin thanh toán của bạn."],
+    ["Tệp do bạn tạo", "Tệp CSV và JSON chỉ được tạo khi bạn yêu cầu. Bạn chọn nơi lưu hoặc chia sẻ; sau đó điều khoản quyền riêng tư của nơi nhận sẽ được áp dụng."],
+    ["Email cho bộ phận hỗ trợ", "Nếu gửi email, bạn cung cấp địa chỉ và nội dung nào thì chúng tôi nhận thông tin đó. Thông tin chỉ dùng để trả lời, không bán hoặc dùng cho quảng cáo."],
+    ["Trang web này", "Trang tĩnh này không đặt cookie và không tải công cụ phân tích, quảng cáo, trình theo dõi hoặc tập lệnh bên thứ ba. GitHub Pages lưu trữ tệp và có thể xử lý thông tin kết nối thông thường theo điều khoản riêng."]
+  ]
+}
