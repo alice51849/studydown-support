@@ -9,7 +9,7 @@
   "home": ["Fokustid, tydeligt registreret", "Studydown gør tiden med din iPhone liggende med skærmen nedad til en privat aktivitetslog for arbejde, læring og hverdagsliv. Vælg en aktivitet, start, og læg skærmen nedad.", "Til alt, der kræver din opmærksomhed"],
   "facts": [
     ["Tid med skærmen nedad", "Tiden registreres, mens iPhone ligger med skærmen nedad. Løft den for at sætte på pause, og fortsæt efter dine timerindstillinger."],
-    ["Ubegrænsede gratis sessioner", "Registrer så mange fokussessioner, du vil, behold op til 3 aktiviteter, se I dag og Denne uge, og gem en enkel CSV-fil."],
+    ["Gratis: 3 aktiviteter, 5 minutter", "Gratisversionen giver op til 3 aktiviteter og i alt 300 sekunder (5 minutter) registreret tid samt I dag, Denne uge og en enkel CSV-fil. Kvoten nulstilles ikke dagligt. Lifetime Pro fjerner begge grænser. En allerede startet session med skærmen nedad gemmes uden at afkorte tiden."],
     ["Lifetime Pro", "Ét permanent køb låser op for ubegrænsede aktiviteter, måneds-, års- og brugerdefinerede analyser, ugemål, frister, Apple Watch, widgets, avancerede hero-stile samt komplet JSON-sikkerhedskopi og gendannelse. Intet abonnement."],
     ["Privat fra begyndelsen", "Ingen konto, udviklerserver, reklamer, analyse eller sporing. Appens registreringer bliver på din enhed."]
   ],
@@ -21,6 +21,15 @@
     ["Hvad er forskellen på CSV og JSON?", "En enkel CSV-fil til tabeldata er gratis. Lifetime Pro tilføjer komplet JSON-sikkerhedskopi og gendannelse. Filer oprettes kun, når du beder om det, og gemmes på din valgte placering."]
   ],
   "privacy": ["Anonymitetspolitik", "Studydown-appen indsamler ikke personoplysninger. Fokusregistreringer behandles og gemmes på din enhed.", "Senest opdateret"],
+  "support_details": [
+    ["Hvordan tester jeg en kort session?", "Sæt den korteste session, der skal gemmes, til 3 sekunder i Indstillinger. Vælg en aktivitet, start timeren, og læg iPhone fladt og stille med skærmen nedad i mindst 10 sekunder efter registreringen. Hold Studydown aktiv og telefonen ulåst. Løft den og afslut sessionen, eller lad fristen udløbe. Sessioner under den valgte minimumstid gemmes ikke."],
+    ["Hvordan ændrer jeg påmindelser?", "Slå påmindelser til eller fra i Indstillinger, og vælg et dagligt tidspunkt eller hver 1., 2., 3., 4., 6., 8. eller 12. time. Notifikationer kræver tilladelse, men timeren virker også uden. Låsning eller skift væk fra appen stopper optællingen af tid; iOS kan stadig levere planlagte påmindelser."]
+  ],
+  "privacy_details": [
+    ["Lokale notifikationer", "Påmindelsesindstillinger og notifikationstekst bliver på enheden. iOS planlægger lokale notifikationer; Studydown bruger ingen ekstern pushserver og uploader intet enhedstoken. Tilladelse bliver først efterspurgt, når du slår påmindelser til eller bruger tilladelsesfunktionen, ikke ved første start."],
+    ["Apple-tjenester og bevægelse", "StoreKit kan kontakte Apple for at hente produkter og lokale priser samt bekræfte, købe eller gendanne Lifetime Pro. Appen læser bekræftede transaktions- og adgangsoplysninger, ikke betalingsdetaljer, og sender ingen fokusregistreringer til køb. Apples tjenester følger Apples vilkår. CoreMotion behandler retning og bevægelse lokalt, ikke kamerabilleder; bevægelsesregistreringen stopper, når appen bliver inaktiv."],
+    ["Enheder, opbevaring og sletning", "Widgets bruger lokal App Group-lagring. Liveaktiviteter bruger ikke serverpush. Apple Watch udveksler aktivitetsnavne og id’er, sessionstider, oversigter, præferencer og adgangsstatus med den parrede iPhone via WatchConnectivity, ikke en udviklerserver. Gemte registreringer bevares, indtil de slettes eller erstattes. I dataadministrationen under Indstillinger kan alle lokale data slettes efter bekræftelse. Eksporterede filer, Watch-kopier og eventuelle Apple-administrerede enhedskopier er adskilte; sletning i appen garanterer ikke, at de fjernes. Sikkerhedskopier afhænger af dine systemindstillinger."]
+  ],
   "privacy_sections": [
     ["Data på din enhed", "Aktivitetsnavne, sessioner, oversigter, ugemål, frister og indstillinger bliver i appens lokale lager. Studydown har ingen konto eller udviklerserver."],
     ["Bevægelsesoplysninger", "Studydown læser kun retning og bevægelse for at registrere, at iPhone ligger med skærmen nedad. Rå sensormålinger gemmes eller sendes ikke og knyttes ikke til dig."],

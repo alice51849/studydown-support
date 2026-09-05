@@ -9,7 +9,7 @@
   "home": ["Keskittymisaika selkeänä lokina", "Studydown muuttaa näyttö alaspäin vietetyn ajan yksityiseksi aktiviteettilokiksi työhön, oppimiseen ja arkeen. Valitse aktiviteetti, käynnistä ja aseta iPhone näyttö alaspäin.", "Kaikenlaiseen keskittymiseen"],
   "facts": [
     ["Ajastus näyttö alaspäin", "Aikaa kirjataan, kun iPhone on näyttö alaspäin. Nosta puhelin taukoa varten ja jatka ajastimen asetusten mukaisesti."],
-    ["Rajattomasti maksuttomia jaksoja", "Kirjaa rajattomasti keskittymisjaksoja, pidä enintään 3 aktiviteettia, tarkastele tätä päivää ja viikkoa sekä tallenna perustason CSV-tiedosto."],
+    ["Maksutta: 3 aktiviteettia, 5 minuuttia", "Maksuton versio sisältää enintään 3 aktiviteettia ja yhteensä 300 sekuntia (5 minuuttia) kirjattua aikaa, tämän päivän ja viikon yhteenvedot sekä perustason CSV:n. Kiintiö ei uusiudu päivittäin. Lifetime Pro poistaa molemmat rajat. Jo alkanut jakso puhelimen näyttö alaspäin tallennetaan lyhentämättä."],
     ["Lifetime Pro", "Yksi pysyvä ostos avaa rajattomat aktiviteetit, kuukausi-, vuosi- ja mukautetut analyysit, viikkotavoitteet, määräajat, Apple Watchin, widgetit, edistyneet hero-tyylit sekä täydellisen JSON-varmuuskopioinnin ja palautuksen. Ei tilausta."],
     ["Yksityinen lähtökohtaisesti", "Ei tiliä, kehittäjän palvelinta, mainoksia, analytiikkaa tai seurantaa. Sovelluksen tiedot pysyvät laitteellasi."]
   ],
@@ -21,6 +21,15 @@
     ["Miten CSV ja JSON eroavat?", "Perustason CSV-tiedoston voi tallentaa maksutta taulukkomuotoisia tietoja varten. Lifetime Pro sisältää täydellisen JSON-varmuuskopioinnin ja palautuksen. Tiedosto luodaan vain pyynnöstäsi valitsemaasi kohteeseen."]
   ],
   "privacy": ["Tietosuojakäytäntö", "Studydown-sovellus ei kerää henkilötietoja. Keskittymistiedot käsitellään ja tallennetaan laitteellasi.", "Päivitetty viimeksi"],
+  "support_details": [
+    ["Miten kokeilen lyhyttä jaksoa?", "Valitse asetuksissa lyhimmäksi säilytettäväksi jaksoksi 3 sekuntia. Valitse aktiviteetti, käynnistä ajastin ja jätä iPhone tasaiselle alustalle näyttö alaspäin liikkumatta vähintään 10 sekunniksi tunnistuksen jälkeen. Pidä Studydown aktiivisena ja puhelin lukitsematta. Nosta se ja päätä jakso tai odota joustoajan päättymistä. Valittua vähimmäisaikaa lyhyempiä jaksoja ei tallenneta."],
+    ["Miten muutan muistutuksia?", "Ota muistutukset käyttöön tai pois asetuksissa. Valitse päivittäinen kellonaika tai 1, 2, 3, 4, 6, 8 tai 12 tunnin väli. Ilmoitukset tarvitsevat luvan, mutta ajastin toimii myös ilman sitä. Puhelimen lukitseminen tai sovelluksesta poistuminen pysäyttää ajan kertymisen; iOS voi silti toimittaa ajastetut muistutukset."]
+  ],
+  "privacy_details": [
+    ["Paikalliset ilmoitukset", "Muistutusasetukset ja ilmoitustekstit pysyvät laitteessa. iOS ajastaa paikalliset ilmoitukset; Studydown ei käytä etäpalvelimen push-ilmoituksia eikä lähetä laitetunnistetta. Lupaa pyydetään, kun otat muistutukset käyttöön tai käytät lupapainiketta, ei ensimmäisellä käynnistyksellä."],
+    ["Applen palvelut ja liike", "StoreKit voi ottaa yhteyttä Appleen tuotteiden ja paikallisten hintojen lataamiseksi sekä Lifetime Pro -oikeuden tarkistamiseksi, ostamiseksi tai palauttamiseksi. Sovellus lukee vahvistetut tapahtuma- ja käyttöoikeustiedot, ei maksutietoja, eikä lähetä keskittymistietoja ostoksia varten. Applen palveluihin sovelletaan Applen ehtoja. CoreMotion käsittelee asentoa ja liikettä paikallisesti, ei kamerakuvia; seuranta pysähtyy sovelluksen muuttuessa epäaktiiviseksi."],
+    ["Laitteet, säilytys ja poistaminen", "Widgetit käyttävät paikallista App Group -tallennusta. Live-aktiviteeteilla ei ole palvelimen push-yhteyttä. Apple Watch vaihtaa aktiviteettien nimiä ja tunnisteita, jaksojen aikoja, yhteenvetoja, asetuksia ja käyttöoikeustilaa pariksi liitetyn iPhonen kanssa WatchConnectivityn kautta, ei kehittäjän palvelimen kautta. Tallennetut tiedot säilyvät, kunnes ne poistetaan tai korvataan. Asetusten tietojenhallinnassa voit poistaa kaikki paikalliset tiedot vahvistuksen jälkeen. Viedyt tiedostot, Watch-kopiot ja mahdolliset Applen hallinnoimat laitevarmuuskopiot ovat erillisiä eivätkä välttämättä poistu samalla. Varmuuskopiointi riippuu järjestelmäasetuksistasi."]
+  ],
   "privacy_sections": [
     ["Laitteella säilyvät tiedot", "Aktiviteettien nimet, jaksot, yhteenvedot, viikkotavoitteet, määräajat ja asetukset pysyvät sovelluksen paikallisessa tallennustilassa. Studydownissa ei ole tiliä eikä kehittäjän palvelinta."],
     ["Liiketiedot", "Studydown lukee asentoa ja liikettä vain tunnistaakseen näyttö alaspäin olevan iPhonen. Raakoja anturitietoja ei säilytetä, lähetetä eikä yhdistetä sinuun."],

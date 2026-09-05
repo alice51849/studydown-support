@@ -9,7 +9,7 @@
   "home": ["El temps de concentració, ben registrat", "Studydown converteix el temps amb l’iPhone de cara avall en un registre privat d’activitats per a la feina, l’aprenentatge i el dia a dia. Tria una activitat, inicia i posa la pantalla cap avall.", "Concentració per a qualsevol moment"],
   "facts": [
     ["Temps amb la pantalla cap avall", "El temps es registra mentre l’iPhone és de cara avall. Aixeca’l per posar-lo en pausa i continua segons la configuració del temporitzador."],
-    ["Sessions gratuïtes il·limitades", "Registra tantes sessions com vulguis, conserva fins a 3 activitats, consulta Avui i Aquesta setmana i desa un CSV bàsic."],
+    ["Gratis: 3 activitats, 5 minuts", "La versió gratuïta inclou fins a 3 activitats i 300 segons (5 minuts) de temps registrat en total, els resums Avui i Aquesta setmana i un CSV bàsic. El límit no es renova cada dia. Lifetime Pro elimina tots dos límits. Una sessió ja iniciada amb la pantalla cap avall es desa sense retallar-ne la durada."],
     ["Lifetime Pro", "Un únic desbloqueig permanent afegeix activitats il·limitades, anàlisi mensual, anual i personalitzada, objectius setmanals, terminis, Apple Watch, widgets, estils visuals avançats i còpia i restauració JSON completes. Sense subscripció."],
     ["Privat des del disseny", "No hi ha cap compte, servidor del desenvolupador, publicitat, analítica ni seguiment. Els registres de l’app es queden al dispositiu."]
   ],
@@ -21,6 +21,15 @@
     ["Quina diferència hi ha entre CSV i JSON?", "El CSV bàsic és gratuït per als registres en forma de taula. Lifetime Pro afegeix una còpia JSON completa i la restauració. El fitxer només es crea quan ho demanes i es desa on triïs."]
   ],
   "privacy": ["Política de privadesa", "L’app Studydown no recull dades personals. Els registres de concentració es processen i es desen al dispositiu.", "Darrera actualització"],
+  "support_details": [
+    ["Com provo una sessió curta?", "A Configuració, posa a 3 segons la durada mínima que es conserva. Tria una activitat, inicia el temporitzador i deixa l’iPhone pla i quiet, amb la pantalla cap avall, almenys 10 segons després de la detecció. Mantén Studydown actiu i el telèfon desbloquejat. Aixeca’l i acaba la sessió o espera que s’esgoti el període de gràcia. Les sessions més curtes que el mínim triat es descarten."],
+    ["Com canvio els recordatoris?", "A Configuració, activa o desactiva els recordatoris i tria una hora diària o un interval d’1, 2, 3, 4, 6, 8 o 12 hores. Cal permís per a les notificacions, però denegar-lo no impedeix mesurar el temps. Bloquejar el telèfon o sortir de l’app atura l’acumulació de temps; iOS pot continuar enviant els recordatoris programats."]
+  ],
+  "privacy_details": [
+    ["Notificacions locals", "La configuració dels recordatoris i el text es queden al dispositiu. iOS programa notificacions locals; Studydown no fa servir cap servidor push remot ni puja cap testimoni del dispositiu. Només demana permís quan actives els recordatoris o fas servir el control d’autorització, no al primer inici."],
+    ["Serveis d’Apple i moviment", "StoreKit pot contactar amb Apple per carregar productes i preus locals, verificar drets, comprar o restaurar Lifetime Pro. L’app llegeix informació verificada de transaccions i drets, no dades de pagament, i no envia registres de concentració per a les compres. Els serveis d’Apple segueixen les condicions d’Apple. CoreMotion processa l’orientació i el moviment al dispositiu, no imatges de la càmera; el seguiment s’atura quan l’app queda inactiva."],
+    ["Dispositius, conservació i eliminació", "Els widgets fan servir l’emmagatzematge local App Group. Les activitats en directe no fan servir push de servidor. Apple Watch intercanvia noms i identificadors d’activitats, temps de sessió, resums, preferències i drets amb l’iPhone enllaçat mitjançant WatchConnectivity, sense servidor del desenvolupador. Els registres desats es conserven fins que els esborres o substitueixes. A la gestió de dades de Configuració pots esborrar totes les dades locals després de confirmar-ho. Els fitxers exportats, les còpies del Watch i les possibles còpies de seguretat gestionades per Apple són independents; esborrar l’app no garanteix eliminar-les. Les còpies de seguretat depenen de la configuració del sistema."]
+  ],
   "privacy_sections": [
     ["Dades al dispositiu", "Els noms de les activitats, les sessions, els resums, els objectius setmanals, els terminis i la configuració es queden a l’emmagatzematge local. Studydown no té comptes ni servidor del desenvolupador."],
     ["Informació de moviment", "Studydown llegeix l’orientació i el moviment només per detectar quan l’iPhone és de cara avall. Les lectures brutes dels sensors no es desen, no s’envien ni s’associen amb tu."],

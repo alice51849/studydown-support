@@ -9,7 +9,7 @@
   "home": ["Czas skupienia zapisany przejrzyście", "Studydown zmienia czas z iPhonem odłożonym ekranem w dół w prywatny dziennik aktywności do pracy, nauki i codziennych zajęć. Wybierz aktywność, uruchom pomiar i odłóż ekranem w dół.", "Do wszystkiego, co wymaga pełnej uwagi"],
   "facts": [
     ["Pomiar ekranem w dół", "Czas jest zapisywany, gdy iPhone leży ekranem w dół. Podnieś go, aby wstrzymać, a potem kontynuuj zgodnie z ustawieniami minutnika."],
-    ["Bezpłatne sesje bez limitu", "Zapisuj dowolną liczbę sesji, przechowuj do 3 aktywności, przeglądaj Dzisiaj i Ten tydzień oraz zapisuj podstawowy plik CSV."],
+    ["Bezpłatnie: 3 aktywności, 5 minut", "Wersja bezpłatna pozwala na 3 aktywności i łącznie 300 sekund (5 minut) zapisanego czasu, podsumowania Dzisiaj i Ten tydzień oraz podstawowy CSV. Limit nie odnawia się codziennie. Lifetime Pro znosi oba ograniczenia. Już rozpoczęta sesja z ekranem skierowanym w dół jest zapisywana bez skracania czasu."],
     ["Lifetime Pro", "Jeden trwały zakup odblokowuje nielimitowane aktywności, analizy miesięczne, roczne i własne, cele tygodniowe, terminy, Apple Watch, widżety, zaawansowane style hero oraz pełną kopię i przywracanie JSON. Bez subskrypcji."],
     ["Prywatność od podstaw", "Bez konta, serwera dewelopera, reklam, analityki i śledzenia. Zapisy aplikacji pozostają na urządzeniu."]
   ],
@@ -21,6 +21,15 @@
     ["Czym różnią się CSV i JSON?", "Podstawowy plik CSV do danych tabelarycznych jest bezpłatny. Lifetime Pro dodaje pełną kopię i przywracanie JSON. Plik powstaje tylko na Twoje żądanie i trafia do wybranego miejsca."]
   ],
   "privacy": ["Polityka prywatności", "Aplikacja Studydown nie zbiera danych osobowych. Zapisy skupienia są przetwarzane i przechowywane na Twoim urządzeniu.", "Ostatnia aktualizacja"],
+  "support_details": [
+    ["Jak sprawdzić krótką sesję?", "W Ustawieniach ustaw najkrótszą zachowywaną sesję na 3 sekundy. Wybierz aktywność, uruchom licznik i połóż iPhone’a płasko ekranem w dół. Po wykryciu pozycji nie ruszaj nim przez co najmniej 10 sekund. Studydown musi pozostać aktywny, a telefon odblokowany. Podnieś go i zakończ sesję lub poczekaj na upływ okresu tolerancji. Sesje krótsze niż wybrane minimum nie są zachowywane."],
+    ["Jak zmienić przypomnienia?", "W Ustawieniach włącz lub wyłącz przypomnienia i wybierz codzienną godzinę albo odstęp 1, 2, 3, 4, 6, 8 lub 12 godzin. Powiadomienia wymagają zgody, ale jej odmowa nie blokuje pomiaru czasu. Zablokowanie telefonu lub opuszczenie aplikacji zatrzymuje naliczanie czasu; iOS nadal może dostarczać zaplanowane przypomnienia."]
+  ],
+  "privacy_details": [
+    ["Powiadomienia lokalne", "Ustawienia przypomnień i treść powiadomień pozostają na urządzeniu. iOS planuje lokalne powiadomienia; Studydown nie używa zdalnego serwera push ani nie wysyła tokena urządzenia. Prosi o zgodę przy włączaniu przypomnień lub użyciu przycisku uprawnień, nie podczas pierwszego uruchomienia."],
+    ["Usługi Apple i ruch", "StoreKit może łączyć się z Apple w celu pobrania produktów i lokalnych cen oraz weryfikacji, zakupu lub przywrócenia Lifetime Pro. Aplikacja odczytuje zweryfikowane informacje o transakcjach i uprawnieniach, nie dane płatnicze, i nie wysyła zapisów skupienia do obsługi zakupów. Usługi Apple podlegają warunkom Apple. CoreMotion przetwarza orientację i ruch lokalnie, nie obrazy z aparatu; śledzenie kończy się, gdy aplikacja przestaje być aktywna."],
+    ["Urządzenia, przechowywanie i usuwanie", "Widżety używają lokalnej pamięci App Group. Aktywności na żywo nie używają powiadomień push z serwera. Apple Watch wymienia nazwy i identyfikatory aktywności, czasy sesji, podsumowania, preferencje i stan uprawnień ze sparowanym iPhonem przez WatchConnectivity, bez serwera dewelopera. Zapisane dane pozostają do usunięcia lub zastąpienia. W zarządzaniu danymi w Ustawieniach można po potwierdzeniu usunąć wszystkie dane lokalne. Wyeksportowane pliki, kopie na Watchu i ewentualne kopie urządzenia zarządzane przez Apple są niezależne; usunięcie danych aplikacji nie gwarantuje ich skasowania. Kopie zapasowe zależą od ustawień systemu."]
+  ],
   "privacy_sections": [
     ["Dane na urządzeniu", "Nazwy aktywności, sesje, podsumowania, cele tygodniowe, terminy i ustawienia pozostają w lokalnej pamięci aplikacji. Studydown nie ma kont ani serwera dewelopera."],
     ["Informacje o ruchu", "Studydown odczytuje orientację i ruch tylko po to, by rozpoznać iPhone’a odłożonego ekranem w dół. Surowe dane czujników nie są zapisywane, wysyłane ani łączone z Tobą."],

@@ -9,7 +9,7 @@
   "home": ["Timpul de concentrare, înregistrat clar", "Studydown transformă timpul cu iPhone-ul așezat cu ecranul în jos într-un jurnal privat de activități pentru muncă, învățare și viața de zi cu zi. Alege o activitate, pornește și așază ecranul în jos.", "Pentru orice activitate care cere concentrare"],
   "facts": [
     ["Cronometrare cu ecranul în jos", "Timpul este înregistrat cât timp iPhone-ul stă cu ecranul în jos. Ridică-l pentru pauză, apoi continuă conform setărilor cronometrului."],
-    ["Sesiuni gratuite nelimitate", "Înregistrează oricâte sesiuni dorești, păstrează până la 3 activități, consultă Azi și Săptămâna aceasta și salvează un CSV de bază."],
+    ["Gratuit: 3 activități, 5 minute", "Versiunea gratuită oferă până la 3 activități și în total 300 de secunde (5 minute) de timp înregistrat, rezumatele Azi și Săptămâna aceasta și CSV de bază. Limita nu se reînnoiește zilnic. Lifetime Pro elimină ambele limite. O sesiune deja începută cu ecranul în jos se salvează integral, fără scurtare."],
     ["Lifetime Pro", "O singură achiziție permanentă deblochează activități nelimitate, analize lunare, anuale și personalizate, obiective săptămânale, termene-limită, Apple Watch, widgeturi, stiluri vizuale avansate și copie de siguranță și restaurare JSON complete. Fără abonament."],
     ["Confidențial din proiectare", "Nu există cont, server al dezvoltatorului, publicitate, analiză sau urmărire. Înregistrările aplicației rămân pe dispozitiv."]
   ],
@@ -21,6 +21,15 @@
     ["Care este diferența dintre CSV și JSON?", "CSV-ul de bază este gratuit pentru înregistrări tabelare. Lifetime Pro adaugă copie de siguranță și restaurare JSON complete. Fișierul este creat numai la cererea ta și salvat unde alegi."]
   ],
   "privacy": ["Politica de confidențialitate", "Aplicația Studydown nu colectează date cu caracter personal. Înregistrările de concentrare sunt prelucrate și stocate pe dispozitiv.", "Ultima actualizare"],
+  "support_details": [
+    ["Cum testez o sesiune scurtă?", "În Configurări, setează durata minimă de păstrat la 3 secunde. Alege o activitate, pornește cronometrul și lasă iPhone-ul plat și nemișcat, cu ecranul în jos, cel puțin 10 secunde după detectare. Menține Studydown activ și telefonul deblocat. Ridică-l și încheie sesiunea sau așteaptă expirarea perioadei de grație. Sesiunile sub minimul ales nu sunt păstrate."],
+    ["Cum schimb mementourile?", "În Configurări, activează sau dezactivează mementourile și alege o oră zilnică sau un interval de 1, 2, 3, 4, 6, 8 ori 12 ore. Notificările necesită permisiune, dar refuzul nu împiedică măsurarea timpului. Blocarea telefonului sau ieșirea din aplicație oprește acumularea timpului; iOS poate livra în continuare mementourile programate."]
+  ],
+  "privacy_details": [
+    ["Notificări locale", "Configurările mementourilor și textul notificărilor rămân pe dispozitiv. iOS programează notificări locale; Studydown nu folosește un server push la distanță și nu încarcă un token de dispozitiv. Permisiunea este cerută la activarea mementourilor sau folosirea controlului de autorizare, nu la prima lansare."],
+    ["Servicii Apple și mișcare", "StoreKit poate contacta Apple pentru produse și prețuri locale, verificarea drepturilor, cumpărarea sau restaurarea Lifetime Pro. Aplicația citește informații verificate despre tranzacții și drepturi, nu date de plată, și nu trimite înregistrări de concentrare pentru cumpărături. Serviciile Apple respectă condițiile Apple. CoreMotion procesează orientarea și mișcarea local, nu imagini de cameră; urmărirea se oprește când aplicația devine inactivă."],
+    ["Dispozitive, păstrare și ștergere", "Widgeturile folosesc stocarea locală App Group. Activitățile live nu folosesc push de la server. Apple Watch schimbă nume și identificatori de activități, timpi, rezumate, preferințe și drepturi cu iPhone-ul asociat prin WatchConnectivity, nu cu un server al dezvoltatorului. Datele salvate rămân până la ștergere sau înlocuire. În gestionarea datelor din Configurări poți șterge toate datele locale după confirmare. Fișierele exportate, copiile de pe Watch și eventualele copii de siguranță gestionate de Apple sunt separate; ștergerea în aplicație nu garantează eliminarea lor. Copiile de siguranță depind de configurările sistemului."]
+  ],
   "privacy_sections": [
     ["Date pe dispozitiv", "Numele activităților, sesiunile, rezumatele, obiectivele săptămânale, termenele-limită și setările rămân în stocarea locală. Studydown nu are conturi și nici server al dezvoltatorului."],
     ["Informații despre mișcare", "Studydown citește orientarea și mișcarea doar pentru a detecta iPhone-ul cu ecranul în jos. Valorile brute ale senzorilor nu sunt păstrate, trimise sau asociate cu tine."],

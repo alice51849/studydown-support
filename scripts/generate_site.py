@@ -14,7 +14,7 @@ SOURCE_DIR = ROOT / "source" / "locales"
 BASE_URL = "https://alice51849.github.io/studydown-support/"
 ASSET_ROOT = "/studydown-support/assets/"
 EMAIL = "hourstag.app@gmail.com"
-UPDATED = "2026-09-01"
+UPDATED = "2026-09-05"
 PAGES = ("index", "support", "privacy")
 PAGE_FILES = {"index": "index.html", "support": "support.html", "privacy": "privacy.html"}
 LOCALES = [
@@ -46,7 +46,7 @@ OG_LOCALES = {
 EXPECTED_KEYS = {
     "language_name", "language_label", "navigation_label", "skip_link", "nav",
     "footer", "contact", "home", "facts", "support", "faqs", "privacy",
-    "privacy_sections",
+    "privacy_sections", "support_details", "privacy_details",
 }
 
 
@@ -84,7 +84,11 @@ def load_translations() -> dict[str, dict[str, Any]]:
             raise SystemExit(f"{locale}: privacy must contain three strings")
         if not isinstance(item["privacy_sections"], list) or len(item["privacy_sections"]) != 6:
             raise SystemExit(f"{locale}: privacy_sections must contain six pairs")
-        for group in ("facts", "faqs", "privacy_sections"):
+        if not isinstance(item["support_details"], list) or len(item["support_details"]) != 2:
+            raise SystemExit(f"{locale}: support_details must contain two pairs")
+        if not isinstance(item["privacy_details"], list) or len(item["privacy_details"]) != 3:
+            raise SystemExit(f"{locale}: privacy_details must contain three pairs")
+        for group in ("facts", "faqs", "privacy_sections", "support_details", "privacy_details"):
             if any(not isinstance(pair, list) or len(pair) != 2 for pair in item[group]):
                 raise SystemExit(f"{locale}: {group} entries must be title/body pairs")
         data[locale] = item
@@ -162,7 +166,7 @@ def home_markup(item: dict[str, Any]) -> str:
 
 def support_markup(item: dict[str, Any]) -> str:
     free_fact, pro_fact = item["facts"][1], item["facts"][2]
-    entries = [item["faqs"][0], item["faqs"][1], free_fact, pro_fact, item["faqs"][2], item["faqs"][3]]
+    entries = [*item["faqs"][:2], free_fact, pro_fact, *item["faqs"][2:], *item["support_details"]]
     rows = "\n".join(
         f'<details class="faq"><summary>{esc(title)}</summary><p>{esc(body)}</p></details>'
         for title, body in entries
@@ -180,7 +184,7 @@ def support_markup(item: dict[str, Any]) -> str:
 def privacy_markup(item: dict[str, Any]) -> str:
     rows = "\n".join(
         f'<section class="card"><h2>{esc(title)}</h2><p>{esc(body)}</p></section>'
-        for title, body in item["privacy_sections"]
+        for title, body in [*item["privacy_sections"], *item["privacy_details"]]
     )
     return f"""
 <div class="policy-list">

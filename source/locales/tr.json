@@ -9,7 +9,7 @@
   "home": ["Odak süreniz, açıkça kaydedilir", "Studydown, iPhone ekranı aşağı bakarken geçen süreyi iş, öğrenme ve günlük yaşam için özel bir etkinlik günlüğüne dönüştürür. Bir Etkinlik seçin, başlatın ve ekranı aşağı koyun.", "Odaklanmak istediğiniz her şey için"],
   "facts": [
     ["Ekran aşağıdayken zamanlama", "iPhone ekranı aşağı bakarken süre kaydedilir. Duraklatmak için kaldırın, ardından sayaç ayarlarınıza göre devam edin."],
-    ["Sınırsız ücretsiz oturum", "Sınırsız odak oturumu kaydedin, en fazla 3 Etkinlik tutun, Bugün ve Bu Hafta özetlerini görün ve temel CSV kaydedin."],
+    ["Ücretsiz: 3 Etkinlik, toplam 5 dakika", "Ücretsiz sürüm en fazla 3 Etkinlik ve toplam 300 saniye (5 dakika) kayıtlı süre, Bugün ve Bu Hafta özetleri ile temel CSV sunar. Kota her gün yenilenmez. Lifetime Pro iki sınırı da kaldırır. Ekran aşağı bakarken zaten başlamış olan bir oturum, süresi kesilmeden bütünüyle kaydedilir."],
     ["Lifetime Pro", "Tek bir kalıcı satın alma; sınırsız Etkinlik, aylık, yıllık ve özel analiz, haftalık hedefler, son tarihler, Apple Watch, araç takımları, gelişmiş hero stilleri ve tam JSON yedekleme ile geri yüklemeyi açar. Abonelik yoktur."],
     ["Tasarım gereği özel", "Hesap, geliştirici sunucusu, reklam, analiz veya izleme yoktur. Uygulama kayıtları cihazınızda kalır."]
   ],
@@ -21,6 +21,15 @@
     ["CSV ile JSON arasındaki fark nedir?", "Tablo biçimindeki kayıtlar için temel CSV ücretsizdir. Lifetime Pro, tam JSON yedekleme ve geri yükleme ekler. Dosya yalnızca siz istediğinizde oluşturulur ve seçtiğiniz yere kaydedilir."]
   ],
   "privacy": ["Gizlilik Politikası", "Studydown uygulaması kişisel veri toplamaz. Odak kayıtları cihazınızda işlenir ve saklanır.", "Son güncelleme"],
+  "support_details": [
+    ["Kısa bir oturumu nasıl denerim?", "Ayarlarda saklanacak en kısa oturumu 3 saniyeye ayarlayın. Bir Etkinlik seçip zamanlayıcıyı başlatın ve iPhone’u ekranı aşağıda, düz ve sabit bırakın. Algılamadan sonra en az 10 saniye bekleyin. Studydown etkin, telefon kilidi açık kalmalıdır. Kaldırıp oturumu bitirin veya tolerans süresinin dolmasını bekleyin. Seçilen minimumdan kısa oturumlar kaydedilmez."],
+    ["Hatırlatıcıları nasıl değiştiririm?", "Ayarlarda hatırlatıcıları açıp kapatabilir, günlük saat veya 1, 2, 3, 4, 6, 8 ya da 12 saatlik aralık seçebilirsiniz. Bildirim izni gerekir; reddetmeniz süre ölçümünü engellemez. Telefonu kilitlemek veya uygulamadan ayrılmak süre birikimini durdurur; iOS planlanmış hatırlatıcıları yine de iletebilir."]
+  ],
+  "privacy_details": [
+    ["Yerel bildirimler", "Hatırlatıcı ayarları ve bildirim metni cihazda kalır. iOS yerel bildirimleri planlar; Studydown uzaktaki bir push sunucusunu kullanmaz veya cihaz token’ı yüklemez. İzin, hatırlatıcıları etkinleştirdiğinizde ya da izin kontrolünü kullandığınızda istenir; ilk açılışta istenmez."],
+    ["Apple hizmetleri ve hareket", "StoreKit ürünleri ve yerel fiyatları yüklemek, Lifetime Pro haklarını doğrulamak, satın almak veya geri yüklemek için Apple’a bağlanabilir. Uygulama ödeme ayrıntılarını değil doğrulanmış işlem ve hak bilgilerini okur; satın alma için odak kayıtları göndermez. Apple hizmetlerinde Apple’ın koşulları geçerlidir. CoreMotion kamera görüntüsü kullanmadan yön ve hareketi cihazda işler; uygulama etkinliğini kaybedince hareket takibi durur."],
+    ["Cihazlar, saklama ve silme", "Araç takımları yerel App Group depolamasını kullanır. Canlı Etkinlikler sunucudan push almaz. Apple Watch, WatchConnectivity üzerinden Etkinlik adları ve kimlikleri, oturum süreleri, özetler, tercihler ve hak durumunu eşlenmiş iPhone ile paylaşır; geliştirici sunucusuyla paylaşmaz. Kaydedilen veriler silinene veya değiştirilene kadar kalır. Ayarlardaki veri yönetiminde onay verdikten sonra tüm yerel verileri silebilirsiniz. Dışa aktarılan dosyalar, Watch kopyaları ve Apple’ın yönettiği olası cihaz yedekleri ayrıdır; uygulama verilerini silmek bu kopyaları silmeyi garanti etmez. Yedekler sistem ayarlarınıza bağlıdır."]
+  ],
   "privacy_sections": [
     ["Cihazınızdaki veriler", "Etkinlik adları, oturumlar, özetler, haftalık hedefler, son tarihler ve ayarlar uygulamanın yerel depolamasında kalır. Studydown'ın hesabı veya geliştirici sunucusu yoktur."],
     ["Hareket bilgisi", "Studydown, iPhone'un ekranı aşağı bakacak şekilde durduğunu algılamak için yalnızca gerektiğinde yönü ve hareketi okur. Ham sensör verileri tutulmaz, gönderilmez veya sizinle ilişkilendirilmez."],

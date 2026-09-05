@@ -9,7 +9,7 @@
   "home": ["Focustijd, helder vastgelegd", "Studydown maakt van de tijd met je iPhone omgekeerd op tafel een privélogboek voor activiteiten rond werk, leren en het dagelijks leven. Kies een activiteit, start en leg het scherm omlaag.", "Voor elk moment waarop je wilt focussen"],
   "facts": [
     ["Tijdmeting met scherm omlaag", "De tijd wordt geregistreerd zolang de iPhone met het scherm omlaag ligt. Til hem op om te pauzeren en ga verder volgens je timerinstellingen."],
-    ["Onbeperkt gratis sessies", "Registreer onbeperkt focussessies, bewaar maximaal 3 activiteiten, bekijk Vandaag en Deze week en sla een eenvoudig CSV-bestand op."],
+    ["Gratis: 3 activiteiten, 5 minuten", "De gratis versie biedt maximaal 3 activiteiten en in totaal 300 seconden (5 minuten) vastgelegde tijd, overzichten van Vandaag en Deze week en een eenvoudig CSV-bestand. Het tegoed wordt niet dagelijks vernieuwd. Lifetime Pro heft beide grenzen op. Een al gestarte sessie met het scherm omlaag wordt zonder inkorting opgeslagen."],
     ["Lifetime Pro", "Eén blijvende aankoop ontgrendelt onbeperkte activiteiten, maand-, jaar- en aangepaste analyses, weekdoelen, deadlines, Apple Watch, widgets, geavanceerde hero-stijlen en volledige JSON-reservekopie en herstel. Geen abonnement."],
     ["Privacy als uitgangspunt", "Geen account, ontwikkelaarsserver, advertenties, analyse of tracking. Je appregistraties blijven op je apparaat."]
   ],
@@ -21,6 +21,15 @@
     ["Wat is het verschil tussen CSV en JSON?", "Een eenvoudig CSV-bestand voor tabelgegevens is gratis. Lifetime Pro voegt volledige JSON-reservekopie en herstel toe. Een bestand wordt alleen op jouw verzoek gemaakt en opgeslagen waar jij kiest."]
   ],
   "privacy": ["Privacybeleid", "De Studydown-app verzamelt geen persoonsgegevens. Focusregistraties worden op je apparaat verwerkt en bewaard.", "Laatst bijgewerkt"],
+  "support_details": [
+    ["Hoe test ik een korte sessie?", "Zet in Instellingen de kortste te bewaren sessie op 3 seconden. Kies een activiteit, start de timer en leg de iPhone plat en stil met het scherm omlaag. Wacht na de detectie minstens 10 seconden. Houd Studydown actief en de telefoon ontgrendeld. Til hem op en beëindig de sessie of laat de respijtperiode verlopen. Sessies onder het gekozen minimum worden niet bewaard."],
+    ["Hoe wijzig ik herinneringen?", "Zet herinneringen in Instellingen aan of uit en kies een dagelijks tijdstip of elke 1, 2, 3, 4, 6, 8 of 12 uur. Meldingen vragen toestemming; de timer werkt ook zonder die toestemming. De telefoon vergrendelen of de app verlaten stopt het optellen van tijd, maar iOS kan geplande herinneringen nog bezorgen."]
+  ],
+  "privacy_details": [
+    ["Lokale meldingen", "Herinneringsinstellingen en meldingsteksten blijven op het apparaat. iOS plant lokale meldingen; Studydown gebruikt geen externe pushserver en uploadt geen apparaattoken. Toestemming wordt pas gevraagd als je herinneringen aanzet of de toestemmingsknop gebruikt, niet bij de eerste start."],
+    ["Apple-diensten en beweging", "StoreKit kan Apple benaderen om producten en lokale prijzen te laden en Lifetime Pro te controleren, kopen of herstellen. De app leest geverifieerde transactie- en toegangsgegevens, geen betaalgegevens, en stuurt geen focusregistraties voor aankopen. Voor Apple-diensten gelden Apples voorwaarden. CoreMotion verwerkt oriëntatie en beweging lokaal, geen camerabeelden; bewegingsdetectie stopt zodra de app inactief wordt."],
+    ["Apparaten, bewaren en wissen", "Widgets gebruiken lokale App Group-opslag. Live activiteiten gebruiken geen serverpush. Apple Watch wisselt via WatchConnectivity namen en identificaties van activiteiten, sessietijden, samenvattingen, voorkeuren en toegangsstatus uit met de gekoppelde iPhone, niet met een ontwikkelaarsserver. Bewaarde records blijven tot je ze wist of vervangt. Via het gegevensbeheer in Instellingen kun je alle lokale gegevens na bevestiging wissen. Geëxporteerde bestanden, Watch-kopieën en eventuele door Apple beheerde apparaatback-ups staan los hiervan; wissen in de app garandeert niet dat die kopieën verdwijnen. Back-ups hangen af van je systeeminstellingen."]
+  ],
   "privacy_sections": [
     ["Gegevens op je apparaat", "Namen van activiteiten, sessies, overzichten, weekdoelen, deadlines en instellingen blijven in de lokale appopslag. Studydown heeft geen account of ontwikkelaarsserver."],
     ["Bewegingsinformatie", "Studydown leest stand en beweging alleen om te herkennen dat de iPhone met het scherm omlaag ligt. Ruwe sensormetingen worden niet bewaard, verzonden of aan jou gekoppeld."],

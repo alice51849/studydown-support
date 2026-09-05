@@ -8,6 +8,7 @@ import pathlib
 import re
 import struct
 import sys
+import unicodedata
 from html.parser import HTMLParser
 
 sys.dont_write_bytecode = True
@@ -154,9 +155,23 @@ def check_sources(errors: list[str], translations: dict[str, dict[str, object]])
         emails = set(EMAIL_RE.findall(joined))
         if emails and emails != {EMAIL}:
             errors.append(f"{locale}: unauthorized email")
+        free_text = "\n".join(translations[locale]["facts"][1])
+        digits = "".join(
+            str(unicodedata.decimal(char)) if char.isdecimal() else char
+            for char in free_text
+        )
+        for limit in ("3", "300"):
+            if not re.search(rf"(?<!\d){limit}(?!\d)", digits):
+                errors.append(f"{locale}: free allowance is missing {limit}")
+        for token in ("CoreMotion", "StoreKit", "WatchConnectivity", "App Group"):
+            if token not in joined:
+                errors.append(f"{locale}: missing privacy service {token}")
         if locale not in {"en-AU", "en-CA", "en-GB", "en-US"}:
             if translations[locale]["home"] == translations["en-US"]["home"]:
                 errors.append(f"{locale}: untranslated home copy")
+            for group in ("support_details", "privacy_details"):
+                if translations[locale][group] == translations["en-US"][group]:
+                    errors.append(f"{locale}: untranslated {group}")
 
     joined_all = "\n".join(all_text)
     if TRACKING_RE.search(joined_all):
@@ -164,7 +179,7 @@ def check_sources(errors: list[str], translations: dict[str, dict[str, object]])
     en = translations["en-US"]
     required = [
         "work, learning, and daily life",
-        "unlimited focus sessions",
+        "300 seconds (5 minutes)",
         "up to 3 Activities",
         "Today and This Week",
         "basic CSV",
@@ -178,6 +193,10 @@ def check_sources(errors: list[str], translations: dict[str, dict[str, object]])
         "complete JSON backup and restore",
         "No subscription",
         "StoreKit",
+        "CoreMotion",
+        "WatchConnectivity",
+        "App Group",
+        "local notifications",
         "GitHub Pages",
     ]
     for phrase in required:

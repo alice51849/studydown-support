@@ -9,7 +9,7 @@
   "home": ["O seu tempo de concentração, bem registado", "O Studydown transforma o tempo com o iPhone virado para baixo num registo privado de atividades para trabalho, aprendizagem e vida quotidiana. Escolha uma atividade, inicie e coloque o ecrã para baixo.", "Concentração para qualquer parte do dia"],
   "facts": [
     ["Cronometragem com o ecrã para baixo", "O tempo é registado enquanto o iPhone está virado para baixo. Levante-o para pausar e continue de acordo com as definições do temporizador."],
-    ["Sessões gratuitas ilimitadas", "Registe todas as sessões que quiser, mantenha até 3 atividades, consulte Hoje e Esta semana e guarde um CSV básico."],
+    ["Grátis: 3 atividades, 5 minutos", "A versão gratuita inclui até 3 atividades e 300 segundos (5 minutos) de tempo registado no total, os resumos Hoje e Esta semana e um CSV básico. O limite não se renova diariamente. Lifetime Pro remove os dois limites. Uma sessão já iniciada com o ecrã virado para baixo é guardada sem cortar a duração."],
     ["Lifetime Pro", "Uma única compra permanente desbloqueia atividades ilimitadas, análises mensais, anuais e personalizadas, objetivos semanais, prazos, Apple Watch, widgets, estilos visuais avançados e cópia e reposição JSON completas. Sem subscrição."],
     ["Privado desde a origem", "Não existe conta, servidor do programador, publicidade, análise de utilização ou seguimento. Os registos da app ficam no seu dispositivo."]
   ],
@@ -21,6 +21,15 @@
     ["Qual é a diferença entre CSV e JSON?", "O CSV básico é gratuito para registos em tabela. O Lifetime Pro acrescenta cópia e reposição JSON completas. O ficheiro só é criado quando o pedir e fica no destino escolhido."]
   ],
   "privacy": ["Política de Privacidade", "A app Studydown não recolhe dados pessoais. Os registos de concentração são processados e guardados no seu dispositivo.", "Última atualização"],
+  "support_details": [
+    ["Como testo uma sessão curta?", "Nas definições, escolha 3 segundos como duração mínima a guardar. Selecione uma atividade, inicie o cronómetro e deixe o iPhone plano e imóvel, com o ecrã para baixo, durante pelo menos 10 segundos após a deteção. Mantenha Studydown ativo e o telefone desbloqueado. Levante-o e termine a sessão ou espere pelo fim do período de tolerância. As sessões abaixo do mínimo escolhido são descartadas."],
+    ["Como altero os lembretes?", "Nas definições, ative ou desative os lembretes e escolha uma hora diária ou um intervalo de 1, 2, 3, 4, 6, 8 ou 12 horas. As notificações precisam de permissão, mas recusá-la não impede a contagem do tempo. Bloquear o telefone ou sair da app interrompe a acumulação de tempo; o iOS pode continuar a enviar os lembretes programados."]
+  ],
+  "privacy_details": [
+    ["Notificações locais", "As definições dos lembretes e o texto das notificações ficam no dispositivo. O iOS agenda notificações locais; Studydown não usa um servidor push remoto nem envia um token do dispositivo. A permissão só é pedida ao ativar os lembretes ou usar o controlo de autorização, nunca na primeira abertura."],
+    ["Serviços Apple e movimento", "StoreKit pode contactar a Apple para carregar produtos e preços locais, verificar direitos, comprar ou restaurar Lifetime Pro. A app lê informações verificadas de transações e direitos, não detalhes de pagamento, e não envia registos de concentração para as compras. Os serviços Apple seguem os termos da Apple. CoreMotion processa a orientação e o movimento no dispositivo, não imagens da câmara; a deteção para quando a app fica inativa."],
+    ["Dispositivos, conservação e eliminação", "Os widgets usam o armazenamento local App Group. As atividades em direto não usam push de servidor. Apple Watch troca nomes e identificadores de atividades, tempos, resumos, preferências e direitos com o iPhone emparelhado através de WatchConnectivity, sem servidor do programador. Os registos guardados mantêm-se até serem apagados ou substituídos. Na gestão de dados das definições, pode apagar todos os dados locais após confirmar. Ficheiros exportados, cópias no Watch e eventuais cópias de segurança geridas pela Apple são separados; apagar os dados da app não garante removê-los. As cópias de segurança dependem das definições do sistema."]
+  ],
   "privacy_sections": [
     ["Dados no seu dispositivo", "Os nomes das atividades, sessões, resumos, objetivos semanais, prazos e definições ficam no armazenamento local. O Studydown não tem conta nem servidor do programador."],
     ["Informação de movimento", "O Studydown lê a orientação e o movimento apenas para detetar o iPhone virado para baixo. As leituras brutas dos sensores não são guardadas, enviadas ou associadas a si."],

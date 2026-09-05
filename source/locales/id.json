@@ -9,7 +9,7 @@
   "home": ["Waktu fokus, tercatat dengan jelas", "Studydown mengubah waktu saat iPhone ditaruh dengan layar menghadap ke bawah menjadi catatan aktivitas pribadi untuk pekerjaan, belajar, dan keseharian. Pilih Aktivitas, mulai, lalu taruh layar ke bawah.", "Untuk segala hal yang membutuhkan fokus"],
   "facts": [
     ["Pengukuran dengan layar di bawah", "Waktu dicatat selama iPhone berada dengan layar menghadap ke bawah. Angkat untuk menjeda, lalu lanjutkan sesuai pengaturan timer."],
-    ["Sesi gratis tanpa batas", "Catat sesi fokus tanpa batas, simpan hingga 3 Aktivitas, lihat Hari Ini dan Minggu Ini, serta simpan CSV dasar."],
+    ["Gratis: 3 Aktivitas, total 5 menit", "Versi gratis menyediakan hingga 3 Aktivitas dan total waktu tercatat 300 detik (5 menit), ringkasan Hari Ini dan Minggu Ini, serta CSV dasar. Kuota tidak diatur ulang setiap hari. Lifetime Pro menghapus kedua batas. Sesi dengan layar menghadap ke bawah yang sudah dimulai disimpan utuh tanpa memotong waktunya."],
     ["Lifetime Pro", "Satu pembelian permanen membuka Aktivitas tanpa batas, analisis bulanan, tahunan, dan rentang khusus, target mingguan, tenggat, Apple Watch, Widget, gaya hero lanjutan, serta pencadangan dan pemulihan JSON lengkap. Tanpa langganan."],
     ["Privat sejak awal", "Tanpa akun, server pengembang, iklan, analitik, atau pelacakan. Catatan aplikasi tetap berada di perangkat Anda."]
   ],
@@ -21,6 +21,15 @@
     ["Apa perbedaan CSV dan JSON?", "CSV dasar tersedia gratis untuk catatan berbentuk tabel. Lifetime Pro menambahkan pencadangan dan pemulihan JSON lengkap. File hanya dibuat saat Anda memintanya dan disimpan ke lokasi pilihan Anda."]
   ],
   "privacy": ["Kebijakan Privasi", "Aplikasi Studydown tidak mengumpulkan data pribadi. Catatan fokus diproses dan disimpan di perangkat Anda.", "Terakhir diperbarui"],
+  "support_details": [
+    ["Bagaimana cara mencoba sesi singkat?", "Di Pengaturan, atur sesi terpendek yang disimpan menjadi 3 detik. Pilih Aktivitas, mulai timer, lalu letakkan iPhone datar dan diam dengan layar ke bawah selama setidaknya 10 detik setelah terdeteksi. Biarkan Studydown aktif dan ponsel tidak terkunci. Angkat lalu akhiri sesi, atau tunggu masa tenggang berakhir. Sesi yang lebih pendek dari minimum pilihan Anda tidak disimpan."],
+    ["Bagaimana cara mengubah pengingat?", "Di Pengaturan, aktifkan atau matikan pengingat lalu pilih waktu harian atau interval 1, 2, 3, 4, 6, 8, atau 12 jam. Notifikasi memerlukan izin, tetapi menolaknya tidak menghalangi timer. Mengunci ponsel atau meninggalkan aplikasi menghentikan penambahan waktu; iOS masih dapat mengirim pengingat terjadwal."]
+  ],
+  "privacy_details": [
+    ["Notifikasi lokal", "Pengaturan pengingat dan teks notifikasi tetap di perangkat. iOS menjadwalkan notifikasi lokal; Studydown tidak memakai server push jarak jauh atau mengunggah token perangkat. Izin diminta saat Anda mengaktifkan pengingat atau memakai kontrol izin, bukan saat pertama kali membuka aplikasi."],
+    ["Layanan Apple dan gerakan", "StoreKit dapat menghubungi Apple untuk memuat produk dan harga setempat, memverifikasi hak akses, membeli, atau memulihkan Lifetime Pro. Aplikasi membaca informasi transaksi dan hak akses yang terverifikasi, bukan detail pembayaran, serta tidak mengirim catatan fokus untuk pembelian. Layanan Apple tunduk pada ketentuan Apple. CoreMotion memproses orientasi dan gerakan di perangkat, bukan gambar kamera; pelacakan gerakan berhenti saat aplikasi tidak aktif."],
+    ["Perangkat, penyimpanan, dan penghapusan", "Widget memakai penyimpanan lokal App Group. Aktivitas Langsung tidak memakai push server. Apple Watch bertukar nama dan pengenal Aktivitas, waktu sesi, ringkasan, preferensi, dan status hak akses dengan iPhone yang dipasangkan melalui WatchConnectivity, bukan server pengembang. Catatan tersimpan tetap ada sampai dihapus atau diganti. Di pengelolaan data Pengaturan, Anda dapat menghapus semua data lokal setelah konfirmasi. File ekspor, salinan Watch, dan cadangan perangkat yang mungkin dikelola Apple terpisah; menghapus data aplikasi tidak menjamin salinan tersebut terhapus. Cadangan bergantung pada pengaturan sistem."]
+  ],
   "privacy_sections": [
     ["Data di perangkat", "Nama Aktivitas, sesi fokus, ringkasan, target mingguan, tenggat, dan pengaturan tetap berada di penyimpanan lokal aplikasi. Studydown tidak memiliki akun atau server pengembang."],
     ["Informasi gerakan", "Studydown membaca orientasi dan gerakan hanya untuk mendeteksi iPhone yang layarnya menghadap ke bawah. Data sensor mentah tidak disimpan, dikirim, atau dikaitkan dengan Anda."],

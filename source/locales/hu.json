@@ -9,7 +9,7 @@
   "home": ["Fókuszidő, átláthatóan rögzítve", "A Studydown a kijelzővel lefelé töltött időt privát tevékenységnaplóvá alakítja munkához, tanuláshoz és a mindennapokhoz. Válassz tevékenységet, indítsd el, majd tedd le az iPhone-t kijelzővel lefelé.", "Mindenhez, ami teljes figyelmet érdemel"],
   "facts": [
     ["Időmérés kijelzővel lefelé", "Az idő addig rögzül, amíg az iPhone kijelzővel lefelé fekszik. Emeld fel a szünethez, majd folytasd az időzítő beállításai szerint."],
-    ["Korlátlan ingyenes alkalom", "Rögzíts korlátlan számú fókuszidőt, tarts meg legfeljebb 3 tevékenységet, nézd meg a Mai nap és az E hét adatait, és ments alap CSV-fájlt."],
+    ["Ingyen: 3 tevékenység, 5 perc", "Az ingyenes verzió legfeljebb 3 tevékenységet és összesen 300 másodperc (5 perc) rögzített időt, Mai nap és E hét összesítést, valamint alap CSV-t kínál. A keret nem újul meg naponta. A Lifetime Pro mindkét korlátot feloldja. A már elindított, képernyővel lefelé mért alkalom teljes idejét megőrizzük."],
     ["Lifetime Pro", "Egyetlen tartós vásárlás feloldja a korlátlan tevékenységeket, a havi, éves és egyéni elemzéseket, a heti célokat, a határidőket, az Apple Watchot, a widgeteket, a fejlett hero-stílusokat, valamint a teljes JSON-biztonsági mentést és visszaállítást. Nincs előfizetés."],
     ["Alapjaiban privát", "Nincs fiók, fejlesztői szerver, hirdetés, analitika vagy követés. Az alkalmazás adatai a készülékeden maradnak."]
   ],
@@ -21,6 +21,15 @@
     ["Mi a különbség a CSV és a JSON között?", "Az egyszerű CSV-fájl ingyenesen használható táblázatos adatokhoz. A Lifetime Pro teljes JSON-biztonsági mentést és visszaállítást ad. Fájl csak a kérésedre, az általad választott helyre készül."]
   ],
   "privacy": ["Adatvédelmi szabályzat", "A Studydown alkalmazás nem gyűjt személyes adatokat. A fókusznaplók feldolgozása és tárolása a készülékeden történik.", "Utolsó frissítés"],
+  "support_details": [
+    ["Hogyan próbáljak ki egy rövid alkalmat?", "A Beállításokban állítsd a megőrzendő legrövidebb időt 3 másodpercre. Válassz tevékenységet, indítsd az időzítőt, és tedd az iPhone-t sík felületre, képernyővel lefelé. Az észlelés után legalább 10 másodpercig ne mozdítsd. A Studydown maradjon aktív, a telefon pedig feloldva. Emeld fel, és fejezd be az alkalmat, vagy várd meg a türelmi idő végét. A beállított minimumnál rövidebb alkalmak nem maradnak meg."],
+    ["Hogyan módosíthatók az emlékeztetők?", "A Beállításokban kapcsold be vagy ki az emlékeztetőket, és válassz napi időpontot vagy 1, 2, 3, 4, 6, 8 vagy 12 órás gyakoriságot. Az értesítéshez engedély kell, de annak elutasítása nem akadályozza az időmérést. A telefon lezárása vagy az app elhagyása leállítja az idő hozzáadását; az iOS ettől még kézbesítheti az ütemezett emlékeztetőket."]
+  ],
+  "privacy_details": [
+    ["Helyi értesítések", "Az emlékeztetők beállításai és szövege az eszközön maradnak. A helyi értesítéseket az iOS ütemezi; a Studydown nem használ távoli push-szervert, és nem tölt fel eszköztokent. Engedélyt az emlékeztetők bekapcsolásakor vagy az engedélykérő vezérlő használatakor kér, nem az első indításkor."],
+    ["Apple-szolgáltatások és mozgás", "A StoreKit kapcsolatba léphet az Apple-lel a termékek és helyi árak betöltéséhez, illetve a Lifetime Pro ellenőrzéséhez, megvásárlásához vagy visszaállításához. Az app ellenőrzött tranzakciós és jogosultsági adatokat olvas, nem fizetési adatokat, és a vásárláshoz nem küld fókusznaplót. Az Apple szolgáltatásaira az Apple feltételei érvényesek. A CoreMotion helyben dolgozza fel a tájolást és mozgást, nem kameraképeket; a követés megszűnik, amikor az app inaktívvá válik."],
+    ["Eszközök, tárolás és törlés", "A widgetek helyi App Group-tárhelyet használnak. Az élő tevékenységek nem használnak szerveres push-t. Az Apple Watch a WatchConnectivity segítségével tevékenységneveket és azonosítókat, időadatokat, összesítéseket, beállításokat és jogosultsági állapotot cserél a párosított iPhone-nal, nem fejlesztői szerverrel. A mentett adatok törlésig vagy cseréig megmaradnak. A Beállítások adatkezelésében megerősítés után minden helyi adat törölhető. Az exportált fájlok, Watch-másolatok és esetleges Apple-eszközmentések különállók; az app adatainak törlése nem garantálja eltávolításukat. A mentés a rendszerbeállításoktól függ."]
+  ],
   "privacy_sections": [
     ["Adatok a készüléken", "A tevékenységnevek, alkalmak, összesítések, heti célok, határidők és beállítások a helyi alkalmazástárban maradnak. A Studydownhoz nem tartozik fiók vagy fejlesztői szerver."],
     ["Mozgási információk", "A Studydown csak azért olvassa a tájolást és a mozgást, hogy felismerje a kijelzővel lefelé fordított iPhone-t. A nyers szenzoradatokat nem őrzi meg, nem küldi el és nem kapcsolja hozzád."],

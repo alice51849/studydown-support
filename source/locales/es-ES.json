@@ -9,7 +9,7 @@
   "home": ["Tu tiempo de concentración, bien registrado", "Studydown convierte el tiempo con el iPhone boca abajo en un registro privado de actividades para el trabajo, el aprendizaje y la vida diaria. Elige una actividad, inicia y coloca la pantalla hacia abajo.", "Concentración para cualquier parte de tu día"],
   "facts": [
     ["Cronometraje boca abajo", "El tiempo se registra mientras el iPhone está boca abajo. Levántalo para pausar y continúa según los ajustes del temporizador."],
-    ["Sesiones gratuitas ilimitadas", "Registra todas las sesiones que quieras, guarda hasta 3 actividades, consulta Hoy y Esta semana y guarda un CSV básico."],
+    ["Gratis: 3 actividades, 5 minutos", "La versión gratuita incluye hasta 3 actividades y 300 segundos (5 minutos) de tiempo registrado en total, los resúmenes Hoy y Esta semana y un CSV básico. El cupo no se renueva cada día. Lifetime Pro elimina ambos límites. Una sesión ya iniciada con la pantalla hacia abajo se guarda sin recortar su duración."],
     ["Lifetime Pro", "Un único desbloqueo permanente añade actividades ilimitadas, análisis mensual, anual y personalizado, objetivos semanales, fechas límite, Apple Watch, widgets, estilos visuales avanzados y copia y restauración JSON completas. Sin suscripción."],
     ["Privacidad desde el diseño", "No hay cuenta, servidor del desarrollador, publicidad, analítica ni seguimiento. Los registros de la app permanecen en tu dispositivo."]
   ],
@@ -21,6 +21,15 @@
     ["¿En qué se diferencian CSV y JSON?", "El CSV básico es gratuito para registros en forma de tabla. Lifetime Pro añade copia y restauración JSON completas. El archivo solo se crea cuando lo solicitas y se guarda donde elijas."]
   ],
   "privacy": ["Política de privacidad", "La app Studydown no recopila datos personales. Los registros de concentración se procesan y guardan en tu dispositivo.", "Última actualización"],
+  "support_details": [
+    ["¿Cómo pruebo una sesión corta?", "En Ajustes, cambia a 3 segundos la duración mínima que se guarda. Elige una actividad, inicia el temporizador y deja el iPhone plano y quieto, con la pantalla hacia abajo, al menos 10 segundos tras la detección. Mantén Studydown activo y el teléfono desbloqueado. Levántalo y termina la sesión o espera a que acabe el periodo de gracia. Las sesiones inferiores al mínimo elegido se descartan."],
+    ["¿Cómo cambio los recordatorios?", "En Ajustes, activa o desactiva los recordatorios y elige una hora diaria o un intervalo de 1, 2, 3, 4, 6, 8 o 12 horas. Necesitan permiso para las notificaciones, pero denegarlo no impide medir el tiempo. Bloquear el teléfono o salir de la app detiene la acumulación de tiempo; iOS puede seguir enviando los recordatorios programados."]
+  ],
+  "privacy_details": [
+    ["Notificaciones locales", "La configuración de los recordatorios y su texto permanecen en el dispositivo. iOS programa notificaciones locales; Studydown no usa un servidor push remoto ni sube un token del dispositivo. Solo solicita permiso cuando activas los recordatorios o usas el control de autorización, no al abrir la app por primera vez."],
+    ["Servicios de Apple y movimiento", "StoreKit puede contactar con Apple para cargar productos y precios locales, verificar derechos, comprar o restaurar Lifetime Pro. La app lee información verificada sobre transacciones y derechos, no datos de pago, y no envía registros de concentración para las compras. Los servicios de Apple se rigen por sus propias condiciones. CoreMotion procesa la orientación y el movimiento en el dispositivo, no imágenes de la cámara; el seguimiento se detiene al quedar la app inactiva."],
+    ["Dispositivos, conservación y eliminación", "Los widgets usan el almacenamiento local App Group. Las actividades en directo no usan push desde un servidor. Apple Watch intercambia con el iPhone enlazado nombres e identificadores de actividades, tiempos de sesión, resúmenes, preferencias y derechos mediante WatchConnectivity, sin un servidor del desarrollador. Los registros guardados permanecen hasta que se borran o sustituyen. En la gestión de datos de Ajustes puedes borrar todos los datos locales tras confirmarlo. Los archivos exportados, copias del Watch y posibles copias de seguridad gestionadas por Apple son independientes; borrar los datos de la app no garantiza eliminarlas. Las copias de seguridad dependen de los ajustes del sistema."]
+  ],
   "privacy_sections": [
     ["Datos en tu dispositivo", "Los nombres de actividades, las sesiones, los resúmenes, los objetivos semanales, las fechas límite y los ajustes permanecen en el almacenamiento local. Studydown no tiene cuentas ni servidor del desarrollador."],
     ["Información de movimiento", "Studydown lee la orientación y el movimiento solo para detectar que el iPhone está boca abajo. Las lecturas brutas de los sensores no se guardan, envían ni vinculan contigo."],
