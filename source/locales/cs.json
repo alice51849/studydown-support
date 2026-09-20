@@ -1,41 +1,126 @@
 {
-  "language_name": "Čeština",
-  "language_label": "Jazyk",
-  "navigation_label": "Hlavní navigace",
-  "skip_link": "Přejít k obsahu",
-  "nav": ["Přehled", "Podpora", "Soukromí"],
-  "footer": "Oficiální informace o podpoře a soukromí aplikace Studydown.",
-  "contact": ["Kontakt", "Popište, co se stalo, a uveďte zařízení a verzi iOS. Nepřikládejte soukromé záznamy soustředění.", "Napsat podpoře"],
-  "home": ["Čas soustředění přehledně zaznamenaný", "Studydown mění čas s iPhonem položeným displejem dolů na soukromý deník aktivit pro práci, učení i běžný život. Vyberte aktivitu, spusťte měření a položte displej dolů.", "Pro každou činnost, která vyžaduje soustředění"],
-  "facts": [
-    ["Měření s displejem dolů", "Čas se zaznamenává, dokud iPhone leží displejem dolů. Zvednutím měření pozastavíte a pokračujete podle nastavení časovače."],
-    ["Zdarma: 3 aktivity, celkem 5 minut", "Bezplatná verze umožňuje až 3 aktivity a celkem 300 sekund (5 minut) zaznamenaného času, přehledy Dnes a Tento týden a základní CSV. Limit se každý den neobnovuje. Lifetime Pro oba limity ruší. Již zahájená relace s displejem dolů se uloží bez zkrácení."],
-    ["Lifetime Pro", "Jediný trvalý nákup odemkne neomezené aktivity, měsíční, roční a vlastní analýzy, týdenní cíle, termíny, Apple Watch, widgety, pokročilé hero styly a úplnou zálohu i obnovení JSON. Bez předplatného."],
-    ["Soukromí od základu", "Žádný účet, server vývojáře, reklamy, analytika ani sledování. Záznamy aplikace zůstávají ve vašem zařízení."]
+ "language_name": "Čeština",
+ "language_label": "Jazyk",
+ "navigation_label": "Hlavní navigace",
+ "skip_link": "Přejít k obsahu",
+ "nav": [
+  "Přehled",
+  "Podpora",
+  "Soukromí"
+ ],
+ "footer": "Oficiální informace o podpoře a soukromí aplikace Studydown.",
+ "contact": [
+  "Kontakt",
+  "Popište, co se stalo, a uveďte zařízení a verzi iOS. Nepřikládejte soukromé záznamy soustředění.",
+  "Napsat podpoře"
+ ],
+ "home": [
+  "Čas soustředění přehledně zaznamenaný",
+  "Studydown mění čas s iPhonem položeným displejem dolů na soukromý deník aktivit pro práci, učení i běžný život. Vyberte aktivitu, spusťte měření a položte displej dolů.",
+  "Pro každou činnost, která vyžaduje soustředění"
+ ],
+ "facts": [
+  [
+   "Měření s displejem dolů",
+   "Čas se zaznamenává, dokud iPhone leží displejem dolů. Zvednutím měření pozastavíte a pokračujete podle nastavení časovače."
   ],
-  "support": ["Podpora", "Srozumitelná pomoc s měřením displejem dolů, úrovněmi přístupu, obnovením nákupu a soubory.", "Časté dotazy"],
-  "faqs": [
-    ["Jak zahájím relaci?", "Vyberte nebo vytvořte aktivitu, spusťte časovač a položte iPhone rovně a nehybně displejem dolů. Studydown začne po rozpoznání této polohy zaznamenávat čas."],
-    ["Proč se časovač nespustil?", "Ověřte, že iPhone leží téměř rovně, nehýbe se a Studydown je aktivní. Výrazný náklon nebo trvalý pohyb může rozpoznání zabránit."],
-    ["Jak obnovím Lifetime Pro?", "Otevřete obrazovku Lifetime Pro a zvolte Obnovit nákupy s Apple Accountem použitým při nákupu. Apple přístup ověří."],
-    ["Jaký je rozdíl mezi CSV a JSON?", "Základní CSV pro tabulkové záznamy je zdarma. Lifetime Pro přidává úplnou zálohu a obnovení JSON. Soubor vznikne jen na vaši žádost a uloží se na zvolené místo."]
+  [
+   "Zdarma: 3 aktivity, celkem 5 minut",
+   "Bezplatná verze umožňuje až 3 aktivity a celkem 300 sekund (5 minut) zaznamenaného času, přehledy Dnes a Tento týden a základní CSV. Limit se každý den neobnovuje. Lifetime Pro oba limity ruší. Již zahájená relace s displejem dolů se uloží bez zkrácení."
   ],
-  "privacy": ["Zásady ochrany soukromí", "Aplikace Studydown neshromažďuje osobní údaje. Záznamy soustředění se zpracovávají a ukládají ve vašem zařízení.", "Poslední aktualizace"],
-  "support_details": [
-    ["Jak vyzkouším krátkou relaci?", "V Nastavení zvolte nejkratší uchovávanou relaci 3 sekundy. Vyberte aktivitu, spusťte časovač a položte iPhone rovně displejem dolů. Po rozpoznání jej nechte alespoň 10 sekund v klidu. Studydown musí zůstat aktivní a telefon odemčený. Zvedněte jej a relaci ukončete nebo nechte uplynout ochrannou lhůtu. Relace kratší než zvolené minimum se neukládají."],
-    ["Jak změním připomínky?", "V Nastavení připomínky zapněte či vypněte a zvolte denní čas nebo interval 1, 2, 3, 4, 6, 8 či 12 hodin. Oznámení vyžadují povolení, ale jeho odmítnutí nebrání měření času. Zamknutí telefonu nebo opuštění aplikace zastaví přičítání času; iOS může nadále doručovat naplánované připomínky."]
+  [
+   "Lifetime Pro",
+   "Jediný trvalý nákup odemkne neomezené aktivity, měsíční, roční a vlastní analýzy, týdenní cíle, termíny, Apple Watch, widgety, pokročilé hero styly a úplnou zálohu i obnovení JSON. Bez předplatného."
   ],
-  "privacy_details": [
-    ["Místní oznámení", "Nastavení připomínek a text oznámení zůstávají v zařízení. iOS plánuje místní oznámení; Studydown nepoužívá vzdálený push server ani neodesílá token zařízení. O povolení žádá při zapnutí připomínek nebo použití ovládání oprávnění, nikoli při prvním spuštění."],
-    ["Služby Apple a pohyb", "StoreKit může komunikovat s Apple při načítání produktů a místních cen, ověřování oprávnění, nákupu nebo obnovení Lifetime Pro. Aplikace čte ověřené údaje o transakcích a oprávněních, nikoli platební údaje, a pro nákupy neposílá záznamy soustředění. Služby Apple se řídí podmínkami Apple. CoreMotion zpracovává orientaci a pohyb místně, nikoli obraz z kamery; při neaktivitě aplikace se sledování zastaví."],
-    ["Zařízení, uchovávání a mazání", "Widgety používají místní úložiště App Group. Živé aktivity nepoužívají push ze serveru. Apple Watch si přes WatchConnectivity vyměňuje názvy a identifikátory aktivit, časy relací, souhrny, předvolby a stav oprávnění se spárovaným iPhonem, nikoli se serverem vývojáře. Uložené záznamy zůstávají do smazání či nahrazení. Ve správě dat v Nastavení lze po potvrzení smazat všechna místní data. Exportované soubory, kopie na Watch a případné zálohy zařízení spravované Apple jsou oddělené; smazání v aplikaci nezaručuje jejich odstranění. Zálohy závisí na nastavení systému."]
+  [
+   "Soukromí od základu",
+   "Žádný účet, server vývojáře, reklamy, analytika ani sledování. Záznamy aplikace zůstávají ve vašem zařízení."
   ],
-  "privacy_sections": [
-    ["Data ve vašem zařízení", "Názvy aktivit, relace, souhrny, týdenní cíle, termíny a nastavení zůstávají v místním úložišti aplikace. Studydown nemá účet ani server vývojáře."],
-    ["Informace o pohybu", "Studydown čte orientaci a pohyb jen kvůli rozpoznání iPhonu položeného displejem dolů. Nezpracované hodnoty senzorů se neukládají, neodesílají ani nespojují s vámi."],
-    ["Nákupy přes Apple", "Při nákupu nebo obnovení Lifetime Pro komunikuje StoreKit se společností Apple. Apple zpracuje transakci; Studydown nedostává platební údaje."],
-    ["Vámi vytvořené soubory", "Soubory CSV a JSON vznikají jen na vaši žádost. Sami zvolíte, kam je uložíte nebo nasdílíte, a poté platí pravidla soukromí daného cíle."],
-    ["Zprávy podpoře", "Pokud nám napíšete, obdržíme adresu a zprávu, které se rozhodnete poslat. Použijeme je jen k odpovědi a neprodáváme je ani nevyužíváme k reklamě."],
-    ["Tento web", "Tento statický web nepoužívá soubory cookie a nenačítá analytiku, reklamy, sledovací prvky ani skripty třetích stran. GitHub Pages web hostuje a může podle vlastních pravidel zpracovat běžná technická data připojení."]
+  [
+   "K dispozici i pro Android",
+   "Studydown je k dispozici i pro Android, vyvinutý nativně pro tuto platformu, se stejnou bezplatnou úrovní (3 aktivity, celkem 5 minut) a jednorázovým nákupem Lifetime Pro, který odemkne neomezené aktivity a nahrávání, pokročilé statistiky, cíle, termíny, widgety a zálohy. Pro Android neexistuje doprovodná aplikace Apple Watch."
   ]
+ ],
+ "support": [
+  "Podpora",
+  "Srozumitelná pomoc s měřením displejem dolů, úrovněmi přístupu, obnovením nákupu a soubory.",
+  "Časté dotazy"
+ ],
+ "faqs": [
+  [
+   "Jak zahájím relaci?",
+   "Vyberte nebo vytvořte aktivitu, spusťte časovač a položte iPhone rovně a nehybně displejem dolů. Studydown začne po rozpoznání této polohy zaznamenávat čas."
+  ],
+  [
+   "Proč se časovač nespustil?",
+   "Ověřte, že iPhone leží téměř rovně, nehýbe se a Studydown je aktivní. Výrazný náklon nebo trvalý pohyb může rozpoznání zabránit."
+  ],
+  [
+   "Jak obnovím Lifetime Pro?",
+   "Otevřete obrazovku Lifetime Pro a zvolte Obnovit nákupy s Apple Accountem použitým při nákupu. Apple přístup ověří."
+  ],
+  [
+   "Jaký je rozdíl mezi CSV a JSON?",
+   "Základní CSV pro tabulkové záznamy je zdarma. Lifetime Pro přidává úplnou zálohu a obnovení JSON. Soubor vznikne jen na vaši žádost a uloží se na zvolené místo."
+  ]
+ ],
+ "privacy": [
+  "Zásady ochrany soukromí",
+  "Aplikace Studydown neshromažďuje osobní údaje. Záznamy soustředění se zpracovávají a ukládají ve vašem zařízení.",
+  "Poslední aktualizace"
+ ],
+ "support_details": [
+  [
+   "Jak vyzkouším krátkou relaci?",
+   "V Nastavení zvolte nejkratší uchovávanou relaci 3 sekundy. Vyberte aktivitu, spusťte časovač a položte iPhone rovně displejem dolů. Po rozpoznání jej nechte alespoň 10 sekund v klidu. Studydown musí zůstat aktivní a telefon odemčený. Zvedněte jej a relaci ukončete nebo nechte uplynout ochrannou lhůtu. Relace kratší než zvolené minimum se neukládají."
+  ],
+  [
+   "Jak změním připomínky?",
+   "V Nastavení připomínky zapněte či vypněte a zvolte denní čas nebo interval 1, 2, 3, 4, 6, 8 či 12 hodin. Oznámení vyžadují povolení, ale jeho odmítnutí nebrání měření času. Zamknutí telefonu nebo opuštění aplikace zastaví přičítání času; iOS může nadále doručovat naplánované připomínky."
+  ]
+ ],
+ "privacy_details": [
+  [
+   "Místní oznámení",
+   "Nastavení připomínek a text oznámení zůstávají v zařízení. iOS plánuje místní oznámení; Studydown nepoužívá vzdálený push server ani neodesílá token zařízení. O povolení žádá při zapnutí připomínek nebo použití ovládání oprávnění, nikoli při prvním spuštění."
+  ],
+  [
+   "Služby Apple a pohyb",
+   "StoreKit může komunikovat s Apple při načítání produktů a místních cen, ověřování oprávnění, nákupu nebo obnovení Lifetime Pro. Aplikace čte ověřené údaje o transakcích a oprávněních, nikoli platební údaje, a pro nákupy neposílá záznamy soustředění. Služby Apple se řídí podmínkami Apple. CoreMotion zpracovává orientaci a pohyb místně, nikoli obraz z kamery; při neaktivitě aplikace se sledování zastaví."
+  ],
+  [
+   "Zařízení, uchovávání a mazání",
+   "Widgety používají místní úložiště App Group. Živé aktivity nepoužívají push ze serveru. Apple Watch si přes WatchConnectivity vyměňuje názvy a identifikátory aktivit, časy relací, souhrny, předvolby a stav oprávnění se spárovaným iPhonem, nikoli se serverem vývojáře. Uložené záznamy zůstávají do smazání či nahrazení. Ve správě dat v Nastavení lze po potvrzení smazat všechna místní data. Exportované soubory, kopie na Watch a případné zálohy zařízení spravované Apple jsou oddělené; smazání v aplikaci nezaručuje jejich odstranění. Zálohy závisí na nastavení systému."
+  ]
+ ],
+ "privacy_sections": [
+  [
+   "Data ve vašem zařízení",
+   "Názvy aktivit, relace, souhrny, týdenní cíle, termíny a nastavení zůstávají v místním úložišti aplikace. Studydown nemá účet ani server vývojáře."
+  ],
+  [
+   "Informace o pohybu",
+   "Studydown čte orientaci a pohyb jen kvůli rozpoznání iPhonu položeného displejem dolů. Nezpracované hodnoty senzorů se neukládají, neodesílají ani nespojují s vámi."
+  ],
+  [
+   "Nákupy přes Apple",
+   "Při nákupu nebo obnovení Lifetime Pro komunikuje StoreKit se společností Apple. Apple zpracuje transakci; Studydown nedostává platební údaje."
+  ],
+  [
+   "Vámi vytvořené soubory",
+   "Soubory CSV a JSON vznikají jen na vaši žádost. Sami zvolíte, kam je uložíte nebo nasdílíte, a poté platí pravidla soukromí daného cíle."
+  ],
+  [
+   "Zprávy podpoře",
+   "Pokud nám napíšete, obdržíme adresu a zprávu, které se rozhodnete poslat. Použijeme je jen k odpovědi a neprodáváme je ani nevyužíváme k reklamě."
+  ],
+  [
+   "Tento web",
+   "Tento statický web nepoužívá soubory cookie a nenačítá analytiku, reklamy, sledovací prvky ani skripty třetích stran. GitHub Pages web hostuje a může podle vlastních pravidel zpracovat běžná technická data připojení."
+  ],
+  [
+   "K dispozici i pro Android",
+   "Android aplikace ukládá aktivity, relace a nastavení pouze do lokálního úložiště aplikace, bez účtu či serveru vývojáře. Nákupy a jejich obnovení jsou zpracovávány prostřednictvím fakturačního systému Play Store; Studydown nezíská vaše platební údaje."
+  ]
+ ]
 }

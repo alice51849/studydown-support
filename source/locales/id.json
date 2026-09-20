@@ -1,41 +1,126 @@
 {
-  "language_name": "Bahasa Indonesia",
-  "language_label": "Bahasa",
-  "navigation_label": "Navigasi utama",
-  "skip_link": "Lewati ke isi",
-  "nav": ["Ringkasan", "Dukungan", "Privasi"],
-  "footer": "Informasi dukungan dan privasi resmi untuk Studydown.",
-  "contact": ["Hubungi kami", "Ceritakan masalahnya serta sebutkan perangkat dan versi iOS. Jangan sertakan catatan fokus pribadi.", "Email dukungan"],
-  "home": ["Waktu fokus, tercatat dengan jelas", "Studydown mengubah waktu saat iPhone ditaruh dengan layar menghadap ke bawah menjadi catatan aktivitas pribadi untuk pekerjaan, belajar, dan keseharian. Pilih Aktivitas, mulai, lalu taruh layar ke bawah.", "Untuk segala hal yang membutuhkan fokus"],
-  "facts": [
-    ["Pengukuran dengan layar di bawah", "Waktu dicatat selama iPhone berada dengan layar menghadap ke bawah. Angkat untuk menjeda, lalu lanjutkan sesuai pengaturan timer."],
-    ["Gratis: 3 Aktivitas, total 5 menit", "Versi gratis menyediakan hingga 3 Aktivitas dan total waktu tercatat 300 detik (5 menit), ringkasan Hari Ini dan Minggu Ini, serta CSV dasar. Kuota tidak diatur ulang setiap hari. Lifetime Pro menghapus kedua batas. Sesi dengan layar menghadap ke bawah yang sudah dimulai disimpan utuh tanpa memotong waktunya."],
-    ["Lifetime Pro", "Satu pembelian permanen membuka Aktivitas tanpa batas, analisis bulanan, tahunan, dan rentang khusus, target mingguan, tenggat, Apple Watch, Widget, gaya hero lanjutan, serta pencadangan dan pemulihan JSON lengkap. Tanpa langganan."],
-    ["Privat sejak awal", "Tanpa akun, server pengembang, iklan, analitik, atau pelacakan. Catatan aplikasi tetap berada di perangkat Anda."]
+ "language_name": "Bahasa Indonesia",
+ "language_label": "Bahasa",
+ "navigation_label": "Navigasi utama",
+ "skip_link": "Lewati ke isi",
+ "nav": [
+  "Ringkasan",
+  "Dukungan",
+  "Privasi"
+ ],
+ "footer": "Informasi dukungan dan privasi resmi untuk Studydown.",
+ "contact": [
+  "Hubungi kami",
+  "Ceritakan masalahnya serta sebutkan perangkat dan versi iOS. Jangan sertakan catatan fokus pribadi.",
+  "Email dukungan"
+ ],
+ "home": [
+  "Waktu fokus, tercatat dengan jelas",
+  "Studydown mengubah waktu saat iPhone ditaruh dengan layar menghadap ke bawah menjadi catatan aktivitas pribadi untuk pekerjaan, belajar, dan keseharian. Pilih Aktivitas, mulai, lalu taruh layar ke bawah.",
+  "Untuk segala hal yang membutuhkan fokus"
+ ],
+ "facts": [
+  [
+   "Pengukuran dengan layar di bawah",
+   "Waktu dicatat selama iPhone berada dengan layar menghadap ke bawah. Angkat untuk menjeda, lalu lanjutkan sesuai pengaturan timer."
   ],
-  "support": ["Dukungan", "Jawaban jelas tentang timer layar menghadap ke bawah, akses, pemulihan pembelian, dan file Anda.", "Pertanyaan umum"],
-  "faqs": [
-    ["Bagaimana memulai sesi fokus?", "Pilih atau buat Aktivitas, mulai timer, lalu taruh iPhone secara datar dan diam dengan layar menghadap ke bawah. Studydown mulai mencatat setelah posisi itu terdeteksi."],
-    ["Mengapa timer tidak dimulai?", "Pastikan iPhone hampir datar, tidak bergerak, dan Studydown aktif. Sudut yang terlalu miring atau gerakan terus-menerus dapat menghambat deteksi."],
-    ["Bagaimana memulihkan Lifetime Pro?", "Buka layar Lifetime Pro dan pilih Pulihkan Pembelian saat masuk dengan Apple Account yang digunakan untuk membeli. Apple akan memverifikasi akses."],
-    ["Apa perbedaan CSV dan JSON?", "CSV dasar tersedia gratis untuk catatan berbentuk tabel. Lifetime Pro menambahkan pencadangan dan pemulihan JSON lengkap. File hanya dibuat saat Anda memintanya dan disimpan ke lokasi pilihan Anda."]
+  [
+   "Gratis: 3 Aktivitas, total 5 menit",
+   "Versi gratis menyediakan hingga 3 Aktivitas dan total waktu tercatat 300 detik (5 menit), ringkasan Hari Ini dan Minggu Ini, serta CSV dasar. Kuota tidak diatur ulang setiap hari. Lifetime Pro menghapus kedua batas. Sesi dengan layar menghadap ke bawah yang sudah dimulai disimpan utuh tanpa memotong waktunya."
   ],
-  "privacy": ["Kebijakan Privasi", "Aplikasi Studydown tidak mengumpulkan data pribadi. Catatan fokus diproses dan disimpan di perangkat Anda.", "Terakhir diperbarui"],
-  "support_details": [
-    ["Bagaimana cara mencoba sesi singkat?", "Di Pengaturan, atur sesi terpendek yang disimpan menjadi 3 detik. Pilih Aktivitas, mulai timer, lalu letakkan iPhone datar dan diam dengan layar ke bawah selama setidaknya 10 detik setelah terdeteksi. Biarkan Studydown aktif dan ponsel tidak terkunci. Angkat lalu akhiri sesi, atau tunggu masa tenggang berakhir. Sesi yang lebih pendek dari minimum pilihan Anda tidak disimpan."],
-    ["Bagaimana cara mengubah pengingat?", "Di Pengaturan, aktifkan atau matikan pengingat lalu pilih waktu harian atau interval 1, 2, 3, 4, 6, 8, atau 12 jam. Notifikasi memerlukan izin, tetapi menolaknya tidak menghalangi timer. Mengunci ponsel atau meninggalkan aplikasi menghentikan penambahan waktu; iOS masih dapat mengirim pengingat terjadwal."]
+  [
+   "Lifetime Pro",
+   "Satu pembelian permanen membuka Aktivitas tanpa batas, analisis bulanan, tahunan, dan rentang khusus, target mingguan, tenggat, Apple Watch, Widget, gaya hero lanjutan, serta pencadangan dan pemulihan JSON lengkap. Tanpa langganan."
   ],
-  "privacy_details": [
-    ["Notifikasi lokal", "Pengaturan pengingat dan teks notifikasi tetap di perangkat. iOS menjadwalkan notifikasi lokal; Studydown tidak memakai server push jarak jauh atau mengunggah token perangkat. Izin diminta saat Anda mengaktifkan pengingat atau memakai kontrol izin, bukan saat pertama kali membuka aplikasi."],
-    ["Layanan Apple dan gerakan", "StoreKit dapat menghubungi Apple untuk memuat produk dan harga setempat, memverifikasi hak akses, membeli, atau memulihkan Lifetime Pro. Aplikasi membaca informasi transaksi dan hak akses yang terverifikasi, bukan detail pembayaran, serta tidak mengirim catatan fokus untuk pembelian. Layanan Apple tunduk pada ketentuan Apple. CoreMotion memproses orientasi dan gerakan di perangkat, bukan gambar kamera; pelacakan gerakan berhenti saat aplikasi tidak aktif."],
-    ["Perangkat, penyimpanan, dan penghapusan", "Widget memakai penyimpanan lokal App Group. Aktivitas Langsung tidak memakai push server. Apple Watch bertukar nama dan pengenal Aktivitas, waktu sesi, ringkasan, preferensi, dan status hak akses dengan iPhone yang dipasangkan melalui WatchConnectivity, bukan server pengembang. Catatan tersimpan tetap ada sampai dihapus atau diganti. Di pengelolaan data Pengaturan, Anda dapat menghapus semua data lokal setelah konfirmasi. File ekspor, salinan Watch, dan cadangan perangkat yang mungkin dikelola Apple terpisah; menghapus data aplikasi tidak menjamin salinan tersebut terhapus. Cadangan bergantung pada pengaturan sistem."]
+  [
+   "Privat sejak awal",
+   "Tanpa akun, server pengembang, iklan, analitik, atau pelacakan. Catatan aplikasi tetap berada di perangkat Anda."
   ],
-  "privacy_sections": [
-    ["Data di perangkat", "Nama Aktivitas, sesi fokus, ringkasan, target mingguan, tenggat, dan pengaturan tetap berada di penyimpanan lokal aplikasi. Studydown tidak memiliki akun atau server pengembang."],
-    ["Informasi gerakan", "Studydown membaca orientasi dan gerakan hanya untuk mendeteksi iPhone yang layarnya menghadap ke bawah. Data sensor mentah tidak disimpan, dikirim, atau dikaitkan dengan Anda."],
-    ["Pembelian melalui Apple", "Saat membeli atau memulihkan Lifetime Pro, StoreKit berkomunikasi dengan Apple. Apple memproses transaksi; Studydown tidak menerima detail pembayaran Anda."],
-    ["File yang Anda buat", "File CSV dan JSON hanya dibuat saat Anda meminta. Anda memilih tempat menyimpan atau membagikannya, lalu ketentuan privasi tujuan tersebut berlaku."],
-    ["Pesan ke dukungan", "Jika Anda mengirim email, kami menerima alamat dan pesan yang Anda pilih untuk dikirim. Informasi itu hanya digunakan untuk menjawab dan tidak dijual atau dipakai untuk iklan."],
-    ["Situs ini", "Situs statis ini tidak memasang cookie atau memuat analitik, iklan, pelacak, maupun skrip pihak ketiga. GitHub Pages menghosting file dan dapat memproses informasi koneksi standar menurut ketentuannya sendiri."]
+  [
+   "Kini juga tersedia untuk Android",
+   "Studydown kini juga tersedia untuk Android, dikembangkan secara native untuk platform ini, dengan batas gratis yang sama (3 aktivitas, total 5 menit) dan pembelian Lifetime Pro sekali beli yang membuka aktivitas dan perekaman tak terbatas, statistik lanjutan, target, tenggat, widget, dan cadangan. Tidak ada aplikasi pendamping Apple Watch di Android."
   ]
+ ],
+ "support": [
+  "Dukungan",
+  "Jawaban jelas tentang timer layar menghadap ke bawah, akses, pemulihan pembelian, dan file Anda.",
+  "Pertanyaan umum"
+ ],
+ "faqs": [
+  [
+   "Bagaimana memulai sesi fokus?",
+   "Pilih atau buat Aktivitas, mulai timer, lalu taruh iPhone secara datar dan diam dengan layar menghadap ke bawah. Studydown mulai mencatat setelah posisi itu terdeteksi."
+  ],
+  [
+   "Mengapa timer tidak dimulai?",
+   "Pastikan iPhone hampir datar, tidak bergerak, dan Studydown aktif. Sudut yang terlalu miring atau gerakan terus-menerus dapat menghambat deteksi."
+  ],
+  [
+   "Bagaimana memulihkan Lifetime Pro?",
+   "Buka layar Lifetime Pro dan pilih Pulihkan Pembelian saat masuk dengan Apple Account yang digunakan untuk membeli. Apple akan memverifikasi akses."
+  ],
+  [
+   "Apa perbedaan CSV dan JSON?",
+   "CSV dasar tersedia gratis untuk catatan berbentuk tabel. Lifetime Pro menambahkan pencadangan dan pemulihan JSON lengkap. File hanya dibuat saat Anda memintanya dan disimpan ke lokasi pilihan Anda."
+  ]
+ ],
+ "privacy": [
+  "Kebijakan Privasi",
+  "Aplikasi Studydown tidak mengumpulkan data pribadi. Catatan fokus diproses dan disimpan di perangkat Anda.",
+  "Terakhir diperbarui"
+ ],
+ "support_details": [
+  [
+   "Bagaimana cara mencoba sesi singkat?",
+   "Di Pengaturan, atur sesi terpendek yang disimpan menjadi 3 detik. Pilih Aktivitas, mulai timer, lalu letakkan iPhone datar dan diam dengan layar ke bawah selama setidaknya 10 detik setelah terdeteksi. Biarkan Studydown aktif dan ponsel tidak terkunci. Angkat lalu akhiri sesi, atau tunggu masa tenggang berakhir. Sesi yang lebih pendek dari minimum pilihan Anda tidak disimpan."
+  ],
+  [
+   "Bagaimana cara mengubah pengingat?",
+   "Di Pengaturan, aktifkan atau matikan pengingat lalu pilih waktu harian atau interval 1, 2, 3, 4, 6, 8, atau 12 jam. Notifikasi memerlukan izin, tetapi menolaknya tidak menghalangi timer. Mengunci ponsel atau meninggalkan aplikasi menghentikan penambahan waktu; iOS masih dapat mengirim pengingat terjadwal."
+  ]
+ ],
+ "privacy_details": [
+  [
+   "Notifikasi lokal",
+   "Pengaturan pengingat dan teks notifikasi tetap di perangkat. iOS menjadwalkan notifikasi lokal; Studydown tidak memakai server push jarak jauh atau mengunggah token perangkat. Izin diminta saat Anda mengaktifkan pengingat atau memakai kontrol izin, bukan saat pertama kali membuka aplikasi."
+  ],
+  [
+   "Layanan Apple dan gerakan",
+   "StoreKit dapat menghubungi Apple untuk memuat produk dan harga setempat, memverifikasi hak akses, membeli, atau memulihkan Lifetime Pro. Aplikasi membaca informasi transaksi dan hak akses yang terverifikasi, bukan detail pembayaran, serta tidak mengirim catatan fokus untuk pembelian. Layanan Apple tunduk pada ketentuan Apple. CoreMotion memproses orientasi dan gerakan di perangkat, bukan gambar kamera; pelacakan gerakan berhenti saat aplikasi tidak aktif."
+  ],
+  [
+   "Perangkat, penyimpanan, dan penghapusan",
+   "Widget memakai penyimpanan lokal App Group. Aktivitas Langsung tidak memakai push server. Apple Watch bertukar nama dan pengenal Aktivitas, waktu sesi, ringkasan, preferensi, dan status hak akses dengan iPhone yang dipasangkan melalui WatchConnectivity, bukan server pengembang. Catatan tersimpan tetap ada sampai dihapus atau diganti. Di pengelolaan data Pengaturan, Anda dapat menghapus semua data lokal setelah konfirmasi. File ekspor, salinan Watch, dan cadangan perangkat yang mungkin dikelola Apple terpisah; menghapus data aplikasi tidak menjamin salinan tersebut terhapus. Cadangan bergantung pada pengaturan sistem."
+  ]
+ ],
+ "privacy_sections": [
+  [
+   "Data di perangkat",
+   "Nama Aktivitas, sesi fokus, ringkasan, target mingguan, tenggat, dan pengaturan tetap berada di penyimpanan lokal aplikasi. Studydown tidak memiliki akun atau server pengembang."
+  ],
+  [
+   "Informasi gerakan",
+   "Studydown membaca orientasi dan gerakan hanya untuk mendeteksi iPhone yang layarnya menghadap ke bawah. Data sensor mentah tidak disimpan, dikirim, atau dikaitkan dengan Anda."
+  ],
+  [
+   "Pembelian melalui Apple",
+   "Saat membeli atau memulihkan Lifetime Pro, StoreKit berkomunikasi dengan Apple. Apple memproses transaksi; Studydown tidak menerima detail pembayaran Anda."
+  ],
+  [
+   "File yang Anda buat",
+   "File CSV dan JSON hanya dibuat saat Anda meminta. Anda memilih tempat menyimpan atau membagikannya, lalu ketentuan privasi tujuan tersebut berlaku."
+  ],
+  [
+   "Pesan ke dukungan",
+   "Jika Anda mengirim email, kami menerima alamat dan pesan yang Anda pilih untuk dikirim. Informasi itu hanya digunakan untuk menjawab dan tidak dijual atau dipakai untuk iklan."
+  ],
+  [
+   "Situs ini",
+   "Situs statis ini tidak memasang cookie atau memuat analitik, iklan, pelacak, maupun skrip pihak ketiga. GitHub Pages menghosting file dan dapat memproses informasi koneksi standar menurut ketentuannya sendiri."
+  ],
+  [
+   "Kini juga tersedia untuk Android",
+   "Aplikasi Android menyimpan aktivitas, sesi, dan pengaturan hanya di penyimpanan lokal aplikasi, tanpa akun atau server developer. Pembelian dan pemulihannya diproses melalui sistem penagihan Play Store; Studydown tidak menerima informasi pembayaran Anda."
+  ]
+ ]
 }

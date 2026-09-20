@@ -1,41 +1,126 @@
 {
-  "language_name": "Hrvatski",
-  "language_label": "Jezik",
-  "navigation_label": "Glavna navigacija",
-  "skip_link": "Prijeđi na sadržaj",
-  "nav": ["Pregled", "Podrška", "Privatnost"],
-  "footer": "Službene informacije o podršci i privatnosti za Studydown.",
-  "contact": ["Kontakt", "Opišite što se dogodilo te navedite uređaj i verziju sustava iOS. Nemojte slati privatne zapise fokusa.", "Pošaljite poruku podršci"],
-  "home": ["Vrijeme fokusa, jasno zabilježeno", "Studydown pretvara vrijeme s iPhoneom položenim zaslonom prema dolje u privatni dnevnik aktivnosti za posao, učenje i svakodnevni život. Odaberite aktivnost, pokrenite i položite zaslon prema dolje.", "Za svaku aktivnost koja traži fokus"],
-  "facts": [
-    ["Mjerenje sa zaslonom prema dolje", "Vrijeme se bilježi dok iPhone leži zaslonom prema dolje. Podignite ga za pauzu i nastavite prema postavkama mjerača vremena."],
-    ["Besplatno: 3 aktivnosti, 5 minuta", "Besplatna verzija uključuje do 3 aktivnosti i ukupno 300 sekundi (5 minuta) zabilježenog vremena, preglede Danas i Ovaj tjedan te osnovni CSV. Ograničenje se ne obnavlja svaki dan. Lifetime Pro uklanja oba ograničenja. Već započeta sesija sa zaslonom prema dolje sprema se bez skraćivanja."],
-    ["Lifetime Pro", "Jedna trajna kupnja otključava neograničene aktivnosti, mjesečne, godišnje i prilagođene analize, tjedne ciljeve, rokove, Apple Watch, widgete, napredne stilove glavnog prikaza te potpunu JSON sigurnosnu kopiju i vraćanje. Bez pretplate."],
-    ["Privatno od samog početka", "Nema računa, poslužitelja razvojnog programera, oglasa, analitike ni praćenja. Zapisi aplikacije ostaju na vašem uređaju."]
+ "language_name": "Hrvatski",
+ "language_label": "Jezik",
+ "navigation_label": "Glavna navigacija",
+ "skip_link": "Prijeđi na sadržaj",
+ "nav": [
+  "Pregled",
+  "Podrška",
+  "Privatnost"
+ ],
+ "footer": "Službene informacije o podršci i privatnosti za Studydown.",
+ "contact": [
+  "Kontakt",
+  "Opišite što se dogodilo te navedite uređaj i verziju sustava iOS. Nemojte slati privatne zapise fokusa.",
+  "Pošaljite poruku podršci"
+ ],
+ "home": [
+  "Vrijeme fokusa, jasno zabilježeno",
+  "Studydown pretvara vrijeme s iPhoneom položenim zaslonom prema dolje u privatni dnevnik aktivnosti za posao, učenje i svakodnevni život. Odaberite aktivnost, pokrenite i položite zaslon prema dolje.",
+  "Za svaku aktivnost koja traži fokus"
+ ],
+ "facts": [
+  [
+   "Mjerenje sa zaslonom prema dolje",
+   "Vrijeme se bilježi dok iPhone leži zaslonom prema dolje. Podignite ga za pauzu i nastavite prema postavkama mjerača vremena."
   ],
-  "support": ["Podrška", "Jasna pomoć za mjerenje sa zaslonom prema dolje, pristup, vraćanje kupnje i vaše datoteke.", "Česta pitanja"],
-  "faqs": [
-    ["Kako pokrenuti sesiju?", "Odaberite ili izradite aktivnost, pokrenite mjerač vremena i položite iPhone ravno i mirno zaslonom prema dolje. Studydown počinje bilježiti nakon prepoznavanja položaja."],
-    ["Zašto se mjerač vremena nije pokrenuo?", "Provjerite je li iPhone gotovo ravan, miran i je li Studydown aktivan. Velik nagib ili stalno kretanje mogu spriječiti prepoznavanje."],
-    ["Kako vratiti Lifetime Pro?", "Otvorite zaslon Lifetime Pro i odaberite Vrati kupnje dok ste prijavljeni na Apple Account korišten pri kupnji. Apple će potvrditi pristup."],
-    ["Koja je razlika između CSV-a i JSON-a?", "Osnovni CSV za tablične zapise dostupan je besplatno. Lifetime Pro dodaje potpunu JSON sigurnosnu kopiju i vraćanje. Datoteka nastaje samo na vaš zahtjev i sprema se na mjesto koje odaberete."]
+  [
+   "Besplatno: 3 aktivnosti, 5 minuta",
+   "Besplatna verzija uključuje do 3 aktivnosti i ukupno 300 sekundi (5 minuta) zabilježenog vremena, preglede Danas i Ovaj tjedan te osnovni CSV. Ograničenje se ne obnavlja svaki dan. Lifetime Pro uklanja oba ograničenja. Već započeta sesija sa zaslonom prema dolje sprema se bez skraćivanja."
   ],
-  "privacy": ["Pravila privatnosti", "Aplikacija Studydown ne prikuplja osobne podatke. Zapisi fokusa obrađuju se i spremaju na vašem uređaju.", "Posljednje ažuriranje"],
-  "support_details": [
-    ["Kako isprobati kratku sesiju?", "U Postavkama postavite najkraću sesiju za spremanje na 3 sekunde. Odaberite aktivnost, pokrenite mjerenje i položite iPhone ravno sa zaslonom prema dolje. Nakon prepoznavanja ostavite ga mirnim najmanje 10 sekundi. Studydown mora ostati aktivan, a telefon otključan. Podignite ga i završite sesiju ili pričekajte istek razdoblja odgode. Sesije kraće od odabranog minimuma ne spremaju se."],
-    ["Kako promijeniti podsjetnike?", "U Postavkama uključite ili isključite podsjetnike i odaberite dnevno vrijeme ili razmak od 1, 2, 3, 4, 6, 8 ili 12 sati. Obavijesti trebaju dopuštenje, no odbijanje ne sprječava mjerenje vremena. Zaključavanje telefona ili izlazak iz aplikacije zaustavlja zbrajanje vremena; iOS i dalje može dostaviti zakazane podsjetnike."]
+  [
+   "Lifetime Pro",
+   "Jedna trajna kupnja otključava neograničene aktivnosti, mjesečne, godišnje i prilagođene analize, tjedne ciljeve, rokove, Apple Watch, widgete, napredne stilove glavnog prikaza te potpunu JSON sigurnosnu kopiju i vraćanje. Bez pretplate."
   ],
-  "privacy_details": [
-    ["Lokalne obavijesti", "Postavke podsjetnika i tekst obavijesti ostaju na uređaju. iOS zakazuje lokalne obavijesti; Studydown ne koristi udaljeni push poslužitelj niti šalje token uređaja. Dopuštenje se traži kad uključite podsjetnike ili upotrijebite kontrolu za dopuštenje, ne pri prvom pokretanju."],
-    ["Appleove usluge i kretanje", "StoreKit može kontaktirati Apple radi učitavanja proizvoda i lokalnih cijena te provjere, kupnje ili obnove prava na Lifetime Pro. Aplikacija čita provjerene podatke o transakcijama i pravima, ne podatke o plaćanju, i ne šalje zapise fokusa za kupnje. Appleove usluge slijede Appleove uvjete. CoreMotion lokalno obrađuje položaj i kretanje, ne snimke kamere; praćenje prestaje kada aplikacija postane neaktivna."],
-    ["Uređaji, čuvanje i brisanje", "Widgeti koriste lokalnu pohranu App Group. Aktivnosti uživo ne koriste push s poslužitelja. Apple Watch preko WatchConnectivity razmjenjuje nazive i identifikatore aktivnosti, vremena sesija, sažetke, postavke i prava s uparenim iPhoneom, ne s poslužiteljem razvojnog tima. Spremljeni zapisi ostaju do brisanja ili zamjene. U upravljanju podacima u Postavkama možete nakon potvrde izbrisati sve lokalne podatke. Izvezene datoteke, kopije na Watchu i moguće sigurnosne kopije kojima upravlja Apple odvojene su; brisanje u aplikaciji ne jamči njihovo uklanjanje. Sigurnosne kopije ovise o postavkama sustava."]
+  [
+   "Privatno od samog početka",
+   "Nema računa, poslužitelja razvojnog programera, oglasa, analitike ni praćenja. Zapisi aplikacije ostaju na vašem uređaju."
   ],
-  "privacy_sections": [
-    ["Podaci na uređaju", "Nazivi aktivnosti, sesije, sažeci, tjedni ciljevi, rokovi i postavke ostaju u lokalnoj pohrani aplikacije. Studydown nema račun ni poslužitelj razvojnog programera."],
-    ["Podaci o kretanju", "Studydown čita usmjerenje i kretanje samo radi prepoznavanja iPhonea sa zaslonom prema dolje. Neobrađeni podaci senzora ne spremaju se, ne šalju niti povezuju s vama."],
-    ["Kupnje putem Applea", "Pri kupnji ili vraćanju Lifetime Pro, StoreKit komunicira s Appleom. Apple obrađuje transakciju; Studydown ne prima vaše podatke o plaćanju."],
-    ["Datoteke koje izradite", "CSV i JSON datoteke stvaraju se samo na vaš zahtjev. Vi birate gdje ćete ih spremiti ili podijeliti, nakon čega vrijede pravila privatnosti odredišta."],
-    ["Poruke podršci", "Ako nam pošaljete e-poruku, primamo adresu i poruku koje odlučite poslati. Koristimo ih samo za odgovor te ih ne prodajemo niti upotrebljavamo za oglase."],
-    ["Ovo web-mjesto", "Ovo statično web-mjesto ne postavlja kolačiće i ne učitava analitiku, oglase, alate za praćenje ni skripte trećih strana. GitHub Pages smješta datoteke i može prema vlastitim pravilima obraditi uobičajene tehničke podatke veze."]
+  [
+   "Dostupno i za Android",
+   "Studydown je dostupan i za Android, izvorno razvijen za tu platformu, s istom besplatnom razinom (3 aktivnosti, ukupno 5 minuta) i jednokratnom kupnjom Lifetime Pro koja otključava neograničene aktivnosti i snimanje, naprednu statistiku, ciljeve, rokove, widgete i sigurnosne kopije. Za Android ne postoji prateća aplikacija Apple Watch."
   ]
+ ],
+ "support": [
+  "Podrška",
+  "Jasna pomoć za mjerenje sa zaslonom prema dolje, pristup, vraćanje kupnje i vaše datoteke.",
+  "Česta pitanja"
+ ],
+ "faqs": [
+  [
+   "Kako pokrenuti sesiju?",
+   "Odaberite ili izradite aktivnost, pokrenite mjerač vremena i položite iPhone ravno i mirno zaslonom prema dolje. Studydown počinje bilježiti nakon prepoznavanja položaja."
+  ],
+  [
+   "Zašto se mjerač vremena nije pokrenuo?",
+   "Provjerite je li iPhone gotovo ravan, miran i je li Studydown aktivan. Velik nagib ili stalno kretanje mogu spriječiti prepoznavanje."
+  ],
+  [
+   "Kako vratiti Lifetime Pro?",
+   "Otvorite zaslon Lifetime Pro i odaberite Vrati kupnje dok ste prijavljeni na Apple Account korišten pri kupnji. Apple će potvrditi pristup."
+  ],
+  [
+   "Koja je razlika između CSV-a i JSON-a?",
+   "Osnovni CSV za tablične zapise dostupan je besplatno. Lifetime Pro dodaje potpunu JSON sigurnosnu kopiju i vraćanje. Datoteka nastaje samo na vaš zahtjev i sprema se na mjesto koje odaberete."
+  ]
+ ],
+ "privacy": [
+  "Pravila privatnosti",
+  "Aplikacija Studydown ne prikuplja osobne podatke. Zapisi fokusa obrađuju se i spremaju na vašem uređaju.",
+  "Posljednje ažuriranje"
+ ],
+ "support_details": [
+  [
+   "Kako isprobati kratku sesiju?",
+   "U Postavkama postavite najkraću sesiju za spremanje na 3 sekunde. Odaberite aktivnost, pokrenite mjerenje i položite iPhone ravno sa zaslonom prema dolje. Nakon prepoznavanja ostavite ga mirnim najmanje 10 sekundi. Studydown mora ostati aktivan, a telefon otključan. Podignite ga i završite sesiju ili pričekajte istek razdoblja odgode. Sesije kraće od odabranog minimuma ne spremaju se."
+  ],
+  [
+   "Kako promijeniti podsjetnike?",
+   "U Postavkama uključite ili isključite podsjetnike i odaberite dnevno vrijeme ili razmak od 1, 2, 3, 4, 6, 8 ili 12 sati. Obavijesti trebaju dopuštenje, no odbijanje ne sprječava mjerenje vremena. Zaključavanje telefona ili izlazak iz aplikacije zaustavlja zbrajanje vremena; iOS i dalje može dostaviti zakazane podsjetnike."
+  ]
+ ],
+ "privacy_details": [
+  [
+   "Lokalne obavijesti",
+   "Postavke podsjetnika i tekst obavijesti ostaju na uređaju. iOS zakazuje lokalne obavijesti; Studydown ne koristi udaljeni push poslužitelj niti šalje token uređaja. Dopuštenje se traži kad uključite podsjetnike ili upotrijebite kontrolu za dopuštenje, ne pri prvom pokretanju."
+  ],
+  [
+   "Appleove usluge i kretanje",
+   "StoreKit može kontaktirati Apple radi učitavanja proizvoda i lokalnih cijena te provjere, kupnje ili obnove prava na Lifetime Pro. Aplikacija čita provjerene podatke o transakcijama i pravima, ne podatke o plaćanju, i ne šalje zapise fokusa za kupnje. Appleove usluge slijede Appleove uvjete. CoreMotion lokalno obrađuje položaj i kretanje, ne snimke kamere; praćenje prestaje kada aplikacija postane neaktivna."
+  ],
+  [
+   "Uređaji, čuvanje i brisanje",
+   "Widgeti koriste lokalnu pohranu App Group. Aktivnosti uživo ne koriste push s poslužitelja. Apple Watch preko WatchConnectivity razmjenjuje nazive i identifikatore aktivnosti, vremena sesija, sažetke, postavke i prava s uparenim iPhoneom, ne s poslužiteljem razvojnog tima. Spremljeni zapisi ostaju do brisanja ili zamjene. U upravljanju podacima u Postavkama možete nakon potvrde izbrisati sve lokalne podatke. Izvezene datoteke, kopije na Watchu i moguće sigurnosne kopije kojima upravlja Apple odvojene su; brisanje u aplikaciji ne jamči njihovo uklanjanje. Sigurnosne kopije ovise o postavkama sustava."
+  ]
+ ],
+ "privacy_sections": [
+  [
+   "Podaci na uređaju",
+   "Nazivi aktivnosti, sesije, sažeci, tjedni ciljevi, rokovi i postavke ostaju u lokalnoj pohrani aplikacije. Studydown nema račun ni poslužitelj razvojnog programera."
+  ],
+  [
+   "Podaci o kretanju",
+   "Studydown čita usmjerenje i kretanje samo radi prepoznavanja iPhonea sa zaslonom prema dolje. Neobrađeni podaci senzora ne spremaju se, ne šalju niti povezuju s vama."
+  ],
+  [
+   "Kupnje putem Applea",
+   "Pri kupnji ili vraćanju Lifetime Pro, StoreKit komunicira s Appleom. Apple obrađuje transakciju; Studydown ne prima vaše podatke o plaćanju."
+  ],
+  [
+   "Datoteke koje izradite",
+   "CSV i JSON datoteke stvaraju se samo na vaš zahtjev. Vi birate gdje ćete ih spremiti ili podijeliti, nakon čega vrijede pravila privatnosti odredišta."
+  ],
+  [
+   "Poruke podršci",
+   "Ako nam pošaljete e-poruku, primamo adresu i poruku koje odlučite poslati. Koristimo ih samo za odgovor te ih ne prodajemo niti upotrebljavamo za oglase."
+  ],
+  [
+   "Ovo web-mjesto",
+   "Ovo statično web-mjesto ne postavlja kolačiće i ne učitava analitiku, oglase, alate za praćenje ni skripte trećih strana. GitHub Pages smješta datoteke i može prema vlastitim pravilima obraditi uobičajene tehničke podatke veze."
+  ],
+  [
+   "Dostupno i za Android",
+   "Android aplikacija pohranjuje aktivnosti, sesije i postavke samo u lokalnu pohranu aplikacije, bez računa ili poslužitelja razvojnog programera. Kupnje i njihova obnova obrađuju se putem sustava naplate Play Store; Studydown ne prima vaše podatke o plaćanju."
+  ]
+ ]
 }

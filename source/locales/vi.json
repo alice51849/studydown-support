@@ -1,41 +1,126 @@
 {
-  "language_name": "Tiếng Việt",
-  "language_label": "Ngôn ngữ",
-  "navigation_label": "Điều hướng chính",
-  "skip_link": "Chuyển đến nội dung",
-  "nav": ["Tổng quan", "Hỗ trợ", "Quyền riêng tư"],
-  "footer": "Thông tin hỗ trợ và quyền riêng tư chính thức của Studydown.",
-  "contact": ["Liên hệ", "Hãy mô tả sự việc, kèm loại thiết bị và phiên bản iOS. Đừng gửi các bản ghi tập trung riêng tư.", "Gửi email hỗ trợ"],
-  "home": ["Thời gian tập trung, được ghi lại rõ ràng", "Studydown biến thời gian đặt úp màn hình iPhone thành sổ hoạt động riêng tư cho công việc, học hỏi và đời sống. Chọn một Hoạt động, bắt đầu rồi đặt màn hình úp xuống.", "Cho mọi việc cần bạn tập trung"],
-  "facts": [
-    ["Đo thời gian khi úp màn hình", "Thời gian được ghi khi iPhone nằm úp màn hình. Nhấc máy lên để tạm dừng rồi tiếp tục theo cài đặt hẹn giờ của bạn."],
-    ["Miễn phí: 3 Hoạt động, tổng 5 phút", "Bản miễn phí cho tối đa 3 Hoạt động và tổng thời gian đã ghi là 300 giây (5 phút), các tổng kết Hôm nay và Tuần này cùng CSV cơ bản. Hạn mức không được đặt lại mỗi ngày. Lifetime Pro gỡ cả hai giới hạn. Phiên úp màn hình đã bắt đầu được lưu đầy đủ, không cắt bớt thời gian."],
-    ["Lifetime Pro", "Một lần mua vĩnh viễn mở khóa Hoạt động không giới hạn, phân tích theo tháng, năm và khoảng tùy chọn, mục tiêu tuần, hạn chót, Apple Watch, Tiện ích, kiểu hero nâng cao, cùng sao lưu và khôi phục JSON đầy đủ. Không thuê bao."],
-    ["Riêng tư ngay từ thiết kế", "Không tài khoản, máy chủ của nhà phát triển, quảng cáo, phân tích hay theo dõi. Bản ghi của ứng dụng nằm trên thiết bị của bạn."]
+ "language_name": "Tiếng Việt",
+ "language_label": "Ngôn ngữ",
+ "navigation_label": "Điều hướng chính",
+ "skip_link": "Chuyển đến nội dung",
+ "nav": [
+  "Tổng quan",
+  "Hỗ trợ",
+  "Quyền riêng tư"
+ ],
+ "footer": "Thông tin hỗ trợ và quyền riêng tư chính thức của Studydown.",
+ "contact": [
+  "Liên hệ",
+  "Hãy mô tả sự việc, kèm loại thiết bị và phiên bản iOS. Đừng gửi các bản ghi tập trung riêng tư.",
+  "Gửi email hỗ trợ"
+ ],
+ "home": [
+  "Thời gian tập trung, được ghi lại rõ ràng",
+  "Studydown biến thời gian đặt úp màn hình iPhone thành sổ hoạt động riêng tư cho công việc, học hỏi và đời sống. Chọn một Hoạt động, bắt đầu rồi đặt màn hình úp xuống.",
+  "Cho mọi việc cần bạn tập trung"
+ ],
+ "facts": [
+  [
+   "Đo thời gian khi úp màn hình",
+   "Thời gian được ghi khi iPhone nằm úp màn hình. Nhấc máy lên để tạm dừng rồi tiếp tục theo cài đặt hẹn giờ của bạn."
   ],
-  "support": ["Hỗ trợ", "Câu trả lời rõ ràng về hẹn giờ khi úp màn hình, quyền truy cập, khôi phục giao dịch và các tệp của bạn.", "Câu hỏi thường gặp"],
-  "faqs": [
-    ["Làm sao bắt đầu một phiên?", "Chọn hoặc tạo Hoạt động, bắt đầu hẹn giờ rồi đặt iPhone nằm phẳng, yên và úp màn hình. Studydown bắt đầu ghi sau khi nhận ra tư thế đó."],
-    ["Vì sao hẹn giờ không bắt đầu?", "Hãy bảo đảm iPhone gần như nằm phẳng, không di chuyển và Studydown đang hoạt động. Góc nghiêng lớn hoặc chuyển động liên tục có thể ngăn việc nhận diện."],
-    ["Làm sao khôi phục Lifetime Pro?", "Mở màn hình Lifetime Pro, chọn Khôi phục mục mua và dùng Apple Account đã mua trước đó. Apple sẽ xác minh quyền truy cập."],
-    ["CSV và JSON khác nhau thế nào?", "CSV cơ bản được cung cấp miễn phí cho dữ liệu dạng bảng. Lifetime Pro bổ sung sao lưu và khôi phục JSON đầy đủ. Tệp chỉ được tạo khi bạn yêu cầu và lưu ở nơi bạn chọn."]
+  [
+   "Miễn phí: 3 Hoạt động, tổng 5 phút",
+   "Bản miễn phí cho tối đa 3 Hoạt động và tổng thời gian đã ghi là 300 giây (5 phút), các tổng kết Hôm nay và Tuần này cùng CSV cơ bản. Hạn mức không được đặt lại mỗi ngày. Lifetime Pro gỡ cả hai giới hạn. Phiên úp màn hình đã bắt đầu được lưu đầy đủ, không cắt bớt thời gian."
   ],
-  "privacy": ["Chính sách quyền riêng tư", "Ứng dụng Studydown không thu thập dữ liệu cá nhân. Bản ghi tập trung được xử lý và lưu trên thiết bị của bạn.", "Cập nhật lần cuối"],
-  "support_details": [
-    ["Làm sao thử một phiên ngắn?", "Trong Cài đặt, đặt thời lượng ngắn nhất cần giữ là 3 giây. Chọn Hoạt động, bắt đầu hẹn giờ, rồi đặt iPhone nằm phẳng, úp màn hình và giữ yên ít nhất 10 giây sau khi được nhận diện. Giữ Studydown hoạt động và điện thoại không khóa. Nhấc lên rồi kết thúc phiên hoặc chờ hết khoảng gia hạn. Phiên ngắn hơn mức tối thiểu đã chọn sẽ không được giữ lại."],
-    ["Làm sao thay đổi lời nhắc?", "Trong Cài đặt, bật hoặc tắt lời nhắc rồi chọn giờ hằng ngày hoặc mỗi 1, 2, 3, 4, 6, 8 hay 12 giờ. Thông báo cần được cho phép, nhưng từ chối không ngăn việc tính giờ. Khóa điện thoại hoặc rời ứng dụng sẽ dừng cộng thời gian; iOS vẫn có thể gửi lời nhắc đã lên lịch."]
+  [
+   "Lifetime Pro",
+   "Một lần mua vĩnh viễn mở khóa Hoạt động không giới hạn, phân tích theo tháng, năm và khoảng tùy chọn, mục tiêu tuần, hạn chót, Apple Watch, Tiện ích, kiểu hero nâng cao, cùng sao lưu và khôi phục JSON đầy đủ. Không thuê bao."
   ],
-  "privacy_details": [
-    ["Thông báo cục bộ", "Cài đặt lời nhắc và nội dung thông báo nằm trên thiết bị. iOS lên lịch thông báo cục bộ; Studydown không dùng máy chủ thông báo đẩy từ xa và không tải mã thông báo của thiết bị lên. Ứng dụng chỉ xin quyền khi bạn bật lời nhắc hoặc dùng nút xin quyền, không phải ở lần mở đầu tiên."],
-    ["Dịch vụ Apple và xử lý chuyển động", "StoreKit có thể liên hệ Apple để tải sản phẩm và giá địa phương, xác minh quyền sử dụng, mua hoặc khôi phục Lifetime Pro. Ứng dụng đọc thông tin giao dịch và quyền sử dụng đã xác minh, không nhận chi tiết thanh toán và không gửi bản ghi tập trung để mua hàng. Dịch vụ Apple tuân theo điều khoản của Apple. CoreMotion xử lý hướng và chuyển động trên thiết bị, không dùng hình ảnh camera; việc theo dõi dừng khi ứng dụng không hoạt động."],
-    ["Thiết bị, lưu giữ và xóa", "Tiện ích dùng bộ nhớ App Group cục bộ. Hoạt động trực tiếp không dùng thông báo đẩy từ máy chủ. Apple Watch trao đổi tên và mã Hoạt động, thời gian phiên, tổng kết, tùy chọn và trạng thái quyền sử dụng với iPhone đã ghép đôi qua WatchConnectivity, không qua máy chủ nhà phát triển. Bản ghi đã lưu được giữ đến khi xóa hoặc thay thế. Bạn có thể xóa toàn bộ dữ liệu cục bộ sau khi xác nhận trong phần quản lý dữ liệu của Cài đặt. Tệp xuất, bản sao trên Watch và các bản sao lưu thiết bị do Apple quản lý là riêng biệt; xóa dữ liệu ứng dụng không bảo đảm xóa các bản sao đó. Sao lưu phụ thuộc vào cài đặt hệ thống."]
+  [
+   "Riêng tư ngay từ thiết kế",
+   "Không tài khoản, máy chủ của nhà phát triển, quảng cáo, phân tích hay theo dõi. Bản ghi của ứng dụng nằm trên thiết bị của bạn."
   ],
-  "privacy_sections": [
-    ["Dữ liệu trên thiết bị", "Tên Hoạt động, phiên tập trung, bản tóm tắt, mục tiêu tuần, hạn chót và cài đặt nằm trong bộ nhớ cục bộ của ứng dụng. Studydown không có tài khoản hay máy chủ của nhà phát triển."],
-    ["Thông tin chuyển động", "Studydown chỉ đọc hướng và chuyển động để nhận biết iPhone đang úp màn hình. Dữ liệu cảm biến thô không được giữ lại, gửi đi hoặc liên kết với bạn."],
-    ["Giao dịch qua Apple", "Khi mua hoặc khôi phục Lifetime Pro, StoreKit liên lạc với Apple. Apple xử lý giao dịch; Studydown không nhận thông tin thanh toán của bạn."],
-    ["Tệp do bạn tạo", "Tệp CSV và JSON chỉ được tạo khi bạn yêu cầu. Bạn chọn nơi lưu hoặc chia sẻ; sau đó điều khoản quyền riêng tư của nơi nhận sẽ được áp dụng."],
-    ["Email cho bộ phận hỗ trợ", "Nếu gửi email, bạn cung cấp địa chỉ và nội dung nào thì chúng tôi nhận thông tin đó. Thông tin chỉ dùng để trả lời, không bán hoặc dùng cho quảng cáo."],
-    ["Trang web này", "Trang tĩnh này không đặt cookie và không tải công cụ phân tích, quảng cáo, trình theo dõi hoặc tập lệnh bên thứ ba. GitHub Pages lưu trữ tệp và có thể xử lý thông tin kết nối thông thường theo điều khoản riêng."]
+  [
+   "Cũng có trên Android",
+   "Studydown hiện cũng có trên Android, được phát triển gốc cho nền tảng này, với cùng hạn mức miễn phí (3 hoạt động, tổng 5 phút) và một lần mua Lifetime Pro để mở khóa hoạt động và ghi nhận không giới hạn, thống kê nâng cao, mục tiêu, hạn chót, tiện ích và sao lưu. Trên Android không có ứng dụng đồng hành Apple Watch."
   ]
+ ],
+ "support": [
+  "Hỗ trợ",
+  "Câu trả lời rõ ràng về hẹn giờ khi úp màn hình, quyền truy cập, khôi phục giao dịch và các tệp của bạn.",
+  "Câu hỏi thường gặp"
+ ],
+ "faqs": [
+  [
+   "Làm sao bắt đầu một phiên?",
+   "Chọn hoặc tạo Hoạt động, bắt đầu hẹn giờ rồi đặt iPhone nằm phẳng, yên và úp màn hình. Studydown bắt đầu ghi sau khi nhận ra tư thế đó."
+  ],
+  [
+   "Vì sao hẹn giờ không bắt đầu?",
+   "Hãy bảo đảm iPhone gần như nằm phẳng, không di chuyển và Studydown đang hoạt động. Góc nghiêng lớn hoặc chuyển động liên tục có thể ngăn việc nhận diện."
+  ],
+  [
+   "Làm sao khôi phục Lifetime Pro?",
+   "Mở màn hình Lifetime Pro, chọn Khôi phục mục mua và dùng Apple Account đã mua trước đó. Apple sẽ xác minh quyền truy cập."
+  ],
+  [
+   "CSV và JSON khác nhau thế nào?",
+   "CSV cơ bản được cung cấp miễn phí cho dữ liệu dạng bảng. Lifetime Pro bổ sung sao lưu và khôi phục JSON đầy đủ. Tệp chỉ được tạo khi bạn yêu cầu và lưu ở nơi bạn chọn."
+  ]
+ ],
+ "privacy": [
+  "Chính sách quyền riêng tư",
+  "Ứng dụng Studydown không thu thập dữ liệu cá nhân. Bản ghi tập trung được xử lý và lưu trên thiết bị của bạn.",
+  "Cập nhật lần cuối"
+ ],
+ "support_details": [
+  [
+   "Làm sao thử một phiên ngắn?",
+   "Trong Cài đặt, đặt thời lượng ngắn nhất cần giữ là 3 giây. Chọn Hoạt động, bắt đầu hẹn giờ, rồi đặt iPhone nằm phẳng, úp màn hình và giữ yên ít nhất 10 giây sau khi được nhận diện. Giữ Studydown hoạt động và điện thoại không khóa. Nhấc lên rồi kết thúc phiên hoặc chờ hết khoảng gia hạn. Phiên ngắn hơn mức tối thiểu đã chọn sẽ không được giữ lại."
+  ],
+  [
+   "Làm sao thay đổi lời nhắc?",
+   "Trong Cài đặt, bật hoặc tắt lời nhắc rồi chọn giờ hằng ngày hoặc mỗi 1, 2, 3, 4, 6, 8 hay 12 giờ. Thông báo cần được cho phép, nhưng từ chối không ngăn việc tính giờ. Khóa điện thoại hoặc rời ứng dụng sẽ dừng cộng thời gian; iOS vẫn có thể gửi lời nhắc đã lên lịch."
+  ]
+ ],
+ "privacy_details": [
+  [
+   "Thông báo cục bộ",
+   "Cài đặt lời nhắc và nội dung thông báo nằm trên thiết bị. iOS lên lịch thông báo cục bộ; Studydown không dùng máy chủ thông báo đẩy từ xa và không tải mã thông báo của thiết bị lên. Ứng dụng chỉ xin quyền khi bạn bật lời nhắc hoặc dùng nút xin quyền, không phải ở lần mở đầu tiên."
+  ],
+  [
+   "Dịch vụ Apple và xử lý chuyển động",
+   "StoreKit có thể liên hệ Apple để tải sản phẩm và giá địa phương, xác minh quyền sử dụng, mua hoặc khôi phục Lifetime Pro. Ứng dụng đọc thông tin giao dịch và quyền sử dụng đã xác minh, không nhận chi tiết thanh toán và không gửi bản ghi tập trung để mua hàng. Dịch vụ Apple tuân theo điều khoản của Apple. CoreMotion xử lý hướng và chuyển động trên thiết bị, không dùng hình ảnh camera; việc theo dõi dừng khi ứng dụng không hoạt động."
+  ],
+  [
+   "Thiết bị, lưu giữ và xóa",
+   "Tiện ích dùng bộ nhớ App Group cục bộ. Hoạt động trực tiếp không dùng thông báo đẩy từ máy chủ. Apple Watch trao đổi tên và mã Hoạt động, thời gian phiên, tổng kết, tùy chọn và trạng thái quyền sử dụng với iPhone đã ghép đôi qua WatchConnectivity, không qua máy chủ nhà phát triển. Bản ghi đã lưu được giữ đến khi xóa hoặc thay thế. Bạn có thể xóa toàn bộ dữ liệu cục bộ sau khi xác nhận trong phần quản lý dữ liệu của Cài đặt. Tệp xuất, bản sao trên Watch và các bản sao lưu thiết bị do Apple quản lý là riêng biệt; xóa dữ liệu ứng dụng không bảo đảm xóa các bản sao đó. Sao lưu phụ thuộc vào cài đặt hệ thống."
+  ]
+ ],
+ "privacy_sections": [
+  [
+   "Dữ liệu trên thiết bị",
+   "Tên Hoạt động, phiên tập trung, bản tóm tắt, mục tiêu tuần, hạn chót và cài đặt nằm trong bộ nhớ cục bộ của ứng dụng. Studydown không có tài khoản hay máy chủ của nhà phát triển."
+  ],
+  [
+   "Thông tin chuyển động",
+   "Studydown chỉ đọc hướng và chuyển động để nhận biết iPhone đang úp màn hình. Dữ liệu cảm biến thô không được giữ lại, gửi đi hoặc liên kết với bạn."
+  ],
+  [
+   "Giao dịch qua Apple",
+   "Khi mua hoặc khôi phục Lifetime Pro, StoreKit liên lạc với Apple. Apple xử lý giao dịch; Studydown không nhận thông tin thanh toán của bạn."
+  ],
+  [
+   "Tệp do bạn tạo",
+   "Tệp CSV và JSON chỉ được tạo khi bạn yêu cầu. Bạn chọn nơi lưu hoặc chia sẻ; sau đó điều khoản quyền riêng tư của nơi nhận sẽ được áp dụng."
+  ],
+  [
+   "Email cho bộ phận hỗ trợ",
+   "Nếu gửi email, bạn cung cấp địa chỉ và nội dung nào thì chúng tôi nhận thông tin đó. Thông tin chỉ dùng để trả lời, không bán hoặc dùng cho quảng cáo."
+  ],
+  [
+   "Trang web này",
+   "Trang tĩnh này không đặt cookie và không tải công cụ phân tích, quảng cáo, trình theo dõi hoặc tập lệnh bên thứ ba. GitHub Pages lưu trữ tệp và có thể xử lý thông tin kết nối thông thường theo điều khoản riêng."
+  ],
+  [
+   "Cũng có trên Android",
+   "Ứng dụng Android chỉ lưu hoạt động, phiên và cài đặt trong bộ nhớ cục bộ của ứng dụng, không có tài khoản hay máy chủ nhà phát triển. Giao dịch mua và khôi phục được xử lý qua hệ thống thanh toán của Play Store; Studydown không nhận thông tin thanh toán của bạn."
+  ]
+ ]
 }

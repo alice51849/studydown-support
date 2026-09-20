@@ -1,41 +1,126 @@
 {
-  "language_name": "Dansk",
-  "language_label": "Sprog",
-  "navigation_label": "Primær navigation",
-  "skip_link": "Gå til indhold",
-  "nav": ["Overblik", "Support", "Anonymitet"],
-  "footer": "Officiel support- og anonymitetsinformation for Studydown.",
-  "contact": ["Kontakt", "Beskriv, hvad der skete, og oplys enhed og iOS-version. Medtag ikke private fokusregistreringer.", "Skriv til support"],
-  "home": ["Fokustid, tydeligt registreret", "Studydown gør tiden med din iPhone liggende med skærmen nedad til en privat aktivitetslog for arbejde, læring og hverdagsliv. Vælg en aktivitet, start, og læg skærmen nedad.", "Til alt, der kræver din opmærksomhed"],
-  "facts": [
-    ["Tid med skærmen nedad", "Tiden registreres, mens iPhone ligger med skærmen nedad. Løft den for at sætte på pause, og fortsæt efter dine timerindstillinger."],
-    ["Gratis: 3 aktiviteter, 5 minutter", "Gratisversionen giver op til 3 aktiviteter og i alt 300 sekunder (5 minutter) registreret tid samt I dag, Denne uge og en enkel CSV-fil. Kvoten nulstilles ikke dagligt. Lifetime Pro fjerner begge grænser. En allerede startet session med skærmen nedad gemmes uden at afkorte tiden."],
-    ["Lifetime Pro", "Ét permanent køb låser op for ubegrænsede aktiviteter, måneds-, års- og brugerdefinerede analyser, ugemål, frister, Apple Watch, widgets, avancerede hero-stile samt komplet JSON-sikkerhedskopi og gendannelse. Intet abonnement."],
-    ["Privat fra begyndelsen", "Ingen konto, udviklerserver, reklamer, analyse eller sporing. Appens registreringer bliver på din enhed."]
+ "language_name": "Dansk",
+ "language_label": "Sprog",
+ "navigation_label": "Primær navigation",
+ "skip_link": "Gå til indhold",
+ "nav": [
+  "Overblik",
+  "Support",
+  "Anonymitet"
+ ],
+ "footer": "Officiel support- og anonymitetsinformation for Studydown.",
+ "contact": [
+  "Kontakt",
+  "Beskriv, hvad der skete, og oplys enhed og iOS-version. Medtag ikke private fokusregistreringer.",
+  "Skriv til support"
+ ],
+ "home": [
+  "Fokustid, tydeligt registreret",
+  "Studydown gør tiden med din iPhone liggende med skærmen nedad til en privat aktivitetslog for arbejde, læring og hverdagsliv. Vælg en aktivitet, start, og læg skærmen nedad.",
+  "Til alt, der kræver din opmærksomhed"
+ ],
+ "facts": [
+  [
+   "Tid med skærmen nedad",
+   "Tiden registreres, mens iPhone ligger med skærmen nedad. Løft den for at sætte på pause, og fortsæt efter dine timerindstillinger."
   ],
-  "support": ["Support", "Klar hjælp til tid med skærmen nedad, adgang, gendannelse af køb og dine filer.", "Ofte stillede spørgsmål"],
-  "faqs": [
-    ["Hvordan starter jeg en session?", "Vælg eller opret en aktivitet, start timeren, og læg iPhone fladt og stille med skærmen nedad. Studydown begynder at registrere, når placeringen registreres."],
-    ["Hvorfor startede timeren ikke?", "Sørg for, at iPhone ligger næsten fladt og stille, og at Studydown er aktiv. En stejl vinkel eller vedvarende bevægelse kan forhindre registrering."],
-    ["Hvordan gendanner jeg Lifetime Pro?", "Åbn Lifetime Pro-skærmen, og vælg Gendan køb, mens du er logget ind på den Apple Account, der blev brugt ved købet. Apple bekræfter adgangen."],
-    ["Hvad er forskellen på CSV og JSON?", "En enkel CSV-fil til tabeldata er gratis. Lifetime Pro tilføjer komplet JSON-sikkerhedskopi og gendannelse. Filer oprettes kun, når du beder om det, og gemmes på din valgte placering."]
+  [
+   "Gratis: 3 aktiviteter, 5 minutter",
+   "Gratisversionen giver op til 3 aktiviteter og i alt 300 sekunder (5 minutter) registreret tid samt I dag, Denne uge og en enkel CSV-fil. Kvoten nulstilles ikke dagligt. Lifetime Pro fjerner begge grænser. En allerede startet session med skærmen nedad gemmes uden at afkorte tiden."
   ],
-  "privacy": ["Anonymitetspolitik", "Studydown-appen indsamler ikke personoplysninger. Fokusregistreringer behandles og gemmes på din enhed.", "Senest opdateret"],
-  "support_details": [
-    ["Hvordan tester jeg en kort session?", "Sæt den korteste session, der skal gemmes, til 3 sekunder i Indstillinger. Vælg en aktivitet, start timeren, og læg iPhone fladt og stille med skærmen nedad i mindst 10 sekunder efter registreringen. Hold Studydown aktiv og telefonen ulåst. Løft den og afslut sessionen, eller lad fristen udløbe. Sessioner under den valgte minimumstid gemmes ikke."],
-    ["Hvordan ændrer jeg påmindelser?", "Slå påmindelser til eller fra i Indstillinger, og vælg et dagligt tidspunkt eller hver 1., 2., 3., 4., 6., 8. eller 12. time. Notifikationer kræver tilladelse, men timeren virker også uden. Låsning eller skift væk fra appen stopper optællingen af tid; iOS kan stadig levere planlagte påmindelser."]
+  [
+   "Lifetime Pro",
+   "Ét permanent køb låser op for ubegrænsede aktiviteter, måneds-, års- og brugerdefinerede analyser, ugemål, frister, Apple Watch, widgets, avancerede hero-stile samt komplet JSON-sikkerhedskopi og gendannelse. Intet abonnement."
   ],
-  "privacy_details": [
-    ["Lokale notifikationer", "Påmindelsesindstillinger og notifikationstekst bliver på enheden. iOS planlægger lokale notifikationer; Studydown bruger ingen ekstern pushserver og uploader intet enhedstoken. Tilladelse bliver først efterspurgt, når du slår påmindelser til eller bruger tilladelsesfunktionen, ikke ved første start."],
-    ["Apple-tjenester og bevægelse", "StoreKit kan kontakte Apple for at hente produkter og lokale priser samt bekræfte, købe eller gendanne Lifetime Pro. Appen læser bekræftede transaktions- og adgangsoplysninger, ikke betalingsdetaljer, og sender ingen fokusregistreringer til køb. Apples tjenester følger Apples vilkår. CoreMotion behandler retning og bevægelse lokalt, ikke kamerabilleder; bevægelsesregistreringen stopper, når appen bliver inaktiv."],
-    ["Enheder, opbevaring og sletning", "Widgets bruger lokal App Group-lagring. Liveaktiviteter bruger ikke serverpush. Apple Watch udveksler aktivitetsnavne og id’er, sessionstider, oversigter, præferencer og adgangsstatus med den parrede iPhone via WatchConnectivity, ikke en udviklerserver. Gemte registreringer bevares, indtil de slettes eller erstattes. I dataadministrationen under Indstillinger kan alle lokale data slettes efter bekræftelse. Eksporterede filer, Watch-kopier og eventuelle Apple-administrerede enhedskopier er adskilte; sletning i appen garanterer ikke, at de fjernes. Sikkerhedskopier afhænger af dine systemindstillinger."]
+  [
+   "Privat fra begyndelsen",
+   "Ingen konto, udviklerserver, reklamer, analyse eller sporing. Appens registreringer bliver på din enhed."
   ],
-  "privacy_sections": [
-    ["Data på din enhed", "Aktivitetsnavne, sessioner, oversigter, ugemål, frister og indstillinger bliver i appens lokale lager. Studydown har ingen konto eller udviklerserver."],
-    ["Bevægelsesoplysninger", "Studydown læser kun retning og bevægelse for at registrere, at iPhone ligger med skærmen nedad. Rå sensormålinger gemmes eller sendes ikke og knyttes ikke til dig."],
-    ["Køb via Apple", "Når du køber eller gendanner Lifetime Pro, kommunikerer StoreKit med Apple. Apple behandler transaktionen; Studydown modtager ikke dine betalingsoplysninger."],
-    ["Filer, du opretter", "CSV- og JSON-filer fremstilles kun efter dit valg. Du bestemmer, hvor de gemmes eller deles, hvorefter destinationens egne vilkår gælder."],
-    ["Beskeder til support", "Hvis du sender os en e-mail, modtager vi den adresse og besked, du vælger at sende. De bruges kun til svar og sælges eller bruges ikke til reklamer."],
-    ["Dette websted", "Dette statiske websted bruger ingen cookies og indlæser ingen analyse, reklamer, sporingsværktøjer eller tredjepartsscripts. GitHub Pages hoster filerne og kan behandle almindelige forbindelsesdata efter egne vilkår."]
+  [
+   "Også på Android",
+   "Studydown findes også til Android, udviklet nativt til platformen, med samme gratisniveau (3 aktiviteter, 5 minutter i alt) og et engangskøb af Lifetime Pro, der låser ubegrænsede aktiviteter og registrering, avanceret statistik, mål, deadlines, widgets og sikkerhedskopier op. Der findes ingen Apple Watch-app til Android."
   ]
+ ],
+ "support": [
+  "Support",
+  "Klar hjælp til tid med skærmen nedad, adgang, gendannelse af køb og dine filer.",
+  "Ofte stillede spørgsmål"
+ ],
+ "faqs": [
+  [
+   "Hvordan starter jeg en session?",
+   "Vælg eller opret en aktivitet, start timeren, og læg iPhone fladt og stille med skærmen nedad. Studydown begynder at registrere, når placeringen registreres."
+  ],
+  [
+   "Hvorfor startede timeren ikke?",
+   "Sørg for, at iPhone ligger næsten fladt og stille, og at Studydown er aktiv. En stejl vinkel eller vedvarende bevægelse kan forhindre registrering."
+  ],
+  [
+   "Hvordan gendanner jeg Lifetime Pro?",
+   "Åbn Lifetime Pro-skærmen, og vælg Gendan køb, mens du er logget ind på den Apple Account, der blev brugt ved købet. Apple bekræfter adgangen."
+  ],
+  [
+   "Hvad er forskellen på CSV og JSON?",
+   "En enkel CSV-fil til tabeldata er gratis. Lifetime Pro tilføjer komplet JSON-sikkerhedskopi og gendannelse. Filer oprettes kun, når du beder om det, og gemmes på din valgte placering."
+  ]
+ ],
+ "privacy": [
+  "Anonymitetspolitik",
+  "Studydown-appen indsamler ikke personoplysninger. Fokusregistreringer behandles og gemmes på din enhed.",
+  "Senest opdateret"
+ ],
+ "support_details": [
+  [
+   "Hvordan tester jeg en kort session?",
+   "Sæt den korteste session, der skal gemmes, til 3 sekunder i Indstillinger. Vælg en aktivitet, start timeren, og læg iPhone fladt og stille med skærmen nedad i mindst 10 sekunder efter registreringen. Hold Studydown aktiv og telefonen ulåst. Løft den og afslut sessionen, eller lad fristen udløbe. Sessioner under den valgte minimumstid gemmes ikke."
+  ],
+  [
+   "Hvordan ændrer jeg påmindelser?",
+   "Slå påmindelser til eller fra i Indstillinger, og vælg et dagligt tidspunkt eller hver 1., 2., 3., 4., 6., 8. eller 12. time. Notifikationer kræver tilladelse, men timeren virker også uden. Låsning eller skift væk fra appen stopper optællingen af tid; iOS kan stadig levere planlagte påmindelser."
+  ]
+ ],
+ "privacy_details": [
+  [
+   "Lokale notifikationer",
+   "Påmindelsesindstillinger og notifikationstekst bliver på enheden. iOS planlægger lokale notifikationer; Studydown bruger ingen ekstern pushserver og uploader intet enhedstoken. Tilladelse bliver først efterspurgt, når du slår påmindelser til eller bruger tilladelsesfunktionen, ikke ved første start."
+  ],
+  [
+   "Apple-tjenester og bevægelse",
+   "StoreKit kan kontakte Apple for at hente produkter og lokale priser samt bekræfte, købe eller gendanne Lifetime Pro. Appen læser bekræftede transaktions- og adgangsoplysninger, ikke betalingsdetaljer, og sender ingen fokusregistreringer til køb. Apples tjenester følger Apples vilkår. CoreMotion behandler retning og bevægelse lokalt, ikke kamerabilleder; bevægelsesregistreringen stopper, når appen bliver inaktiv."
+  ],
+  [
+   "Enheder, opbevaring og sletning",
+   "Widgets bruger lokal App Group-lagring. Liveaktiviteter bruger ikke serverpush. Apple Watch udveksler aktivitetsnavne og id’er, sessionstider, oversigter, præferencer og adgangsstatus med den parrede iPhone via WatchConnectivity, ikke en udviklerserver. Gemte registreringer bevares, indtil de slettes eller erstattes. I dataadministrationen under Indstillinger kan alle lokale data slettes efter bekræftelse. Eksporterede filer, Watch-kopier og eventuelle Apple-administrerede enhedskopier er adskilte; sletning i appen garanterer ikke, at de fjernes. Sikkerhedskopier afhænger af dine systemindstillinger."
+  ]
+ ],
+ "privacy_sections": [
+  [
+   "Data på din enhed",
+   "Aktivitetsnavne, sessioner, oversigter, ugemål, frister og indstillinger bliver i appens lokale lager. Studydown har ingen konto eller udviklerserver."
+  ],
+  [
+   "Bevægelsesoplysninger",
+   "Studydown læser kun retning og bevægelse for at registrere, at iPhone ligger med skærmen nedad. Rå sensormålinger gemmes eller sendes ikke og knyttes ikke til dig."
+  ],
+  [
+   "Køb via Apple",
+   "Når du køber eller gendanner Lifetime Pro, kommunikerer StoreKit med Apple. Apple behandler transaktionen; Studydown modtager ikke dine betalingsoplysninger."
+  ],
+  [
+   "Filer, du opretter",
+   "CSV- og JSON-filer fremstilles kun efter dit valg. Du bestemmer, hvor de gemmes eller deles, hvorefter destinationens egne vilkår gælder."
+  ],
+  [
+   "Beskeder til support",
+   "Hvis du sender os en e-mail, modtager vi den adresse og besked, du vælger at sende. De bruges kun til svar og sælges eller bruges ikke til reklamer."
+  ],
+  [
+   "Dette websted",
+   "Dette statiske websted bruger ingen cookies og indlæser ingen analyse, reklamer, sporingsværktøjer eller tredjepartsscripts. GitHub Pages hoster filerne og kan behandle almindelige forbindelsesdata efter egne vilkår."
+  ],
+  [
+   "Også på Android",
+   "Android-appen gemmer aktiviteter, sessioner og indstillinger kun i appens lokale lager, uden konto eller udviklerserver. Køb og gendannelse behandles via Play Stores faktureringssystem; Studydown modtager ikke dine betalingsoplysninger."
+  ]
+ ]
 }

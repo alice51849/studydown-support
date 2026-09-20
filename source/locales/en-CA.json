@@ -1,41 +1,126 @@
 {
-  "language_name": "English (Canada)",
-  "language_label": "Language",
-  "navigation_label": "Main navigation",
-  "skip_link": "Skip to content",
-  "nav": ["Overview", "Support", "Privacy"],
-  "footer": "Official Studydown support and privacy information.",
-  "contact": ["Contact", "Describe what happened and include your device and iOS version. Please do not send private focus records.", "Email support"],
-  "home": ["Focused time, neatly recorded", "Studydown turns time with your iPhone face down into a private Activity ledger for work, learning, and everyday life. Choose an Activity, start, then place the screen down.", "One ledger for every kind of focus"],
-  "facts": [
-    ["Face-down timing", "Time is recorded while the iPhone rests face down. Pick it up to pause, then continue based on your timer settings."],
-    ["Free: 3 Activities, 5 minutes", "Keep up to 3 Activities and 300 seconds (5 minutes) of total recorded time, with Today and This Week summaries and a basic CSV file. This is not a daily allowance. Lifetime Pro removes both limits; a face-down session already underway is saved without trimming."],
-    ["Lifetime Pro", "One lifetime purchase unlocks unlimited Activities, monthly, yearly, and custom analysis, weekly goals, Deadlines, Apple Watch, Widgets, advanced hero styles, and complete JSON backup and restore. No subscription."],
-    ["Private by design", "Studydown has no account, developer server, advertising, analytics, or tracking. Your app records stay on your device."]
+ "language_name": "English (Canada)",
+ "language_label": "Language",
+ "navigation_label": "Main navigation",
+ "skip_link": "Skip to content",
+ "nav": [
+  "Overview",
+  "Support",
+  "Privacy"
+ ],
+ "footer": "Official Studydown support and privacy information.",
+ "contact": [
+  "Contact",
+  "Describe what happened and include your device and iOS version. Please do not send private focus records.",
+  "Email support"
+ ],
+ "home": [
+  "Focused time, neatly recorded",
+  "Studydown turns time with your iPhone face down into a private Activity ledger for work, learning, and everyday life. Choose an Activity, start, then place the screen down.",
+  "One ledger for every kind of focus"
+ ],
+ "facts": [
+  [
+   "Face-down timing",
+   "Time is recorded while the iPhone rests face down. Pick it up to pause, then continue based on your timer settings."
   ],
-  "support": ["Support", "Clear help with face-down timing, access, restoring your purchase, and managing files.", "Common questions"],
-  "faqs": [
-    ["How do I start?", "Choose or create an Activity, start the timer, and place the iPhone flat and still with its screen facing down. Studydown records once that position is detected."],
-    ["Why did the timer not start?", "Confirm that the iPhone is almost flat, still, and Studydown is active. A steep angle or constant movement can prevent detection."],
-    ["How do I restore Lifetime Pro?", "Open the Lifetime Pro screen and select Restore Purchases while signed in to the Apple Account used to buy it. Apple confirms the entitlement."],
-    ["How are CSV and JSON different?", "Basic CSV is included free for tabular records. Lifetime Pro adds complete JSON backup and restore. Files are created only when requested and saved to a destination you select."]
+  [
+   "Free: 3 Activities, 5 minutes",
+   "Keep up to 3 Activities and 300 seconds (5 minutes) of total recorded time, with Today and This Week summaries and a basic CSV file. This is not a daily allowance. Lifetime Pro removes both limits; a face-down session already underway is saved without trimming."
   ],
-  "privacy": ["Privacy Policy", "The Studydown app does not collect personal data. Focus records are processed and stored on your device.", "Last updated"],
-  "support_details": [
-    ["How can I check a short session?", "In Settings, set Shortest session to keep to 3 seconds. Choose an Activity, tap Start timing, and keep the iPhone still and face down for at least 10 seconds after detection. Keep Studydown active and the phone unlocked. Lift it and end the session or let the grace period expire. Sessions shorter than your chosen minimum are discarded."],
-    ["How do I change reminders?", "In Settings, turn reminders on or off and choose a daily time or an interval of 1, 2, 3, 4, 6, 8, or 12 hours. Notifications need permission, but declining them does not prevent timing. Locking the phone or leaving the app stops active time accumulation; iOS can still deliver scheduled reminders."]
+  [
+   "Lifetime Pro",
+   "One lifetime purchase unlocks unlimited Activities, monthly, yearly, and custom analysis, weekly goals, Deadlines, Apple Watch, Widgets, advanced hero styles, and complete JSON backup and restore. No subscription."
   ],
-  "privacy_details": [
-    ["Local notifications", "Reminder settings and notification text stay on the device. iOS schedules local notifications; Studydown does not use a remote push server or upload a device token. Notification permission is requested when you enable reminders or use the permission control, not on first launch."],
-    ["Apple services and motion processing", "StoreKit may contact Apple to load products and localized prices and to verify, buy, or restore Lifetime Pro. The app reads verified transaction and entitlement information, not payment details, and sends no focus records for purchases. Apple's services follow Apple's terms. CoreMotion processes orientation and movement locally, not camera images; motion tracking stops when the app becomes inactive."],
-    ["Your devices, storage and deletion", "Widgets use local App Group storage. Live Activities have no server push. Apple Watch uses WatchConnectivity to exchange Activity names and identifiers, session times, summaries, preferences, and entitlement state with the paired iPhone, not a developer server. Saved records remain until erased or replaced. Settings → Your data → Erase all data deletes local records after confirmation. Exported files, Watch copies, and any Apple-managed device backups are separate; erasing app data does not guarantee erasing those copies. Device backups depend on your system settings."]
+  [
+   "Private by design",
+   "Studydown has no account, developer server, advertising, analytics, or tracking. Your app records stay on your device."
   ],
-  "privacy_sections": [
-    ["Local app data", "Activity names, focus sessions, summaries, weekly goals, Deadlines, and settings remain in local app storage. There is no Studydown account or developer server."],
-    ["Motion information", "Studydown reads orientation and movement only as needed to detect a face-down iPhone. Raw sensor readings are not saved, transmitted, or associated with you."],
-    ["Apple purchases", "StoreKit communicates with Apple when you buy or restore Lifetime Pro. Apple handles the transaction; Studydown does not receive payment details."],
-    ["Files you create", "CSV and JSON files are produced only when you request them. You control where they are saved or shared, and the chosen destination's privacy terms apply."],
-    ["Contacting support", "If you email support, we receive the address and message you choose to send. We use them only to respond, never to advertise or sell information."],
-    ["This website", "This static website sets no cookies and loads no analytics, ads, trackers, or third-party scripts. GitHub Pages hosts it and may process standard connection information under its own terms."]
+  [
+   "Also on Android",
+   "Studydown is also available for Android, built natively for the platform, with the same free allowance (3 Activities, 5 minutes total) and a one-time Lifetime Pro purchase that unlocks unlimited Activities and recording, advanced statistics, goals, Deadlines, widgets, and backups. There is no Apple Watch companion on Android."
   ]
+ ],
+ "support": [
+  "Support",
+  "Clear help with face-down timing, access, restoring your purchase, and managing files.",
+  "Common questions"
+ ],
+ "faqs": [
+  [
+   "How do I start?",
+   "Choose or create an Activity, start the timer, and place the iPhone flat and still with its screen facing down. Studydown records once that position is detected."
+  ],
+  [
+   "Why did the timer not start?",
+   "Confirm that the iPhone is almost flat, still, and Studydown is active. A steep angle or constant movement can prevent detection."
+  ],
+  [
+   "How do I restore Lifetime Pro?",
+   "Open the Lifetime Pro screen and select Restore Purchases while signed in to the Apple Account used to buy it. Apple confirms the entitlement."
+  ],
+  [
+   "How are CSV and JSON different?",
+   "Basic CSV is included free for tabular records. Lifetime Pro adds complete JSON backup and restore. Files are created only when requested and saved to a destination you select."
+  ]
+ ],
+ "privacy": [
+  "Privacy Policy",
+  "The Studydown app does not collect personal data. Focus records are processed and stored on your device.",
+  "Last updated"
+ ],
+ "support_details": [
+  [
+   "How can I check a short session?",
+   "In Settings, set Shortest session to keep to 3 seconds. Choose an Activity, tap Start timing, and keep the iPhone still and face down for at least 10 seconds after detection. Keep Studydown active and the phone unlocked. Lift it and end the session or let the grace period expire. Sessions shorter than your chosen minimum are discarded."
+  ],
+  [
+   "How do I change reminders?",
+   "In Settings, turn reminders on or off and choose a daily time or an interval of 1, 2, 3, 4, 6, 8, or 12 hours. Notifications need permission, but declining them does not prevent timing. Locking the phone or leaving the app stops active time accumulation; iOS can still deliver scheduled reminders."
+  ]
+ ],
+ "privacy_details": [
+  [
+   "Local notifications",
+   "Reminder settings and notification text stay on the device. iOS schedules local notifications; Studydown does not use a remote push server or upload a device token. Notification permission is requested when you enable reminders or use the permission control, not on first launch."
+  ],
+  [
+   "Apple services and motion processing",
+   "StoreKit may contact Apple to load products and localized prices and to verify, buy, or restore Lifetime Pro. The app reads verified transaction and entitlement information, not payment details, and sends no focus records for purchases. Apple's services follow Apple's terms. CoreMotion processes orientation and movement locally, not camera images; motion tracking stops when the app becomes inactive."
+  ],
+  [
+   "Your devices, storage and deletion",
+   "Widgets use local App Group storage. Live Activities have no server push. Apple Watch uses WatchConnectivity to exchange Activity names and identifiers, session times, summaries, preferences, and entitlement state with the paired iPhone, not a developer server. Saved records remain until erased or replaced. Settings → Your data → Erase all data deletes local records after confirmation. Exported files, Watch copies, and any Apple-managed device backups are separate; erasing app data does not guarantee erasing those copies. Device backups depend on your system settings."
+  ]
+ ],
+ "privacy_sections": [
+  [
+   "Local app data",
+   "Activity names, focus sessions, summaries, weekly goals, Deadlines, and settings remain in local app storage. There is no Studydown account or developer server."
+  ],
+  [
+   "Motion information",
+   "Studydown reads orientation and movement only as needed to detect a face-down iPhone. Raw sensor readings are not saved, transmitted, or associated with you."
+  ],
+  [
+   "Apple purchases",
+   "StoreKit communicates with Apple when you buy or restore Lifetime Pro. Apple handles the transaction; Studydown does not receive payment details."
+  ],
+  [
+   "Files you create",
+   "CSV and JSON files are produced only when you request them. You control where they are saved or shared, and the chosen destination's privacy terms apply."
+  ],
+  [
+   "Contacting support",
+   "If you email support, we receive the address and message you choose to send. We use them only to respond, never to advertise or sell information."
+  ],
+  [
+   "This website",
+   "This static website sets no cookies and loads no analytics, ads, trackers, or third-party scripts. GitHub Pages hosts it and may process standard connection information under its own terms."
+  ],
+  [
+   "Also on Android",
+   "The Android app stores Activities, sessions, and settings in local app storage only, with no account or developer server. Purchases and restoration are handled through Play Store billing; Studydown does not receive your payment details."
+  ]
+ ]
 }

@@ -74,16 +74,16 @@ def load_translations() -> dict[str, dict[str, Any]]:
             raise SystemExit(f"{locale}: contact must contain three strings")
         if not isinstance(item["home"], list) or len(item["home"]) != 3:
             raise SystemExit(f"{locale}: home must contain three strings")
-        if not isinstance(item["facts"], list) or len(item["facts"]) != 4:
-            raise SystemExit(f"{locale}: facts must contain four pairs")
+        if not isinstance(item["facts"], list) or len(item["facts"]) != 5:
+            raise SystemExit(f"{locale}: facts must contain five pairs")
         if not isinstance(item["support"], list) or len(item["support"]) != 3:
             raise SystemExit(f"{locale}: support must contain three strings")
         if not isinstance(item["faqs"], list) or len(item["faqs"]) != 4:
             raise SystemExit(f"{locale}: faqs must contain four pairs")
         if not isinstance(item["privacy"], list) or len(item["privacy"]) != 3:
             raise SystemExit(f"{locale}: privacy must contain three strings")
-        if not isinstance(item["privacy_sections"], list) or len(item["privacy_sections"]) != 6:
-            raise SystemExit(f"{locale}: privacy_sections must contain six pairs")
+        if not isinstance(item["privacy_sections"], list) or len(item["privacy_sections"]) != 7:
+            raise SystemExit(f"{locale}: privacy_sections must contain seven pairs")
         if not isinstance(item["support_details"], list) or len(item["support_details"]) != 2:
             raise SystemExit(f"{locale}: support_details must contain two pairs")
         if not isinstance(item["privacy_details"], list) or len(item["privacy_details"]) != 3:
