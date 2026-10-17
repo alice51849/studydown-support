@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Studydown – Foreground service demo</title>
+<meta name="description" content="Screen recording showing how Studydown for Android uses its special-use foreground service (FOREGROUND_SERVICE_SPECIAL_USE) for the face-down study timer.">
+<meta name="robots" content="noindex">
+<style>
+:root{--ink:#241d32;--muted:#625a73;--accent:#58319b;--bg:#f8f5fc}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Inter,"Noto Sans",sans-serif;-webkit-font-smoothing:antialiased}
+main.fgs{max-width:760px;margin:0 auto;padding:24px 16px 48px;line-height:1.6}
+main.fgs h1{font-size:1.6rem;line-height:1.25}
+main.fgs h2{font-size:1.15rem;margin-top:1.8em}
+main.fgs video{display:block;width:100%;max-width:360px;margin:16px auto;border-radius:16px;background:#000}
+main.fgs ol li{margin:.25em 0}
+main.fgs a{color:var(--accent)}
+main.fgs code{font-size:.92em}
+main.fgs .note{color:var(--muted);font-size:.95em}
+</style>
+</head>
+<body>
+<main class="fgs">
+<h1>Studydown – Foreground service demo</h1>
+<p>This video is a real screen recording of Studydown for Android (release build 1.0.1, Android 15 emulator). It shows why the app uses a foreground service of type <code>specialUse</code> (<code>FOREGROUND_SERVICE_SPECIAL_USE</code>, subtype <code>face-down-study-timer</code>).</p>
+<video controls playsinline preload="metadata" src="fgs-demo.mp4"></video>
+<p><a href="fgs-demo.mp4">Download / open the video file (MP4, H.264)</a></p>
+<h2>What the foreground service does</h2>
+<p>Studydown times study sessions by how the phone lies on the desk: the timer runs while the phone is face down and pauses when it is picked up. When the user taps Start timing, <code>StudyTimerService</code> starts as a foreground service. While the session is active it keeps reading the motion sensors (gravity, linear acceleration and gyroscope) to detect whether the phone is face down or has been picked up, and its ongoing notification shows the subject, the elapsed study time and the timer state, with a Finish button. When the user finishes the session (in the app or in the notification) the service stops and the notification is removed. The sensor readings are used only on the device for this detection and are not stored.</p>
+<p>This is not audio, location, media or data sync work, so none of the standard foreground service types fits; the service is declared as <code>specialUse</code> with the subtype <code>face-down-study-timer</code>. It must run without interruption: a phone lying face down usually has its screen off or another app on top, and Android stops delivering sensor events to an app in the background. Without the foreground service the timer could not tell when the phone is picked up or put down again, and the recorded study time would be wrong.</p>
+<p class="note">An emulator cannot be physically turned over, so in this recording the face-down and picked-up positions are set with the emulator's virtual motion sensors; the app reacts to them exactly as it does to the sensors of a real phone.</p>
+<h2>Steps shown in the video</h2>
+<ol>
+<li>Open Studydown and tap Start timing for the activity "Maths" – the foreground service starts and the app asks to turn the phone face down.</li>
+<li>The notification shade shows the ongoing Studydown notification (activity, elapsed time, "Turn your phone face down to begin" and a Finish session button).</li>
+<li>Go to the home screen and place the phone face down – the timer starts in the background: the notification switches to "Studying" and the elapsed time keeps counting (00:00:00 → 00:00:06) while Studydown is not on screen.</li>
+<li>Back in Studydown the timer is still running. Picking the phone up shows "Picked up — resuming in 5 s".</li>
+<li>Tap Finish session – the session ends and the service stops (this short demo session is under the 1-minute minimum, so it is not saved).</li>
+<li>The Studydown notification is gone – the foreground service has stopped.</li>
+</ol>
+<p><a href="./">Studydown support</a> · <a href="privacy.html">Privacy Policy</a></p>
+</main>
+</body>
+</html>
