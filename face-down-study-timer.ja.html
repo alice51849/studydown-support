@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>勉強タイマーで勉強時間を記録：スマホを伏せた時間だけ計測｜Studydown</title>
+<meta name="description" content="勉強中もついスマホを触ってしまう人へ。スマホを伏せると計測開始、持ち上げると一時停止する勉強タイマー。持ち上げ回数や連続集中時間、締め切りまでの1日のペースも記録できます。">
+<link rel="canonical" href="https://open.cait518.cc/studydown-support/face-down-study-timer.ja.html">
+<meta property="og:title" content="勉強タイマーで勉強時間を記録：スマホを伏せた時間だけ計測｜Studydown">
+<meta property="og:description" content="勉強中もついスマホを触ってしまう人へ。スマホを伏せると計測開始、持ち上げると一時停止する勉強タイマー。持ち上げ回数や連続集中時間、締め切りまでの1日のペースも記録できます。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://open.cait518.cc/studydown-support/face-down-study-timer.ja.html">
+<meta name="apple-itunes-app" content="app-id=6807335593">
+<style>
+:root{color-scheme:light dark;--bg:#fbfaf7;--fg:#1d1d1f;--muted:#5f6368;--line:rgba(128,128,128,.22);--accent:#2f6fde;--card:#fff}
+@media (prefers-color-scheme:dark){:root{--bg:#141416;--fg:#ececf0;--muted:#a3a3ab;--card:#1d1d21;--accent:#7aa7ff}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.75 -apple-system,BlinkMacSystemFont,"Segoe UI","Hiragino Sans","PingFang TC","Noto Sans CJK TC","Apple SD Gothic Neo",Roboto,sans-serif}
+a{color:var(--accent)}
+.helpdoc{max-width:820px;margin:0 auto;padding:28px 16px 64px}
+.helpdoc h1{font-size:clamp(26px,4.4vw,36px);line-height:1.3;margin:.2em 0 .4em}
+.helpdoc h2{font-size:clamp(19px,2.8vw,24px);margin:2.1em 0 .6em;scroll-margin-top:16px}
+.helpdoc h3{font-size:17px;margin:1.5em 0 .35em}
+.helpdoc .lede{font-size:17.5px;color:var(--muted);margin:0 0 1.4em}
+.helpdoc .hd-nav{display:flex;flex-wrap:wrap;gap:14px;font-size:14px;margin:0 0 20px}
+.helpdoc .hd-toc{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 8px;padding:0;list-style:none}
+.helpdoc .hd-toc a{display:inline-block;padding:5px 12px;border:1px solid var(--line);border-radius:999px;font-size:13.5px;text-decoration:none}
+.helpdoc .tbl{overflow-x:auto;margin:.8em 0}
+.helpdoc table{width:100%;border-collapse:collapse;font-size:15px}
+.helpdoc th,.helpdoc td{text-align:left;padding:8px 10px;border-bottom:1px solid var(--line);vertical-align:top}
+.helpdoc th{font-weight:650;white-space:nowrap}
+.helpdoc .box{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:14px 18px;margin:1em 0}
+.helpdoc .cta{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:18px 20px;margin:2.4em 0 1em}
+.helpdoc .cta a.btn{display:inline-block;margin:6px 0;padding:11px 20px;border-radius:999px;background:var(--accent);color:#fff;font-weight:650;text-decoration:none}
+.helpdoc .hd-q{margin:1.4em 0 .3em;font-weight:650;font-size:16.5px}
+.helpdoc .hd-a{margin:0 0 .2em}
+.helpdoc .hd-note{font-size:13px;color:var(--muted);margin-top:2.6em;border-top:1px solid var(--line);padding-top:14px}
+.helpdoc ul,.helpdoc ol{padding-left:1.25em}
+.helpdoc li{margin:.3em 0}
+@media print{.hd-nav,.cta,.hd-toc{display:none}body{background:#fff;color:#000}}
+</style>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "勉強タイマーで勉強時間を記録：スマホを伏せた時間だけ計測｜Studydown", "description": "勉強中もついスマホを触ってしまう人へ。スマホを伏せると計測開始、持ち上げると一時停止する勉強タイマー。持ち上げ回数や連続集中時間、締め切りまでの1日のペースも記録できます。", "inLanguage": "ja", "mainEntityOfPage": "https://open.cait518.cc/studydown-support/face-down-study-timer.ja.html", "dateModified": "2026-10-20", "author": {"@type": "Organization", "@id": "https://open.cait518.cc/ios-app-guide/#organization", "name": "Lumi Studio", "url": "https://open.cait518.cc/ios-app-guide/about.html"}, "publisher": {"@type": "Organization", "@id": "https://open.cait518.cc/ios-app-guide/#organization", "name": "Lumi Studio", "url": "https://open.cait518.cc/ios-app-guide/about.html"}, "about": {"@type": "SoftwareApplication", "name": "Studydown：伏せて時間記録", "operatingSystem": "iOS", "applicationCategory": "EducationApplication", "url": "https://apps.apple.com/app/id6807335593"}}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "inLanguage": "ja", "mainEntity": [{"@type": "Question", "name": "ほかのアプリを使えなくする機能はありますか？", "acceptedAnswer": {"@type": "Answer", "text": "ありません。スマホを伏せてアプリを開いている間の時間を記録するアプリです。アプリを離れると加算されません。"}}, {"@type": "Question", "name": "途中でスマホを持ち上げるとどうなりますか？", "acceptedAnswer": {"@type": "Answer", "text": "設定した猶予時間に応じて一時停止し、持ち上げ回数は集中シグネチャに記録されます。"}}, {"@type": "Question", "name": "科目ごとに勉強時間を分けられますか？", "acceptedAnswer": {"@type": "Answer", "text": "はい。項目を自由に作り、項目ごとの時間配分を確認できます。"}}, {"@type": "Question", "name": "計測し忘れた時間は追加できますか？", "acceptedAnswer": {"@type": "Answer", "text": "はい。記録し忘れた時間の追加や修正ができます。"}}, {"@type": "Question", "name": "アカウント登録は必要ですか？", "acceptedAnswer": {"@type": "Answer", "text": "いいえ。計測と記録は端末内で完結し、広告もありません。"}}, {"@type": "Question", "name": "サブスクリプションですか？", "acceptedAnswer": {"@type": "Answer", "text": "いいえ。App 内の一度の購入で制限が解除され、サブスクリプションはありません。"}}]}</script>
+</head>
+<body>
+<p class="first-party-disclosure" data-first-party-disclosure="banner" role="note" style="margin:0;padding:8px 16px;background:#f3f4f6;color:#1f2937;border-bottom:1px solid #d1d5db;font-size:13px;line-height:1.5;text-align:center">当サイトは掲載アプリの開発者であるLumi Studioが運営し、自社アプリを紹介しています。</p>
+<main class="helpdoc">
+<nav class="hd-nav"><a href="./">サポートトップ</a><a href="help.html">ヘルプ・よくある質問</a><a href="https://apps.apple.com/jp/app/id6807335593?pt=118326163&amp;ct=bm_studydown_jp_seo&amp;mt=8">Studydown：伏せて時間記録</a><a href="https://play.google.com/store/apps/details?id=com.alice51849.Studydown&amp;referrer=utm_source%3Dbm_studydown_jp_seo%26utm_campaign%3Dstudydown" rel="noopener" data-ls-play="nav">Google Play</a></nav>
+<h1>スマホを伏せた時間だけ数える勉強タイマーで、勉強時間を記録する</h1>
+<p class="lede">勉強タイマーを回していても、スマホを触っている間も時間は進みます。それでは記録の数字に意味がありません。<strong>Studydown</strong> は、<strong>スマホを伏せている間だけ</strong>時間を数え、持ち上げると一時停止します。このページでは<strong>勉強タイマー</strong>と<strong>勉強時間の記録</strong>としての使い方、テストや資格試験の締め切りを1日のペースに変える方法をまとめました。スマホ断ちを意識したい人は、「持ち上げ回数」が変化の目安になります。</p>
+<p><strong>このページの内容</strong></p>
+<ul class="hd-toc"><li><a href="#how">伏せて計測するしくみ</a></li><li><a href="#track">科目ごとに勉強時間を記録</a></li><li><a href="#deadline">締め切りを1日のペースに変える</a></li><li><a href="#compare">普通のタイマーとの違い</a></li><li><a href="#buy">プライバシーと購入</a></li><li><a href="#faq">よくある質問</a></li></ul>
+<h2 id="how">伏せて計測するしくみ</h2>
+<ol><li><strong>項目を選ぶ</strong>：科目、読書、語学、練習などを登録します。</li><li><strong>計測を開始</strong>し、スマートフォンを画面が下になるよう机に置きます。</li><li><strong>計測中はアプリを開いたまま</strong>にします。持ち上げると、設定した猶予時間に応じて一時停止します。</li><li><strong>アプリを離れた後の時間は加算されません。</strong></li></ol><p>伏せた計測ごとに、スマホを持ち上げた回数と平均連続集中時間が<strong>「集中シグネチャ」</strong>として保存されます。</p>
+<h2 id="track">科目ごとに勉強時間を記録</h2>
+<ul><li>項目の名前や色、並び順を自由に設定できます。</li><li>今日と今週の合計、継続日数、項目ごとの時間配分を確認できます。</li><li>記録し忘れた時間の追加や修正もできます。</li><li>記録は CSV で保存できます。</li></ul>
+<h2 id="deadline">締め切りを1日のペースに変える</h2>
+<p>期限ごとに投入時間の目標を決めると、記録済みの時間と残りの1日ペースが分かります。週の目標も設定でき、リマインダーは毎日、または数時間おきに設定、不要なときはオフにできます。</p><div class="tbl"><table><thead><tr><th>設定するもの</th><th>Studydown で分かること</th></tr></thead><tbody><tr><td>締め切りと投入時間の目標</td><td>実績と残りの1日ペース</td></tr><tr><td>週の目標</td><td>今週の進み具合</td></tr><tr><td>リマインダー</td><td>毎日、または数時間おき</td></tr></tbody></table></div>
+<h2 id="compare">普通のタイマーとの違い</h2>
+<div class="tbl"><table><thead><tr><th></th><th>ストップウォッチ・普通のタイマー</th><th>Studydown</th></tr></thead><tbody><tr><td>スマホを触っている間</td><td>計測が続く</td><td>持ち上げると一時停止</td></tr><tr><td>持ち上げ回数</td><td>記録なし</td><td>集中シグネチャに保存</td></tr><tr><td>科目ごとの時間</td><td>自分でメモ</td><td>項目ごとの時間配分</td></tr><tr><td>締め切りまでのペース</td><td>—</td><td>残りの1日ペースを表示</td></tr></tbody></table></div>
+<h2 id="buy">プライバシーと購入</h2>
+<p>計測と記録は端末内で完結し、アカウント登録や広告はありません。購入しなくても最大3項目、累計5分の体験枠があり、毎日のリセットはありません。すでに開始したセッションの記録は途中で切り捨てずに保存します。App 内で一度購入すると、項目数と記録時間の制限解除、詳しい統計、目標、締め切り、ウィジェット、Apple Watch、バックアップが使えます。サブスクリプションはありません。</p>
+<div class="cta">
+<p><strong>iPhone でそのまま試すなら</strong> Studydown でスマホを伏せて勉強タイマーを開始し、科目ごとの本当の勉強時間と、締め切りまでの1日のペースを確認しましょう。</p>
+<p><a class="btn" href="https://apps.apple.com/jp/app/id6807335593?pt=118326163&amp;ct=bm_studydown_jp_seo&amp;mt=8">App Store で Studydown：伏せて時間記録 を見る</a></p>
+<p><strong>Android をお使いですか？</strong></p>
+<p><a class="btn" href="https://play.google.com/store/apps/details?id=com.alice51849.Studydown&amp;referrer=utm_source%3Dbm_studydown_jp_seo%26utm_campaign%3Dstudydown" rel="noopener" data-ls-play="cta">Google Play で Studydown：伏せて時間記録 を見る</a></p>
+<p>Studydown：伏せて時間記録 をお使いの方は、App Store で評価やレビューを書くことができます。 <a href="https://apps.apple.com/app/id6807335593?action=write-review">レビューを書く</a></p>
+</div>
+<h2 id="faq">よくある質問</h2>
+<p class="hd-q">ほかのアプリを使えなくする機能はありますか？</p>
+<p class="hd-a">ありません。スマホを伏せてアプリを開いている間の時間を記録するアプリです。アプリを離れると加算されません。</p>
+<p class="hd-q">途中でスマホを持ち上げるとどうなりますか？</p>
+<p class="hd-a">設定した猶予時間に応じて一時停止し、持ち上げ回数は集中シグネチャに記録されます。</p>
+<p class="hd-q">科目ごとに勉強時間を分けられますか？</p>
+<p class="hd-a">はい。項目を自由に作り、項目ごとの時間配分を確認できます。</p>
+<p class="hd-q">計測し忘れた時間は追加できますか？</p>
+<p class="hd-a">はい。記録し忘れた時間の追加や修正ができます。</p>
+<p class="hd-q">アカウント登録は必要ですか？</p>
+<p class="hd-a">いいえ。計測と記録は端末内で完結し、広告もありません。</p>
+<p class="hd-q">サブスクリプションですか？</p>
+<p class="hd-a">いいえ。App 内の一度の購入で制限が解除され、サブスクリプションはありません。</p>
+
+<div class="box"><p>Studydown は個人開発のアプリで、Apple とは提携していません。スマートフォンを伏せてアプリを開いている間の時間を記録するアプリで、ほかのアプリを制限する機能はありません。</p></div>
+
+<p class="hd-note">このページは Studydown：伏せて時間記録 の開発者が AI の補助を受けて作成し、App Store の掲載内容と照合しました。最終更新：2026-10-20。</p>
+</main>
+</body>
+</html>
