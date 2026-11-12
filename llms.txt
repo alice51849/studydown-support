@@ -14,4 +14,8 @@
 - [Support and contact](https://open.cait518.cc/studydown-support/support.html)
 - [Privacy policy](https://open.cait518.cc/studydown-support/privacy.html)
 
+<!-- sqe-blitz:start -->
+- [공부 타이머 앱: 다운로드 전에 묻는 질문 (한국어)](https://open.cait518.cc/studydown-support/gongbu-timer-app-qa.ko.html)
+<!-- sqe-blitz:end -->
+
 <!-- ls-llms: managed by support_network/gen_support_crosspromo.py -->
