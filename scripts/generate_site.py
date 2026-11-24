@@ -11,7 +11,7 @@ from typing import Any
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 SOURCE_DIR = ROOT / "source" / "locales"
-BASE_URL = "https://alice51849.github.io/studydown-support/"
+BASE_URL = "https://open.cait518.cc/studydown-support/"
 ASSET_ROOT = "/studydown-support/assets/"
 EMAIL = "hourstag.app@gmail.com"
 UPDATED = "2026-09-05"
