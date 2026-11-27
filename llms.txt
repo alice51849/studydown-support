@@ -16,6 +16,7 @@
 
 <!-- sqe-blitz:start -->
 - [공부 타이머 앱: 다운로드 전에 묻는 질문 (한국어)](https://open.cait518.cc/studydown-support/gongbu-timer-app-qa.ko.html)
+- [공부 타이머 대체 앱 고르는 법: 혼자 쓰는 타이머가 맞는 경우와 아닌 경우 (한국어)](https://open.cait518.cc/studydown-support/gongbu-timer-daeche-app.ko.html)
 - [Face-down study timer or something else? When it fits vs. stopwatch, Focus, blockers, Pomodoro, paper (English)](https://open.cait518.cc/studydown-support/face-down-study-timer-alternatives.html)
 - [What is Studydown? Face-down study timer: who it is for, pricing, differences (English)](https://open.cait518.cc/studydown-support/what-is-studydown.html)
 <!-- sqe-blitz:end -->

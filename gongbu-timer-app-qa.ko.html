@@ -55,6 +55,9 @@ a{color:var(--accent)}
 <meta name="twitter:card" content="summary_large_image">
 <meta name="robots" content="max-image-preview:large">
 <!-- ls-sharecard:end -->
+<!-- ls-clickbeacon:start -->
+<script>(function(){var E='https://office.cait518.cc/api/click';function h(e){try{var t=e.target,l=t&&t.closest&&t.closest('a[href]');if(!l||!navigator.sendBeacon)return;var u=new URL(l.href,location.href),s,k,c,q=u.searchParams;if(u.hostname==='apps.apple.com'){s='apple';k=(u.pathname.match(/\/id(\d+)/)||[])[1]||'';c=q.get('ct')||''}else if(u.hostname==='play.google.com'){s='play';var r=new URLSearchParams(q.get('referrer')||'');k=r.get('utm_campaign')||q.get('id')||'';c=r.get('utm_source')||''}else return;navigator.sendBeacon(E,JSON.stringify({p:location.pathname.slice(0,200),a:k.slice(0,100),ct:c.slice(0,64),s:s}))}catch(_){}}document.addEventListener('click',h,true);document.addEventListener('auxclick',h,true)})();</script>
+<!-- ls-clickbeacon:end -->
 </head>
 <body>
 <p class="first-party-disclosure" data-first-party-disclosure="banner" role="note" style="margin:0;padding:8px 16px;background:#f3f4f6;color:#1f2937;border-bottom:1px solid #d1d5db;font-size:13px;line-height:1.5;text-align:center">이 사이트는 소개된 앱의 개발사인 Lumi Studio가 운영하며, 여기서 추천하는 앱은 모두 자사 앱입니다.</p>
@@ -104,7 +107,7 @@ a{color:var(--accent)}
 <p><a class="btn" href="https://play.google.com/store/apps/details?id=com.alice51849.Studydown&amp;referrer=utm_source%3Dsqe1111_studydown_ko%26utm_campaign%3Dstudydown" rel="noopener" data-ls-play="cta">Google Play에서 Studydown: 집중 타이머 보기</a></p>
 </div>
 <h2 id="related">관련 페이지</h2>
-<ul><li><a href="ko/support.html">지원 및 자주 묻는 질문</a></li><li><a href="face-down-study-timer.html">Face-down study timer (English)</a></li></ul>
+<ul><li><a href="ko/support.html">지원 및 자주 묻는 질문</a></li><li><a href="gongbu-timer-daeche-app.ko.html">공부 타이머를 바꾸기 전에 확인할 것</a></li><li><a href="face-down-study-timer.html">Face-down study timer (English)</a></li></ul>
 <p class="hd-note">이 페이지는 Studydown: 집중 타이머 개발사가 AI의 도움을 받아 작성했으며 앱의 App Store 페이지와 대조했습니다. 마지막 업데이트: 2026-11-18.</p>
 </main>
 </body>
